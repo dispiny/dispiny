@@ -1,3 +1,4 @@
+# I believe in my skills 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Jongmin%Park&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
 
 <p>  
@@ -7,9 +8,8 @@
 </p>
 
   
-### 👋 Hi there! My dream is to become a **Cloud Solution Architect** in Amazon Web Service 🔥.<br>
-### I mainly use the Amazon Web Server(AWS) cloud platform.  
-##### I believe in my skills
+### 👋 Hi there! My dream is to become a **Cloud Solution Architect** in Amazon Web Service 🔥 <br> 
+❤️ I mainly use the Amazon Web Server(AWS) cloud platform. ❤️
 
 <h3>👩‍💻 My Github Stats 👩‍💻</h3>
 <div>
