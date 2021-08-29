@@ -14,12 +14,10 @@
 
 
 <h3>👩‍💻 My Github Stats 👩‍💻</h3>
+
 <div>
-
 ![dispiny's GitHub stats](https://github-readme-stats.vercel.app/api?username=dispiny&show_icons=true&theme=dracula)
-
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=eaniya198)](https://solved.ac/profile/eaniya198)
-
 </div>
 
 <h3><img src='https://emojipedia-us.s3.amazonaws.com/source/skype/289/thumbs-up_1f44d.png' width="20" height="20"> My Tech</h3>
@@ -33,5 +31,4 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Go-11B48A?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp 
-</p>
 </p>
