@@ -6,6 +6,7 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdispiny%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   <a href="https://www.instagram.com/p.jm_b/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/p.jm_b/"/></a>&nbsp
   <a href="mailto:pjm1024cl@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=pjm1024cl@gmail.com"/></a>
+  <a href="mailto:pjm1024cl@gmail.com"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=eaniya198"/></a>
 </p>
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=160&section=header&text=Jongmin%Park&fontAlign=50&fontAlignY=45&fontSize=60&fontColor=ffffff&animation=scaleIn)
@@ -15,10 +16,10 @@
 
 <h3>👩‍💻 My Github Stats 👩‍💻</h3>
 
-<div>
-![dispiny's GitHub stats](https://github-readme-stats.vercel.app/api?username=dispiny&show_icons=true&theme=dracula)
+
+![dispiny's GitHub stats](https://github-readme-stats.vercel.app/api?username=dispiny&show_icons=true&theme=dracula) 
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=eaniya198)](https://solved.ac/profile/eaniya198)
-</div>
+
 
 <h3><img src='https://emojipedia-us.s3.amazonaws.com/source/skype/289/thumbs-up_1f44d.png' width="20" height="20"> My Tech</h3>
 <p align="left">
