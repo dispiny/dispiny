@@ -1,5 +1,5 @@
 # I believe in my skills 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=160&section=header&text=Jongmin%Park&fontAlign=50&fontAlignY=45&fontSize=70&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=160&section=header&text=Jongmin%Park&fontAlign=50&fontAlignY=45&fontSize=60&fontColor=ffffff&animation=scaleIn)
 
 <p>  
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdispiny%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
