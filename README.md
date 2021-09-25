@@ -61,7 +61,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" />  
+<img style="margin: 10px" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FyjORd%2FbtqCQnSU1bX%2FsiNi6KzlaKYHfcMhFGSvCk%2Fimg.png" alt="Terraform" height="50" />
+<img style="margin: 10px" src="https://cncf-branding.netlify.app/img/projects/crio/icon/color/crio-icon-color.png" alt="Cri-O" height="50" />
 </div>
 
 </td></tr></table>  
