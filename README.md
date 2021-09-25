@@ -10,7 +10,7 @@
 - 🔭 I am preparing to win a gold medal in the Worldskills competition.  
   
 
-- 🌱 I’m currently learning Golang and Kubernetes  
+- 🌱 I’m currently learning Kubernetes, CRI-O and Go
   
 
 - ❓ Ask me about anything related to Amazon Web Server stack and related technologies  
