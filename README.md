@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New – Amazon Genomics CLI Is Now Open Source and Generally Available](https://aws.amazon.com/blogs/aws/new-amazon-genomics-cli-is-now-open-source-and-generally-available/)
 - [New for Amazon Connect: Voice ID, Wisdom, and Outbound Communications](https://aws.amazon.com/blogs/aws/three-new-capabilities-for-amazon-connect/)
 - [Amazon QuickSight Q – Business Intelligence Using Natural Language Questions](https://aws.amazon.com/blogs/aws/amazon-quicksight-q-business-intelligence-using-natural-language-questions/)
 - [AWS Cloud Builders – Career Transformation & Personal Growth](https://aws.amazon.com/blogs/aws/aws-cloud-builders-career-transformation-personal-growth/)
 - [New for AWS Distro for OpenTelemetry – Tracing Support is Now Generally Available](https://aws.amazon.com/blogs/aws/new-for-aws-distro-for-opentelemetry-tracing-support-is-now-generally-available/)
-- [In the Works – AWS Region in New Zealand](https://aws.amazon.com/blogs/aws/in-the-works-aws-region-in-new-zealand/)
 <!-- BLOG-POST-LIST:END -->  
