@@ -2,7 +2,6 @@
 <!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /> -->
 <img src="https://cdna.artstation.com/p/assets/images/images/012/908/058/original/lofe-earth-cat.gif?1537133051" align="center" style="width: 70%"/>
 </div>  
-  
 
 ### **<div align="center">👋 Hi there! My dream is to become a Cloud Solution Architect in<br>🔥 Amazon Web Service 🔥</div>**  
   
@@ -14,6 +13,9 @@
   
 
 - ❓ Ask me about anything related to Amazon Web Server stack and related technologies  
+
+
+<img src="https://komarev.com/ghpvc/?username=dispiny&&style=flat-square" align="center" />
   
 
 <br/>  
@@ -86,18 +88,7 @@
 </a>  
 </div>  
   
-
 <br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dispiny&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
@@ -107,28 +98,3 @@
 - [In the Works – AWS Region in New Zealand](https://aws.amazon.com/blogs/aws/in-the-works-aws-region-in-new-zealand/)
 - [Scaling Ad Verification with Machine Learning and AWS Inferentia](https://aws.amazon.com/blogs/aws/scaling-ad-verification-with-machine-learning-and-aws-inferentia/)
 <!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=dispiny&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/dispiny" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
