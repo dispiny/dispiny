@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New – AWS Data Exchange for Amazon Redshift](https://aws.amazon.com/blogs/aws/new-aws-data-exchange-for-amazon-redshift/)
 - [VMware Cloud on AWS Outposts Brings VMware SDDC as a Fully Managed Service on Premises](https://aws.amazon.com/blogs/aws/vmware-cloud-on-aws-outposts-brings-vmware-sddc-as-a-fully-managed-service-on-premises/)
 - [AWS Cloud Control API, a Uniform API to Access AWS & Third-Party Services](https://aws.amazon.com/blogs/aws/announcing-aws-cloud-control-api/)
 - [Now — AWS Step Functions Supports 200 AWS Services To Enable Easier Workflow Automation](https://aws.amazon.com/blogs/aws/now-aws-step-functions-supports-200-aws-services-to-enable-easier-workflow-automation/)
 - [AWS Lambda Functions Powered by AWS Graviton2 Processor – Run Your Functions on Arm and Get Up to 34% Better Price Performance](https://aws.amazon.com/blogs/aws/aws-lambda-functions-powered-by-aws-graviton2-processor-run-your-functions-on-arm-and-get-up-to-34-better-price-performance/)
-- [Amazon Managed Service for Prometheus Is Now Generally Available with Alert Manager and Ruler](https://aws.amazon.com/blogs/aws/amazon-managed-service-for-prometheus-is-now-generally-available-with-alert-manager-and-ruler/)
 <!-- BLOG-POST-LIST:END -->  
