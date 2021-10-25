@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Help Make BugBusting History at AWS re:Invent 2021](https://aws.amazon.com/blogs/aws/help-make-bugbusting-history-at-aws-reinvent-2021/)
+- [New Strategy Recommendations Service Helps Streamline AWS Cloud Migration and Modernization](https://aws.amazon.com/blogs/aws/new-strategy-recommendations-service-helps-streamline-aws-cloud-migration-and-modernization/)
 - [Computer Vision at the Edge with AWS Panorama](https://aws.amazon.com/blogs/aws/computer-vision-at-the-edge-with-aws-panorama/)
 - [New – AWS Data Exchange for Amazon Redshift](https://aws.amazon.com/blogs/aws/new-aws-data-exchange-for-amazon-redshift/)
 - [VMware Cloud on AWS Outposts Brings VMware SDDC as a Fully Managed Service on Premises](https://aws.amazon.com/blogs/aws/vmware-cloud-on-aws-outposts-brings-vmware-sddc-as-a-fully-managed-service-on-premises/)
-- [AWS Cloud Control API, a Uniform API to Access AWS & Third-Party Services](https://aws.amazon.com/blogs/aws/announcing-aws-cloud-control-api/)
-- [Now — AWS Step Functions Supports 200 AWS Services To Enable Easier Workflow Automation](https://aws.amazon.com/blogs/aws/now-aws-step-functions-supports-200-aws-services-to-enable-easier-workflow-automation/)
 <!-- BLOG-POST-LIST:END -->  
