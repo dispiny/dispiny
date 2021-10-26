@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New – EC2 Instances Powered by Gaudi Accelerators for Training Deep Learning Models](https://aws.amazon.com/blogs/aws/new-ec2-instances-powered-by-gaudi-accelerators-for-training-deep-learning-models/)
 - [AWS Local Zones Are Now Open in Las Vegas, New York City, and Portland](https://aws.amazon.com/blogs/aws/aws-local-zones-are-now-open-in-las-vegas-new-york-city-and-portland/)
 - [Amazon RDS Custom for Oracle – New Control Capabilities in Database Environment](https://aws.amazon.com/blogs/aws/amazon-rds-custom-for-oracle-new-control-capabilities-in-database-environment/)
 - [Help Make BugBusting History at AWS re:Invent 2021](https://aws.amazon.com/blogs/aws/help-make-bugbusting-history-at-aws-reinvent-2021/)
 - [New Strategy Recommendations Service Helps Streamline AWS Cloud Migration and Modernization](https://aws.amazon.com/blogs/aws/new-strategy-recommendations-service-helps-streamline-aws-cloud-migration-and-modernization/)
-- [Computer Vision at the Edge with AWS Panorama](https://aws.amazon.com/blogs/aws/computer-vision-at-the-edge-with-aws-panorama/)
 <!-- BLOG-POST-LIST:END -->  
