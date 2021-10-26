@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Amazon RDS Custom for Oracle – New Control Capabilities in Database Environment](https://aws.amazon.com/blogs/aws/amazon-rds-custom-for-oracle-new-control-capabilities-in-database-environment/)
 - [Help Make BugBusting History at AWS re:Invent 2021](https://aws.amazon.com/blogs/aws/help-make-bugbusting-history-at-aws-reinvent-2021/)
 - [New Strategy Recommendations Service Helps Streamline AWS Cloud Migration and Modernization](https://aws.amazon.com/blogs/aws/new-strategy-recommendations-service-helps-streamline-aws-cloud-migration-and-modernization/)
 - [Computer Vision at the Edge with AWS Panorama](https://aws.amazon.com/blogs/aws/computer-vision-at-the-edge-with-aws-panorama/)
 - [New – AWS Data Exchange for Amazon Redshift](https://aws.amazon.com/blogs/aws/new-aws-data-exchange-for-amazon-redshift/)
-- [VMware Cloud on AWS Outposts Brings VMware SDDC as a Fully Managed Service on Premises](https://aws.amazon.com/blogs/aws/vmware-cloud-on-aws-outposts-brings-vmware-sddc-as-a-fully-managed-service-on-premises/)
 <!-- BLOG-POST-LIST:END -->  
