@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New – Amazon EC2 R6i Memory-Optimized Instances Powered by the Latest Generation Intel Xeon Scalable Processors](https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6i-memory-optimized-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/)
 - [Scalable, Cost-Effective Disaster Recovery in the Cloud](https://aws.amazon.com/blogs/aws/scalable-cost-effective-disaster-recovery-in-the-cloud/)
 - [Meet the latest AWS Heroes – November 2021](https://aws.amazon.com/blogs/aws/meet-the-latest-aws-heroes-november-2021/)
 - [New – EC2 Instances &lpar;G5&rpar; with NVIDIA A10G Tensor Core GPUs](https://aws.amazon.com/blogs/aws/new-ec2-instances-g5-with-nvidia-a10g-tensor-core-gpus/)
 - [Measure and Improve Your Application Resilience with AWS Resilience Hub](https://aws.amazon.com/blogs/aws/monitor-and-improve-your-application-resiliency-with-resilience-hub/)
-- [In The Works – AWS Canada West &lpar;Calgary&rpar; Region](https://aws.amazon.com/blogs/aws/in-the-works-aws-canada-west-calgary-region/)
 <!-- BLOG-POST-LIST:END -->  
