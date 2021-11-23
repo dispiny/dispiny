@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Announcing AWS Graviton2 Support for AWS Fargate – Get up to 40% Better Price-Performance for Your Serverless Containers](https://aws.amazon.com/blogs/aws/announcing-aws-graviton2-support-for-aws-fargate-get-up-to-40-better-price-performance-for-your-serverless-containers/)
 - [AWS Cloud Adoption Framework &lpar;CAF&rpar; 3.0 is Now Available](https://aws.amazon.com/blogs/aws/aws-cloud-adoption-framework-caf-3-0-is-now-available/)
 - [New – Amazon EC2 R6i Memory-Optimized Instances Powered by the Latest Generation Intel Xeon Scalable Processors](https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6i-memory-optimized-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/)
 - [Scalable, Cost-Effective Disaster Recovery in the Cloud](https://aws.amazon.com/blogs/aws/scalable-cost-effective-disaster-recovery-in-the-cloud/)
 - [Meet the latest AWS Heroes – November 2021](https://aws.amazon.com/blogs/aws/meet-the-latest-aws-heroes-november-2021/)
-- [New – EC2 Instances &lpar;G5&rpar; with NVIDIA A10G Tensor Core GPUs](https://aws.amazon.com/blogs/aws/new-ec2-instances-g5-with-nvidia-a10g-tensor-core-gpus/)
 <!-- BLOG-POST-LIST:END -->  
