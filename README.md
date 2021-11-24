@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New – AWS Proton Supports Terraform and Git Repositories to Manage Templates](https://aws.amazon.com/blogs/aws/new-aws-proton-supports-terraform-and-git-repositories-to-manage-templates/)
 - [AWS Free Tier Data Transfer Expansion – 100 GB From Regions and 1 TB From Amazon CloudFront Per Month](https://aws.amazon.com/blogs/aws/aws-free-tier-data-transfer-expansion-100-gb-from-regions-and-1-tb-from-amazon-cloudfront-per-month/)
 - [Announcing AWS Graviton2 Support for AWS Fargate – Get up to 40% Better Price-Performance for Your Serverless Containers](https://aws.amazon.com/blogs/aws/announcing-aws-graviton2-support-for-aws-fargate-get-up-to-40-better-price-performance-for-your-serverless-containers/)
 - [AWS Cloud Adoption Framework &lpar;CAF&rpar; 3.0 is Now Available](https://aws.amazon.com/blogs/aws/aws-cloud-adoption-framework-caf-3-0-is-now-available/)
 - [New – Amazon EC2 R6i Memory-Optimized Instances Powered by the Latest Generation Intel Xeon Scalable Processors](https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6i-memory-optimized-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/)
-- [Scalable, Cost-Effective Disaster Recovery in the Cloud](https://aws.amazon.com/blogs/aws/scalable-cost-effective-disaster-recovery-in-the-cloud/)
 <!-- BLOG-POST-LIST:END -->  
