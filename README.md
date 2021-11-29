@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [re:Invent Session Preview – Under the Hood at Amazon Ads](https://aws.amazon.com/blogs/aws/reinvent-session-preview-under-the-hood-at-amazon-ads/)
 - [Top Announcements of AWS re:Invent 2021](https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2021/)
 - [Amazon CodeGuru Reviewer Introduces Secrets Detector to Identify Hardcoded Secrets and Secure Them with AWS Secrets Manager](https://aws.amazon.com/blogs/aws/codeguru-reviewer-secrets-detector-identify-hardcoded-secrets/)
 - [Preview – AWS IoT RoboRunner for Building Robot Fleet Management Applications](https://aws.amazon.com/blogs/aws/preview-aws-iot-roborunner-for-building-robot-fleet-management-applications/)
 - [New – AWS Proton Supports Terraform and Git Repositories to Manage Templates](https://aws.amazon.com/blogs/aws/new-aws-proton-supports-terraform-and-git-repositories-to-manage-templates/)
-- [AWS Free Tier Data Transfer Expansion – 100 GB From Regions and 1 TB From Amazon CloudFront Per Month](https://aws.amazon.com/blogs/aws/aws-free-tier-data-transfer-expansion-100-gb-from-regions-and-1-tb-from-amazon-cloudfront-per-month/)
 <!-- BLOG-POST-LIST:END -->  
