@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
-- [Announcing Amazon SageMaker Canvas – a Visual, No Code Machine Learning Capability for Business Analysts](https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-canvas-a-visual-no-code-machine-learning-capability-for-business-analysts/)
-- [Amazon Kinesis Data Streams On-Demand – Stream Data at Scale Without Managing Capacity](https://aws.amazon.com/blogs/aws/amazon-kinesis-data-streams-on-demand-stream-data-at-scale-without-managing-capacity/)
-- [Introducing Amazon Redshift Serverless – Run Analytics At Any Scale Without Having to Manage Data Warehouse Infrastructure](https://aws.amazon.com/blogs/aws/introducing-amazon-redshift-serverless-run-analytics-at-any-scale-without-having-to-manage-infrastructure/)
-- [AWS Lake Formation – General Availability of Cell-Level Security and Governed Tables with Automatic Compaction](https://aws.amazon.com/blogs/aws/aws-lake-formation-general-availability-of-cell-level-security-and-governed-tables-with-automatic-compaction/)
-- [Join the Preview – Amazon EC2 C7g Instances Powered by New AWS Graviton3 Processors](https://aws.amazon.com/blogs/aws/join-the-preview-amazon-ec2-c7g-instances-powered-by-new-aws-graviton3-processors/)
+- [AWS Nitro SSD – High Performance Storage for your I/O-Intensive Applications](https://aws.amazon.com/blogs/aws/aws-nitro-ssd-high-performance-storage-for-your-i-o-intensive-applications/)
+- [New Storage-Optimized Amazon EC2 Instances &lpar;Im4gn and Is4gen&rpar; Powered by AWS Graviton2 Processors](https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-instances-im4gn-and-is4gen-powered-by-aws-graviton2-processors/)
+- [Machine Learning-Powered Amazon Connect, Now With Call Summarization](https://aws.amazon.com/blogs/aws/machine-learning-powered-amazon-connect-now-with-call-summarization/)
+- [New for AWS Control Tower – Region Deny and Guardrails to Help You Meet Data Residency Requirements](https://aws.amazon.com/blogs/aws/new-for-aws-control-tower-region-deny-and-guardrails-to-help-you-meet-data-residency-requirements/)
+- [New – AWS Outposts Servers in Two Form Factors](https://aws.amazon.com/blogs/aws/new-aws-outposts-servers-in-two-form-factors/)
 <!-- BLOG-POST-LIST:END -->  
