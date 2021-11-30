@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Announcing Amazon SageMaker Canvas – a Visual, No Code Machine Learning Capability for Business Analysts](https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-canvas-a-visual-no-code-machine-learning-capability-for-business-analysts/)
+- [Amazon Kinesis Data Streams On-Demand – Stream Data at Scale Without Managing Capacity](https://aws.amazon.com/blogs/aws/amazon-kinesis-data-streams-on-demand-stream-data-at-scale-without-managing-capacity/)
+- [Introducing Amazon Redshift Serverless – Run Analytics At Any Scale Without Having to Manage Data Warehouse Infrastructure](https://aws.amazon.com/blogs/aws/introducing-amazon-redshift-serverless-run-analytics-at-any-scale-without-having-to-manage-infrastructure/)
+- [AWS Lake Formation – General Availability of Cell-Level Security and Governed Tables with Automatic Compaction](https://aws.amazon.com/blogs/aws/aws-lake-formation-general-availability-of-cell-level-security-and-governed-tables-with-automatic-compaction/)
 - [Join the Preview – Amazon EC2 C7g Instances Powered by New AWS Graviton3 Processors](https://aws.amazon.com/blogs/aws/join-the-preview-amazon-ec2-c7g-instances-powered-by-new-aws-graviton3-processors/)
-- [New – Use Amazon S3 Event Notifications with Amazon EventBridge](https://aws.amazon.com/blogs/aws/new-use-amazon-s3-event-notifications-with-amazon-eventbridge/)
-- [New – Amazon EBS Snapshots Archive](https://aws.amazon.com/blogs/aws/new-amazon-ebs-snapshots-archive/)
-- [New – AWS Control Tower Account Factory for Terraform](https://aws.amazon.com/blogs/aws/new-aws-control-tower-account-factory-for-terraform/)
-- [New – Recycle Bin for EBS Snapshots](https://aws.amazon.com/blogs/aws/new-recycle-bin-for-ebs-snapshots/)
 <!-- BLOG-POST-LIST:END -->  
