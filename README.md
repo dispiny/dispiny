@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Announcing Amazon SageMaker Inference Recommender](https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-inference-recommender/)
+- [New – Introducing SageMaker Training Compiler](https://aws.amazon.com/blogs/aws/new-introducing-sagemaker-training-compiler/)
+- [New – Create and Manage EMR Clusters and Spark Jobs with Amazon SageMaker Studio](https://aws.amazon.com/blogs/aws/new-create-and-manage-emr-clusters-and-spark-jobs-with-amazon-sagemaker-studio/)
+- [Announcing Amazon SageMaker Ground Truth Plus](https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-ground-truth-plus/)
 - [New DynamoDB Table Class – Save Up To 60% in Your DynamoDB Costs](https://aws.amazon.com/blogs/aws/new-dynamodb-table-class-save-up-to-60-in-your-dynamodb-costs/)
-- [New – Amazon RDS Custom for SQL Server Is Generally Available](https://aws.amazon.com/blogs/aws/new-amazon-rds-custom-for-sql-server-is-generally-available/)
-- [New – Amazon DevOps Guru for RDS to Detect, Diagnose, and Resolve Amazon Aurora-Related Issues using ML](https://aws.amazon.com/blogs/aws/new-amazon-devops-guru-for-rds-to-detect-diagnose-and-resolve-amazon-aurora-related-issues-using-ml/)
-- [Enhanced Amazon S3 Integration for Amazon FSx for Lustre](https://aws.amazon.com/blogs/aws/enhanced-amazon-s3-integration-for-amazon-fsx-for-lustre/)
-- [New – Offline Tape Migration Using AWS Snowball Edge](https://aws.amazon.com/blogs/aws/new-offline-tape-migration-using-aws-snowball-edge/)
 <!-- BLOG-POST-LIST:END -->  
