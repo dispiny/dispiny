@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New DynamoDB Table Class – Save Up To 60% in Your DynamoDB Costs](https://aws.amazon.com/blogs/aws/new-dynamodb-table-class-save-up-to-60-in-your-dynamodb-costs/)
+- [New – Amazon RDS Custom for SQL Server Is Generally Available](https://aws.amazon.com/blogs/aws/new-amazon-rds-custom-for-sql-server-is-generally-available/)
+- [New – Amazon DevOps Guru for RDS to Detect, Diagnose, and Resolve Amazon Aurora-Related Issues using ML](https://aws.amazon.com/blogs/aws/new-amazon-devops-guru-for-rds-to-detect-diagnose-and-resolve-amazon-aurora-related-issues-using-ml/)
 - [Enhanced Amazon S3 Integration for Amazon FSx for Lustre](https://aws.amazon.com/blogs/aws/enhanced-amazon-s3-integration-for-amazon-fsx-for-lustre/)
 - [New – Offline Tape Migration Using AWS Snowball Edge](https://aws.amazon.com/blogs/aws/new-offline-tape-migration-using-aws-snowball-edge/)
-- [Preview – AWS Backup Adds Support for Amazon S3](https://aws.amazon.com/blogs/aws/preview-aws-backup-adds-support-for-amazon-s3/)
-- [Amazon S3 Glacier is the Best Place to Archive Your Data – Introducing the S3 Glacier Instant Retrieval Storage Class](https://aws.amazon.com/blogs/aws/amazon-s3-glacier-is-the-best-place-to-archive-your-data-introducing-the-s3-glacier-instant-retrieval-storage-class/)
-- [New – Simplify Access Management for Data Stored in Amazon S3](https://aws.amazon.com/blogs/aws/new-simplify-access-management-for-data-stored-in-amazon-s3/)
 <!-- BLOG-POST-LIST:END -->  
