@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
-- [AWS Nitro SSD – High Performance Storage for your I/O-Intensive Applications](https://aws.amazon.com/blogs/aws/aws-nitro-ssd-high-performance-storage-for-your-i-o-intensive-applications/)
-- [New Storage-Optimized Amazon EC2 Instances &lpar;Im4gn and Is4gen&rpar; Powered by AWS Graviton2 Processors](https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-instances-im4gn-and-is4gen-powered-by-aws-graviton2-processors/)
-- [Machine Learning-Powered Amazon Connect, Now With Call Summarization](https://aws.amazon.com/blogs/aws/machine-learning-powered-amazon-connect-now-with-call-summarization/)
-- [New for AWS Control Tower – Region Deny and Guardrails to Help You Meet Data Residency Requirements](https://aws.amazon.com/blogs/aws/new-for-aws-control-tower-region-deny-and-guardrails-to-help-you-meet-data-residency-requirements/)
-- [New – AWS Outposts Servers in Two Form Factors](https://aws.amazon.com/blogs/aws/new-aws-outposts-servers-in-two-form-factors/)
+- [Enhanced Amazon S3 Integration for Amazon FSx for Lustre](https://aws.amazon.com/blogs/aws/enhanced-amazon-s3-integration-for-amazon-fsx-for-lustre/)
+- [New – Offline Tape Migration Using AWS Snowball Edge](https://aws.amazon.com/blogs/aws/new-offline-tape-migration-using-aws-snowball-edge/)
+- [Preview – AWS Backup Adds Support for Amazon S3](https://aws.amazon.com/blogs/aws/preview-aws-backup-adds-support-for-amazon-s3/)
+- [Amazon S3 Glacier is the Best Place to Archive Your Data – Introducing the S3 Glacier Instant Retrieval Storage Class](https://aws.amazon.com/blogs/aws/amazon-s3-glacier-is-the-best-place-to-archive-your-data-introducing-the-s3-glacier-instant-retrieval-storage-class/)
+- [New – Simplify Access Management for Data Stored in Amazon S3](https://aws.amazon.com/blogs/aws/new-simplify-access-management-for-data-stored-in-amazon-s3/)
 <!-- BLOG-POST-LIST:END -->  
