@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
-- [New AWS Scholarship Program Helps Underrepresented and Underserved Students Prep for Careers in AI and ML](https://aws.amazon.com/blogs/aws/new-aws-scholarship-program-helps-underrepresented-and-underserved-students-prep-for-careers-in-ai-and-ml/)
-- [Now in Preview – Amazon SageMaker Studio Lab, a Free Service to Learn and Experiment with ML](https://aws.amazon.com/blogs/aws/now-in-preview-amazon-sagemaker-studio-lab-a-free-service-to-learn-and-experiment-with-ml/)
-- [Announcing Amazon SageMaker Inference Recommender](https://aws.amazon.com/blogs/aws/announcing-amazon-sagemaker-inference-recommender/)
-- [New – Introducing SageMaker Training Compiler](https://aws.amazon.com/blogs/aws/new-introducing-sagemaker-training-compiler/)
-- [New – Create and Manage EMR Clusters and Spark Jobs with Amazon SageMaker Studio](https://aws.amazon.com/blogs/aws/new-create-and-manage-emr-clusters-and-spark-jobs-with-amazon-sagemaker-studio/)
+- [New – Site-to-Site Connectivity with AWS Direct Connect SiteLink](https://aws.amazon.com/blogs/aws/new-site-to-site-connectivity-with-aws-direct-connect-sitelink/)
+- [New – Enhanced Dead-letter Queue Management Experience for Amazon SQS Standard Queues](https://aws.amazon.com/blogs/aws/enhanced-dlq-management-sqs/)
+- [Network Address Management and Auditing at Scale with Amazon VPC IP Address Manager](https://aws.amazon.com/blogs/aws/network-address-management-and-auditing-at-scale-with-amazon-vpc-ip-address-manager/)
+- [New – Amazon VPC Network Access Analyzer](https://aws.amazon.com/blogs/aws/new-amazon-vpc-network-access-analyzer/)
+- [AWS Shield Advanced Update – Automatic Application Layer DDoS Mitigation](https://aws.amazon.com/blogs/aws/aws-shield-advanced-update-automatic-application-layer-ddos-mitigation/)
 <!-- BLOG-POST-LIST:END -->  
