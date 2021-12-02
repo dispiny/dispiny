@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Use New Amazon EC2 M1 Mac Instances to Build &amp; Test Apps for iPhone, iPad, Mac, Apple Watch, and Apple TV](https://aws.amazon.com/blogs/aws/use-amazon-ec2-m1-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/)
 - [New – Site-to-Site Connectivity with AWS Direct Connect SiteLink](https://aws.amazon.com/blogs/aws/new-site-to-site-connectivity-with-aws-direct-connect-sitelink/)
 - [New – Enhanced Dead-letter Queue Management Experience for Amazon SQS Standard Queues](https://aws.amazon.com/blogs/aws/enhanced-dlq-management-sqs/)
 - [Network Address Management and Auditing at Scale with Amazon VPC IP Address Manager](https://aws.amazon.com/blogs/aws/network-address-management-and-auditing-at-scale-with-amazon-vpc-ip-address-manager/)
 - [New – Amazon VPC Network Access Analyzer](https://aws.amazon.com/blogs/aws/new-amazon-vpc-network-access-analyzer/)
-- [AWS Shield Advanced Update – Automatic Application Layer DDoS Mitigation](https://aws.amazon.com/blogs/aws/aws-shield-advanced-update-automatic-application-layer-ddos-mitigation/)
 <!-- BLOG-POST-LIST:END -->  
