@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New – Replication for Amazon Elastic File System &lpar;EFS&rpar;](https://aws.amazon.com/blogs/aws/new-replication-for-amazon-elastic-file-system-efs/)
 - [Amazon GuardDuty Enhances Detection of EC2 Instance Credential Exfiltration](https://aws.amazon.com/blogs/aws/amazon-guardduty-enhances-detection-of-ec2-instance-credential-exfiltration/)
 - [A New AWS Console Home Experience](https://aws.amazon.com/blogs/aws/a-new-aws-console-home-experience/)
 - [New – Amazon EC2 Hpc6a Instance Optimized for High Performance Computing](https://aws.amazon.com/blogs/aws/new-amazon-ec2-hpc6a-instance-optimized-for-high-performance-computing/)
 - [Amazon Elastic Kubernetes Service Adds IPv6 Networking](https://aws.amazon.com/blogs/aws/amazon-elastic-kubernetes-service-adds-ipv6-networking/)
-- [Now Open – AWS Asia Pacific &lpar;Jakarta&rpar; Region](https://aws.amazon.com/blogs/aws/now-open-aws-asia-pacific-jakarta-region/)
 <!-- BLOG-POST-LIST:END -->  
