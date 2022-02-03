@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Demonstrate your AWS Cloud Storage knowledge and skills with new digital badges!](https://aws.amazon.com/blogs/aws/demonstrate-your-aws-cloud-storage-knowledge-and-skills-with-new-digital-badges/)
 - [New – Amazon EC2 X2iezn Instances Powered by the Fastest Intel Xeon Scalable CPU for Memory-Intensive Workloads](https://aws.amazon.com/blogs/aws/new-amazon-ec2-x2iezn-instances-powered-by-the-fastest-intel-xeon-scalable-cpu-for-memory-intensive-workloads/)
 - [New – Replication for Amazon Elastic File System &lpar;EFS&rpar;](https://aws.amazon.com/blogs/aws/new-replication-for-amazon-elastic-file-system-efs/)
 - [Amazon GuardDuty Enhances Detection of EC2 Instance Credential Exfiltration](https://aws.amazon.com/blogs/aws/amazon-guardduty-enhances-detection-of-ec2-instance-credential-exfiltration/)
 - [A New AWS Console Home Experience](https://aws.amazon.com/blogs/aws/a-new-aws-console-home-experience/)
-- [New – Amazon EC2 Hpc6a Instance Optimized for High Performance Computing](https://aws.amazon.com/blogs/aws/new-amazon-ec2-hpc6a-instance-optimized-for-high-performance-computing/)
 <!-- BLOG-POST-LIST:END -->  
