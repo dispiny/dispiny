@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Get to know the first AWS Heroes of 2022!](https://aws.amazon.com/blogs/aws/get-to-know-the-first-aws-heroes-of-2022/)
 - [AWS Week in Review – March 14, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-14-2022/)
 - [Welcome to AWS Pi Day 2022](https://aws.amazon.com/blogs/aws/welcome-to-aws-pi-day-2022/)
 - [New – Amazon EC2 X2idn and X2iedn Instances for Memory-Intensive Workloads with Higher Network Bandwidth](https://aws.amazon.com/blogs/aws/new-amazon-ec2-x2idn-and-x2iedn-instances-for-memory-intensive-workloads-with-higher-network-bandwidth/)
 - [Breaking the Bias – Women at AWS Developer Relations](https://aws.amazon.com/blogs/aws/breaking-the-bias-women-at-aws-developer-relations/)
-- [AWS Week in Review – March 7, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-7-2022/)
 <!-- BLOG-POST-LIST:END -->  
