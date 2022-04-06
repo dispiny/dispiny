@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Announcing AWS Lambda Function URLs: Built-in HTTPS Endpoints for Single-Function Microservices](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/)
 - [AWS Week in Review – April 4, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-april-4-2022/)
 - [New – Cloud NGFW for AWS](https://aws.amazon.com/blogs/aws/new-cloud-ngfw-for-aws/)
 - [AWS Week in Review – March 28, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-28-2022/)
 - [AWS Lambda Now Supports Up to 10 GB Ephemeral Storage](https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-up-to-10-gb-ephemeral-storage/)
-- [AWS Week in Review – March 21, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-21-2022/)
 <!-- BLOG-POST-LIST:END -->  
