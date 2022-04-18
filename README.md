@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Partner Network &lpar;APN&rpar; – 10 Years and Going Strong](https://aws.amazon.com/blogs/aws/aws-partner-network-apn-10-years-and-going-strong/)
 - [Amazon FSx for NetApp ONTAP Update – New Single-AZ Deployment Type](https://aws.amazon.com/blogs/aws/amazon-fsx-for-netapp-ontap-update-new-single-az-deployment-type/)
 - [AWS Week in Review – April 11, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-april-11-2022/)
 - [Announcing AWS Lambda Function URLs: Built-in HTTPS Endpoints for Single-Function Microservices](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/)
 - [AWS Week in Review – April 4, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-april-4-2022/)
-- [New – Cloud NGFW for AWS](https://aws.amazon.com/blogs/aws/new-cloud-ngfw-for-aws/)
 <!-- BLOG-POST-LIST:END -->  
