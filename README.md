@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Migration Hub Orchestrator – New Migration Orchestration Capability with Customizable Workflow Templates](https://aws.amazon.com/blogs/aws/aws-migration-hub-orchestrator-new-migration-orchestration-capability-with-customizable-workflow-templates/)
 - [AWS Week in Review – April 18, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-april-18-2022/)
 - [AWS Partner Network &lpar;APN&rpar; – 10 Years and Going Strong](https://aws.amazon.com/blogs/aws/aws-partner-network-apn-10-years-and-going-strong/)
 - [Amazon FSx for NetApp ONTAP Update – New Single-AZ Deployment Type](https://aws.amazon.com/blogs/aws/amazon-fsx-for-netapp-ontap-update-new-single-az-deployment-type/)
 - [AWS Week in Review – April 11, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-april-11-2022/)
-- [Announcing AWS Lambda Function URLs: Built-in HTTPS Endpoints for Single-Function Microservices](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/)
 <!-- BLOG-POST-LIST:END -->  
