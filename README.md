@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New AWS Wavelength Zone in Toronto – The First in Canada](https://aws.amazon.com/blogs/aws/new-aws-wavelength-zone-in-toronto-the-first-in-canada/)
 - [AWS Week in Review – April 25, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-april-25-2022/)
 - [Amazon SageMaker Serverless Inference – Machine Learning Inference without Worrying about Servers](https://aws.amazon.com/blogs/aws/amazon-sagemaker-serverless-inference-machine-learning-inference-without-worrying-about-servers/)
 - [Amazon Aurora Serverless v2 is Generally Available: Instant Scaling for Demanding Workloads](https://aws.amazon.com/blogs/aws/amazon-aurora-serverless-v2-is-generally-available-instant-scaling-for-demanding-workloads/)
 - [Announcing the General Availability of AWS Amplify Studio](https://aws.amazon.com/blogs/aws/announcing-the-general-availability-of-aws-amplify-studio/)
-- [AWS IoT TwinMaker Is Now Generally Available](https://aws.amazon.com/blogs/aws/aws-iot-twinmaker-is-now-generally-available/)
 <!-- BLOG-POST-LIST:END -->  
