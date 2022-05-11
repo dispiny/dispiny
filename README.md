@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Amazon EC2 Now Supports NitroTPM and UEFI Secure Boot](https://aws.amazon.com/blogs/aws/amazon-ec2-now-supports-nitrotpm-and-uefi-secure-boot/)
 - [AWS Week in Review – May 9, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-may-9-2022/)
 - [AWS Week in Review – May 2, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-may-2-2022/)
 - [Amazon MSK Serverless Now Generally Available–No More Capacity Planning for Your Managed Kafka Clusters](https://aws.amazon.com/blogs/aws/amazon-msk-serverless-now-generally-available-no-more-capacity-planning-for-your-managed-kafka-clusters/)
 - [New – Storage-Optimized Amazon EC2 Instances &lpar;I4i&rpar; Powered by Intel Xeon Scalable &lpar;Ice Lake&rpar; Processors](https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-instances-i4i-powered-by-intel-xeon-scalable-ice-lake-processors/)
-- [New AWS Wavelength Zone in Toronto – The First in Canada](https://aws.amazon.com/blogs/aws/new-aws-wavelength-zone-in-toronto-the-first-in-canada/)
 <!-- BLOG-POST-LIST:END -->  
