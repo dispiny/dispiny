@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Week In Review – May 23, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-may-27-2022/)
 - [AWS Backup Now Supports Amazon FSx for NetApp ONTAP](https://aws.amazon.com/blogs/aws/aws-backup-now-supports-amazon-fsx-for-netapp-ontap/)
 - [AWS Week in Review – May 16, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-may-16-2022/)
 - [Amazon EC2 Now Supports NitroTPM and UEFI Secure Boot](https://aws.amazon.com/blogs/aws/amazon-ec2-now-supports-nitrotpm-and-uefi-secure-boot/)
 - [AWS Week in Review – May 9, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-may-9-2022/)
-- [AWS Week in Review – May 2, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-may-2-2022/)
 <!-- BLOG-POST-LIST:END -->  
