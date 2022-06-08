@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS MGN Update – Configure DR, Convert CentOS Linux to Rocky Linux, and Convert SUSE Linux Subscription](https://aws.amazon.com/blogs/aws/aws-mgn-update-configure-dr-convert-centos-linux-to-rocky-linux-and-convert-suse-linux-subscription/)
 - [AWS Week In Review – June 6, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-june-6-2022/)
 - [Introducing the newest AWS Heroes – June 2022](https://aws.amazon.com/blogs/aws/introducing-the-newest-aws-heroes-june-2022/)
 - [Amazon EMR Serverless Now Generally Available – Run Big Data Applications without Managing Servers](https://aws.amazon.com/blogs/aws/amazon-emr-serverless-now-generally-available-run-big-data-applications-without-managing-servers/)
 - [AWS Week In Review – May 30, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-may-30-2022/)
-- [New – Amazon EC2 M6id and C6id Instances with Up to 7.6 TB Local NVMe Storage](https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6id-and-c6id-instances-with-up-to-7-6-tb-local-nvme-storage/)
 <!-- BLOG-POST-LIST:END -->  
