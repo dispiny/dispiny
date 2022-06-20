@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New – High Volume Outbound Communication with Amazon Connect Outbound Campaigns](https://aws.amazon.com/blogs/aws/new-high-volume-outbound-communication-with-amazon-connect-outbound-campaigns/)
 - [AWS Week in Review – June 20, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-june-20-2022/)
 - [AWS Week in Review – June 13, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-june-13-2022/)
 - [New – Amazon EC2 R6id Instances with NVMe Local Instance Storage of up to 7.6 TB](https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6id-instances/)
 - [Modernize Your Mainframe Applications &amp; Deploy Them In The Cloud](https://aws.amazon.com/blogs/aws/modernize-your-mainframe-applications-deploy-them-in-the-cloud/)
-- [AWS MGN Update – Configure DR, Convert CentOS Linux to Rocky Linux, and Convert SUSE Linux Subscription](https://aws.amazon.com/blogs/aws/aws-mgn-update-configure-dr-convert-centos-linux-to-rocky-linux-and-convert-suse-linux-subscription/)
 <!-- BLOG-POST-LIST:END -->  
