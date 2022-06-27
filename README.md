@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Week in Review – June 27, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-june-27-2022/)
 - [New – Amazon SageMaker Ground Truth Now Supports Synthetic Data Generation](https://aws.amazon.com/blogs/aws/new-amazon-sagemaker-ground-truth-now-supports-synthetic-data-generation/)
 - [Now in Preview – Amazon CodeWhisperer- ML-Powered Coding Companion](https://aws.amazon.com/blogs/aws/now-in-preview-amazon-codewhisperer-ml-powered-coding-companion/)
 - [AWS IoT ExpressLink Now Generally Available – Quickly Develop Devices That Connect Securely to AWS Cloud](https://aws.amazon.com/blogs/aws/aws-iot-expresslink-now-generally-available-quickly-develop-devices-that-connect-securely-to-aws-cloud/)
 - [New – High Volume Outbound Communication with Amazon Connect Outbound Campaigns](https://aws.amazon.com/blogs/aws/new-high-volume-outbound-communication-with-amazon-connect-outbound-campaigns/)
-- [AWS Week in Review – June 20, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-june-20-2022/)
 <!-- BLOG-POST-LIST:END -->  
