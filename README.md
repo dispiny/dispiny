@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New — Detect and Resolve Issues Quickly with Log Anomaly Detection and Recommendations from Amazon DevOps Guru](https://aws.amazon.com/blogs/aws/new-detect-and-resolve-issues-quickly-with-log-anomaly-detection-and-recommendations-from-amazon-devops-guru/)
 - [Amazon Redshift Serverless – Now Generally Available with New Capabilities](https://aws.amazon.com/blogs/aws/amazon-redshift-serverless-now-generally-available-with-new-capabilities/)
 - [New – Cloud WAN : A Managed WAN Service](https://aws.amazon.com/blogs/aws/new-cloud-wan-a-managed-wan-service/)
 - [AWS Week In Review – July 11, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-july-11/)
 - [New – Amazon EC2 M1 Mac Instances](https://aws.amazon.com/blogs/aws/new-amazon-ec2-m1-mac-instances/)
-- [AWS Week in Review – July 4, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-july-04-2022/)
 <!-- BLOG-POST-LIST:END -->  
