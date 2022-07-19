@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New – Amazon EC2 R6a Instances Powered by 3rd Gen AMD EPYC Processors for Memory-Intensive Workloads](https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6a-instances-powered-by-3rd-gen-amd-epyc-processors-for-memory-intensive-workloads/)
 - [AWS Week In Review – July 18, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-july-18-2022/)
 - [New — Detect and Resolve Issues Quickly with Log Anomaly Detection and Recommendations from Amazon DevOps Guru](https://aws.amazon.com/blogs/aws/new-detect-and-resolve-issues-quickly-with-log-anomaly-detection-and-recommendations-from-amazon-devops-guru/)
 - [Amazon Redshift Serverless – Now Generally Available with New Capabilities](https://aws.amazon.com/blogs/aws/amazon-redshift-serverless-now-generally-available-with-new-capabilities/)
 - [New – Cloud WAN : A Managed WAN Service](https://aws.amazon.com/blogs/aws/new-cloud-wan-a-managed-wan-service/)
-- [AWS Week In Review – July 11, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-july-11/)
 <!-- BLOG-POST-LIST:END -->  
