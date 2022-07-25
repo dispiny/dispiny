@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Prime Day 2022 – AWS for the Win!](https://aws.amazon.com/blogs/aws/amazon-prime-day-2022-aws-for-the-win/)
 - [How We Sent an AWS Snowcone into Orbit](https://aws.amazon.com/blogs/aws/how-we-sent-an-aws-snowcone-into-orbit/)
 - [New – Amazon EC2 R6a Instances Powered by 3rd Gen AMD EPYC Processors for Memory-Intensive Workloads](https://aws.amazon.com/blogs/aws/new-amazon-ec2-r6a-instances-powered-by-3rd-gen-amd-epyc-processors-for-memory-intensive-workloads/)
 - [AWS Week In Review – July 18, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-july-18-2022/)
 - [New — Detect and Resolve Issues Quickly with Log Anomaly Detection and Recommendations from Amazon DevOps Guru](https://aws.amazon.com/blogs/aws/new-detect-and-resolve-issues-quickly-with-log-anomaly-detection-and-recommendations-from-amazon-devops-guru/)
-- [Amazon Redshift Serverless – Now Generally Available with New Capabilities](https://aws.amazon.com/blogs/aws/amazon-redshift-serverless-now-generally-available-with-new-capabilities/)
 <!-- BLOG-POST-LIST:END -->  
