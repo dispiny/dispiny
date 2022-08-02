@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New – AWS Skill Builder Subscriptions](https://aws.amazon.com/blogs/aws/new-aws-skill-builder-subscriptions/)
 - [AWS Week in Review – August 1, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-august-1-2022/)
 - [New for AWS Global Accelerator – Internet Protocol Version 6 &lpar;IPv6&rpar; Support](https://aws.amazon.com/blogs/aws/new-for-aws-global-accelerator-internet-protocol-version-6-ipv6-support/)
 - [Fortinet FortiCNP – Now Available in AWS Marketplace](https://aws.amazon.com/blogs/aws/fortinet-forticnp-now-available-in-aws-marketplace/)
 - [New for Amazon GuardDuty – Malware Protection for Amazon EBS Volumes](https://aws.amazon.com/blogs/aws/new-for-amazon-guardduty-malware-detection-for-amazon-ebs-volumes/)
-- [Amazon Detective Supports Kubernetes Workloads on Amazon EKS for Security Investigations](https://aws.amazon.com/blogs/aws/amazon-detective-supports-kubernetes-workloads-on-amazon-eks-for-security-investigations/)
 <!-- BLOG-POST-LIST:END -->  
