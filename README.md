@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New – Run Visual Studio Software on Amazon EC2 with User-Based License Model](https://aws.amazon.com/blogs/aws/new-run-visual-studio-software-on-amazon-ec2-with-user-based-license-model/)
 - [New – AWS Skill Builder Subscriptions](https://aws.amazon.com/blogs/aws/new-aws-skill-builder-subscriptions/)
 - [AWS Week in Review – August 1, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-august-1-2022/)
 - [New for AWS Global Accelerator – Internet Protocol Version 6 &lpar;IPv6&rpar; Support](https://aws.amazon.com/blogs/aws/new-for-aws-global-accelerator-internet-protocol-version-6-ipv6-support/)
 - [Fortinet FortiCNP – Now Available in AWS Marketplace](https://aws.amazon.com/blogs/aws/fortinet-forticnp-now-available-in-aws-marketplace/)
-- [New for Amazon GuardDuty – Malware Protection for Amazon EBS Volumes](https://aws.amazon.com/blogs/aws/new-for-amazon-guardduty-malware-detection-for-amazon-ebs-volumes/)
 <!-- BLOG-POST-LIST:END -->  
