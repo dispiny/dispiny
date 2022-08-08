@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Week in Review – August 8, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-august-8-2022/)
 - [Graviton Fast Start – A New Program to Help Move Your Workloads to AWS Graviton](https://aws.amazon.com/blogs/aws/graviton-fast-start-a-new-program-to-help-move-your-workloads-to-aws-graviton/)
 - [New – Run Visual Studio Software on Amazon EC2 with User-Based License Model](https://aws.amazon.com/blogs/aws/new-run-visual-studio-software-on-amazon-ec2-with-user-based-license-model/)
 - [New – AWS Skill Builder Subscriptions](https://aws.amazon.com/blogs/aws/new-aws-skill-builder-subscriptions/)
 - [AWS Week in Review – August 1, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-august-1-2022/)
-- [New for AWS Global Accelerator – Internet Protocol Version 6 &lpar;IPv6&rpar; Support](https://aws.amazon.com/blogs/aws/new-for-aws-global-accelerator-internet-protocol-version-6-ipv6-support/)
 <!-- BLOG-POST-LIST:END -->  
