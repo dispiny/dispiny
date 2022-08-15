@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Week in Review – August 15, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-august-15-2022/)
 - [New – AWS Private 5G – Build Your Own Private Mobile Network](https://aws.amazon.com/blogs/aws/new-aws-private-5g-build-your-own-private-mobile-network/)
 - [Welcome to AWS Storage Day 2022](https://aws.amazon.com/blogs/aws/welcome-to-aws-storage-day-2022/)
 - [AWS Week in Review – August 8, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-august-8-2022/)
 - [Graviton Fast Start – A New Program to Help Move Your Workloads to AWS Graviton](https://aws.amazon.com/blogs/aws/graviton-fast-start-a-new-program-to-help-move-your-workloads-to-aws-graviton/)
-- [New – Run Visual Studio Software on Amazon EC2 with User-Based License Model](https://aws.amazon.com/blogs/aws/new-run-visual-studio-software-on-amazon-ec2-with-user-based-license-model/)
 <!-- BLOG-POST-LIST:END -->  
