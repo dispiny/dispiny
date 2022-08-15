@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [A Decade of Ever-Increasing Provisioned IOPS for Amazon EBS](https://aws.amazon.com/blogs/aws/a-decade-of-ever-increasing-provisioned-iops-for-amazon-ebs/)
+- [New – HTTP/3 Support for Amazon CloudFront](https://aws.amazon.com/blogs/aws/new-http-3-support-for-amazon-cloudfront/)
 - [AWS Week in Review – August 15, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-august-15-2022/)
 - [New – AWS Private 5G – Build Your Own Private Mobile Network](https://aws.amazon.com/blogs/aws/new-aws-private-5g-build-your-own-private-mobile-network/)
 - [Welcome to AWS Storage Day 2022](https://aws.amazon.com/blogs/aws/welcome-to-aws-storage-day-2022/)
-- [AWS Week in Review – August 8, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-august-8-2022/)
-- [Graviton Fast Start – A New Program to Help Move Your Workloads to AWS Graviton](https://aws.amazon.com/blogs/aws/graviton-fast-start-a-new-program-to-help-move-your-workloads-to-aws-graviton/)
 <!-- BLOG-POST-LIST:END -->  
