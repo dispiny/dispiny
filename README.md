@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [How Grillo Built a Low-Cost Earthquake Early Warning System on AWS](https://aws.amazon.com/blogs/aws/how-grillo-built-a-low-cost-earthquake-early-warning-system-on-aws/)
 - [A Decade of Ever-Increasing Provisioned IOPS for Amazon EBS](https://aws.amazon.com/blogs/aws/a-decade-of-ever-increasing-provisioned-iops-for-amazon-ebs/)
 - [New – HTTP/3 Support for Amazon CloudFront](https://aws.amazon.com/blogs/aws/new-http-3-support-for-amazon-cloudfront/)
 - [AWS Week in Review – August 15, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-august-15-2022/)
 - [New – AWS Private 5G – Build Your Own Private Mobile Network](https://aws.amazon.com/blogs/aws/new-aws-private-5g-build-your-own-private-mobile-network/)
-- [Welcome to AWS Storage Day 2022](https://aws.amazon.com/blogs/aws/welcome-to-aws-storage-day-2022/)
 <!-- BLOG-POST-LIST:END -->  
