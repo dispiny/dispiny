@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New – AWS Support App in Slack to Manage Support Cases](https://aws.amazon.com/blogs/aws/new-aws-support-app-in-slack-to-manage-support-cases/)
 - [AWS Week in Review – August 22, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-august-22-2022/)
 - [Happy 10th Anniversary, Amazon S3 Glacier – A Decade of Cold Storage in the Cloud](https://aws.amazon.com/blogs/aws/happy-10th-anniversary-amazon-s3-glacier-a-decade-of-cold-storage-in-the-cloud/)
 - [AWS Trusted Advisor – New Priority Capability](https://aws.amazon.com/blogs/aws/aws-trusted-advisor-new-priority-capability/)
 - [How Grillo Built a Low-Cost Earthquake Early Warning System on AWS](https://aws.amazon.com/blogs/aws/how-grillo-built-a-low-cost-earthquake-early-warning-system-on-aws/)
-- [A Decade of Ever-Increasing Provisioned IOPS for Amazon EBS](https://aws.amazon.com/blogs/aws/a-decade-of-ever-increasing-provisioned-iops-for-amazon-ebs/)
 <!-- BLOG-POST-LIST:END -->  
