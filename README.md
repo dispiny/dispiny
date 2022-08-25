@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the latest AWS Heroes – August 2022](https://aws.amazon.com/blogs/aws/announcing-the-latest-aws-heroes-august-2022/)
 - [New — Fine-Grained Visual Embedding Powered by Amazon QuickSight](https://aws.amazon.com/blogs/aws/new-fine-grained-visual-embedding-powered-by-amazon-quicksight/)
 - [New – AWS Support App in Slack to Manage Support Cases](https://aws.amazon.com/blogs/aws/new-aws-support-app-in-slack-to-manage-support-cases/)
 - [AWS Week in Review – August 22, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-august-22-2022/)
 - [Happy 10th Anniversary, Amazon S3 Glacier – A Decade of Cold Storage in the Cloud](https://aws.amazon.com/blogs/aws/happy-10th-anniversary-amazon-s3-glacier-a-decade-of-cold-storage-in-the-cloud/)
-- [AWS Trusted Advisor – New Priority Capability](https://aws.amazon.com/blogs/aws/aws-trusted-advisor-new-priority-capability/)
 <!-- BLOG-POST-LIST:END -->  
