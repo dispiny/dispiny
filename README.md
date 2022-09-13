@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Week In Review – September 12, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-september-12-2022/)
 - [AWS Week in Review – September 5, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-september-5-2022/)
 - [AWS and VMware Announce VMware Cloud on AWS integration with Amazon FSx for NetApp ONTAP](https://aws.amazon.com/blogs/aws/aws-and-vmware-announce-vmware-cloud-on-aws-integration-with-amazon-fsx-for-netapp-ontap/)
 - [Now Open–AWS Region in the United Arab Emirates &lpar;UAE&rpar;](https://aws.amazon.com/blogs/aws/now-open-aws-region-in-the-united-arab-emirates-uae/)
 - [AWS Week in Review – August 29, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-august-29-2022/)
-- [Announcing the latest AWS Heroes – August 2022](https://aws.amazon.com/blogs/aws/announcing-the-latest-aws-heroes-august-2022/)
 <!-- BLOG-POST-LIST:END -->  
