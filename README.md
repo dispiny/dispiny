@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Deploy your Amazon EKS Clusters Locally on AWS Outposts](https://aws.amazon.com/blogs/aws/deploy-your-amazon-eks-clusters-locally-on-aws-outposts/)
 - [AWS Week in Review – September 19, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-september-19-2022/)
 - [New – Direct VPC Routing Between On-Premises Networks and AWS Outposts Rack](https://aws.amazon.com/blogs/aws/new-direct-vpc-routing-between-on-premises-networks-and-aws-outposts-rack/)
 - [AWS Week In Review – September 12, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-september-12-2022/)
 - [AWS Week in Review – September 5, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-september-5-2022/)
-- [AWS and VMware Announce VMware Cloud on AWS integration with Amazon FSx for NetApp ONTAP](https://aws.amazon.com/blogs/aws/aws-and-vmware-announce-vmware-cloud-on-aws-integration-with-amazon-fsx-for-netapp-ontap/)
 <!-- BLOG-POST-LIST:END -->  
