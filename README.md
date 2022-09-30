@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Amazon File Cache – A High Performance Cache On AWS For Your On-Premises File Systems](https://aws.amazon.com/blogs/aws/amazon-file-cache-a-high-performance-cache-on-aws-for-your-on-premises-file-systems/)
 - [Amazon WorkSpaces Introduces Ubuntu Desktops](https://aws.amazon.com/blogs/aws/amazon-workspaces-introduces-ubuntu-desktops/)
 - [AWS IoT FleetWise Now Generally Available – Easily Collect Vehicle Data and Send to the Cloud](https://aws.amazon.com/blogs/aws/aws-iot-fleetwise-now-generally-available-easily-collect-vehicle-data-and-send-to-the-cloud/)
 - [AWS Week In Review — September 26, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-september-26-2022/)
 - [Deploy your Amazon EKS Clusters Locally on AWS Outposts](https://aws.amazon.com/blogs/aws/deploy-your-amazon-eks-clusters-locally-on-aws-outposts/)
-- [AWS Week in Review – September 19, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-september-19-2022/)
 <!-- BLOG-POST-LIST:END -->  
