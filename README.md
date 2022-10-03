@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Announcing General Availability of Amazon Connect Cases](https://aws.amazon.com/blogs/aws/announcing-general-availability-of-amazon-connect-cases/)
 - [AWS Week in Review – October 3, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-october-3-2022/)
 - [New Hands-On Course for Business Analysts – Practical Decision Making using No-Code ML on AWS](https://aws.amazon.com/blogs/aws/new-hands-on-course-for-business-analysts-practical-decision-making-using-no-code-ml-on-aws/)
 - [Amazon File Cache – A High Performance Cache On AWS For Your On-Premises File Systems](https://aws.amazon.com/blogs/aws/amazon-file-cache-a-high-performance-cache-on-aws-for-your-on-premises-file-systems/)
 - [Amazon WorkSpaces Introduces Ubuntu Desktops](https://aws.amazon.com/blogs/aws/amazon-workspaces-introduces-ubuntu-desktops/)
-- [AWS IoT FleetWise Now Generally Available – Easily Collect Vehicle Data and Send to the Cloud](https://aws.amazon.com/blogs/aws/aws-iot-fleetwise-now-generally-available-easily-collect-vehicle-data-and-send-to-the-cloud/)
 <!-- BLOG-POST-LIST:END -->  
