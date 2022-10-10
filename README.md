@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Amazon EC2 Trn1 Instances for High-Performance Model Training are Now Available](https://aws.amazon.com/blogs/aws/amazon-ec2-trn1-instances-for-high-performance-model-training-are-now-available/)
 - [AWS Week in Review – October 10, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-october-10-2022/)
 - [AWS Local Zones Expansion: Taipei and Delhi](https://aws.amazon.com/blogs/aws/aws-local-zones-expansion-taipei-and-delhi/)
 - [Announcing General Availability of Amazon Connect Cases](https://aws.amazon.com/blogs/aws/announcing-general-availability-of-amazon-connect-cases/)
 - [AWS Week in Review – October 3, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-october-3-2022/)
-- [New Hands-On Course for Business Analysts – Practical Decision Making using No-Code ML on AWS](https://aws.amazon.com/blogs/aws/new-hands-on-course-for-business-analysts-practical-decision-making-using-no-code-ml-on-aws/)
 <!-- BLOG-POST-LIST:END -->  
