@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Week in Review – November 14, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-november-14-2022/)
 - [A New AWS Region Opens in Switzerland](https://aws.amazon.com/blogs/aws/a-new-aws-region-opens-in-switzerland/)
 - [Introducing AWS Resource Explorer – Quickly Find Resources in Your AWS Account](https://aws.amazon.com/blogs/aws/introducing-aws-resource-explorer-quickly-find-resources-in-your-aws-account/)
 - [AWS Week in Review – November 7, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-november-7-2022/)
 - [AWS Week in Review – October 31, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-october-31-2022/)
-- [AWS Named as a Leader in the 2022 Gartner Cloud Infrastructure &amp; Platform Services &lpar;CIPS&rpar; Magic Quadrant for the 12th Consecutive Year](https://aws.amazon.com/blogs/aws/aws-named-as-a-leader-in-the-2022-gartner-cloud-infrastructure-platform-services-cips-magic-quadrant-for-the-12th-consecutive-year/)
 <!-- BLOG-POST-LIST:END -->  
