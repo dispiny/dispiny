@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Now Open–AWS Region in Spain](https://aws.amazon.com/blogs/aws/now-open-aws-region-in-spain/)
 - [Introducing our final AWS Heroes of the year – November 2022](https://aws.amazon.com/blogs/aws/introducing-our-final-aws-heroes-of-the-year-november-2022/)
 - [AWS Week in Review – November 14, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-november-14-2022/)
 - [A New AWS Region Opens in Switzerland](https://aws.amazon.com/blogs/aws/a-new-aws-region-opens-in-switzerland/)
 - [Introducing AWS Resource Explorer – Quickly Find Resources in Your AWS Account](https://aws.amazon.com/blogs/aws/introducing-aws-resource-explorer-quickly-find-resources-in-your-aws-account/)
-- [AWS Week in Review – November 7, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-november-7-2022/)
 <!-- BLOG-POST-LIST:END -->  
