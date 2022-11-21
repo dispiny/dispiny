@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Week in Review – November 21, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-november-21-2022/)
 - [AWS AppSync GraphQL APIs Supports JavaScript Resolvers](https://aws.amazon.com/blogs/aws/aws-appsync-graphql-apis-supports-javascript-resolvers/)
 - [Now Open–AWS Region in Spain](https://aws.amazon.com/blogs/aws/now-open-aws-region-in-spain/)
 - [Introducing our final AWS Heroes of the year – November 2022](https://aws.amazon.com/blogs/aws/introducing-our-final-aws-heroes-of-the-year-november-2022/)
 - [AWS Week in Review – November 14, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-november-14-2022/)
-- [A New AWS Region Opens in Switzerland](https://aws.amazon.com/blogs/aws/a-new-aws-region-opens-in-switzerland/)
 <!-- BLOG-POST-LIST:END -->  
