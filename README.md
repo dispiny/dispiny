@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Now Open the 30th AWS Region – Asia Pacific &lpar;Hyderabad&rpar; Region in India](https://aws.amazon.com/blogs/aws/now-open-the-30th-aws-region-asia-pacific-hyderabad-region-in-india/)
 - [AWS Week in Review – November 21, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-november-21-2022/)
 - [AWS AppSync GraphQL APIs Supports JavaScript Resolvers](https://aws.amazon.com/blogs/aws/aws-appsync-graphql-apis-supports-javascript-resolvers/)
 - [Now Open–AWS Region in Spain](https://aws.amazon.com/blogs/aws/now-open-aws-region-in-spain/)
 - [Introducing our final AWS Heroes of the year – November 2022](https://aws.amazon.com/blogs/aws/introducing-our-final-aws-heroes-of-the-year-november-2022/)
-- [AWS Week in Review – November 14, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-november-14-2022/)
 <!-- BLOG-POST-LIST:END -->  
