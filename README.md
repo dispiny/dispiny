@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
-- [AWS Application Migration Service Major Updates – New Migration Servers Grouping, Updated Launch, and Post-Launch Template](https://aws.amazon.com/blogs/aws/aws-application-migration-service-major-updates-new-migration-servers-grouping-updated-launch-and-post-launch-template/)
-- [New – Announcing Amazon EFS Elastic Throughput](https://aws.amazon.com/blogs/aws/new-announcing-amazon-efs-elastic-throughput/)
-- [New – Amazon Redshift Support in AWS Backup](https://aws.amazon.com/blogs/aws/new-amazon-redshift-support-in-aws-backup/)
-- [New – Fully Managed Blue/Green Deployments in Amazon Aurora and Amazon RDS](https://aws.amazon.com/blogs/aws/new-fully-managed-blue-green-deployments-in-amazon-aurora-and-amazon-rds/)
-- [New for AWS Backup – Protect and Restore Your CloudFormation Stacks](https://aws.amazon.com/blogs/aws/new-for-aws-backup-protect-and-restore-your-cloudformation-stacks/)
+- [New – Amazon RDS Optimized Reads and Optimized Writes](https://aws.amazon.com/blogs/aws/new-amazon-rds-optimized-reads-and-optimized-writes/)
+- [Classifying and Extracting Mortgage Loan Data with Amazon Textract](https://aws.amazon.com/blogs/aws/classifying-and-extracting-mortgage-loan-data-with-amazon-textract/)
+- [Protect Sensitive Data with Amazon CloudWatch Logs](https://aws.amazon.com/blogs/aws/protect-sensitive-data-with-amazon-cloudwatch-logs/)
+- [New – Amazon CloudWatch Cross-Account Observability](https://aws.amazon.com/blogs/aws/new-amazon-cloudwatch-cross-account-observability/)
+- [New – A Fully Managed Schema Conversion in AWS Database Migration Service](https://aws.amazon.com/blogs/aws/new-a-fully-managed-schema-conversion-in-aws-database-migration-service/)
 <!-- BLOG-POST-LIST:END -->  
