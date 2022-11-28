@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Top Announcements of AWS re:Invent 2022](https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2022/)
 - [New – Amazon RDS Optimized Reads and Optimized Writes](https://aws.amazon.com/blogs/aws/new-amazon-rds-optimized-reads-and-optimized-writes/)
 - [Classifying and Extracting Mortgage Loan Data with Amazon Textract](https://aws.amazon.com/blogs/aws/classifying-and-extracting-mortgage-loan-data-with-amazon-textract/)
 - [Protect Sensitive Data with Amazon CloudWatch Logs](https://aws.amazon.com/blogs/aws/protect-sensitive-data-with-amazon-cloudwatch-logs/)
 - [New – Amazon CloudWatch Cross-Account Observability](https://aws.amazon.com/blogs/aws/new-amazon-cloudwatch-cross-account-observability/)
-- [New – A Fully Managed Schema Conversion in AWS Database Migration Service](https://aws.amazon.com/blogs/aws/new-a-fully-managed-schema-conversion-in-aws-database-migration-service/)
 <!-- BLOG-POST-LIST:END -->  
