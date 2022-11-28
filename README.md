@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
-- [Now Open the 30th AWS Region – Asia Pacific &lpar;Hyderabad&rpar; Region in India](https://aws.amazon.com/blogs/aws/now-open-the-30th-aws-region-asia-pacific-hyderabad-region-in-india/)
-- [AWS Week in Review – November 21, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-november-21-2022/)
-- [AWS AppSync GraphQL APIs Supports JavaScript Resolvers](https://aws.amazon.com/blogs/aws/aws-appsync-graphql-apis-supports-javascript-resolvers/)
-- [Now Open–AWS Region in Spain](https://aws.amazon.com/blogs/aws/now-open-aws-region-in-spain/)
-- [Introducing our final AWS Heroes of the year – November 2022](https://aws.amazon.com/blogs/aws/introducing-our-final-aws-heroes-of-the-year-november-2022/)
+- [New for AWS Backup – Protect and Restore Your CloudFormation Stacks](https://aws.amazon.com/blogs/aws/new-for-aws-backup-protect-and-restore-your-cloudformation-stacks/)
+- [Amazon CloudWatch Internet Monitor Preview – End-to-End Visibility into Internet Performance for your Applications](https://aws.amazon.com/blogs/aws/cloudwatch-internet-monitor-end-to-end-visibility-into-internet-performance-for-your-applications/)
+- [New for Amazon Transcribe – Real-Time Analytics During Live Calls](https://aws.amazon.com/blogs/aws/new-for-amazon-transcribe-real-time-analytics-during-live-calls/)
+- [Automated in-AWS Failback for AWS Elastic Disaster Recovery](https://aws.amazon.com/blogs/aws/automated-in-aws-failback-for-aws-elastic-disaster-recovery/)
+- [New – Amazon ECS Service Connect Enabling Easy Communication Between Microservices](https://aws.amazon.com/blogs/aws/new-amazon-ecs-service-connect-enabling-easy-communication-between-microservices/)
 <!-- BLOG-POST-LIST:END -->  
