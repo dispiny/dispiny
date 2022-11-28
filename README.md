@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Application Migration Service Major Updates – New Migration Servers Grouping, Updated Launch, and Post-Launch Template](https://aws.amazon.com/blogs/aws/aws-application-migration-service-major-updates-new-migration-servers-grouping-updated-launch-and-post-launch-template/)
+- [New – Announcing Amazon EFS Elastic Throughput](https://aws.amazon.com/blogs/aws/new-announcing-amazon-efs-elastic-throughput/)
+- [New – Amazon Redshift Support in AWS Backup](https://aws.amazon.com/blogs/aws/new-amazon-redshift-support-in-aws-backup/)
+- [New – Fully Managed Blue/Green Deployments in Amazon Aurora and Amazon RDS](https://aws.amazon.com/blogs/aws/new-fully-managed-blue-green-deployments-in-amazon-aurora-and-amazon-rds/)
 - [New for AWS Backup – Protect and Restore Your CloudFormation Stacks](https://aws.amazon.com/blogs/aws/new-for-aws-backup-protect-and-restore-your-cloudformation-stacks/)
-- [Amazon CloudWatch Internet Monitor Preview – End-to-End Visibility into Internet Performance for your Applications](https://aws.amazon.com/blogs/aws/cloudwatch-internet-monitor-end-to-end-visibility-into-internet-performance-for-your-applications/)
-- [New for Amazon Transcribe – Real-Time Analytics During Live Calls](https://aws.amazon.com/blogs/aws/new-for-amazon-transcribe-real-time-analytics-during-live-calls/)
-- [Automated in-AWS Failback for AWS Elastic Disaster Recovery](https://aws.amazon.com/blogs/aws/automated-in-aws-failback-for-aws-elastic-disaster-recovery/)
-- [New – Amazon ECS Service Connect Enabling Easy Communication Between Microservices](https://aws.amazon.com/blogs/aws/new-amazon-ecs-service-connect-enabling-easy-communication-between-microservices/)
 <!-- BLOG-POST-LIST:END -->  
