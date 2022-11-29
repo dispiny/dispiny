@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New – Accelerate Your Lambda Functions with Lambda SnapStart](https://aws.amazon.com/blogs/aws/new-accelerate-your-lambda-functions-with-lambda-snapstart/)
+- [Amazon Inspector Now Scans AWS Lambda Functions for Vulnerabilities](https://aws.amazon.com/blogs/aws/amazon-inspector-now-scans-aws-lambda-functions-for-vulnerabilities/)
+- [New — Create and Share Operational Reports at Scale with Amazon QuickSight Paginated Reports](https://aws.amazon.com/blogs/aws/new-create-and-share-operational-reports-at-scale-with-amazon-quicksight-paginated-reports/)
+- [New Amazon QuickSight API Capabilities to Accelerate Your BI Transformation](https://aws.amazon.com/blogs/aws/new-amazon-quicksight-api-capabilities-to-accelerate-your-bi-transformation/)
 - [New – ENA Express: Improved Network Latency and Per-Flow Performance on EC2](https://aws.amazon.com/blogs/aws/new-ena-express-improved-network-latency-and-per-flow-performance-on-ec2/)
-- [New General Purpose, Compute Optimized, and Memory-Optimized Amazon EC2 Instances with Higher Packet-Processing Performance](https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/)
-- [New Amazon EC2 Instance Types In the Works – C7gn, R7iz, and Hpc7g](https://aws.amazon.com/blogs/aws/new-amazon-ec2-instance-types-in-the-works-c7gn-r7iz-and-hpc7g/)
-- [New – Failover Controls for Amazon S3 Multi-Region Access Points](https://aws.amazon.com/blogs/aws/new-failover-controls-for-amazon-s3-multi-region-access-points/)
-- [Automated Data Discovery for Amazon Macie](https://aws.amazon.com/blogs/aws/automated-data-discovery-for-amazon-macie/)
 <!-- BLOG-POST-LIST:END -->  
