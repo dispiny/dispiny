@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New – ENA Express: Improved Network Latency and Per-Flow Performance on EC2](https://aws.amazon.com/blogs/aws/new-ena-express-improved-network-latency-and-per-flow-performance-on-ec2/)
+- [New General Purpose, Compute Optimized, and Memory-Optimized Amazon EC2 Instances with Higher Packet-Processing Performance](https://aws.amazon.com/blogs/aws/new-general-purpose-compute-optimized-and-memory-optimized-amazon-ec2-instances-with-higher-packet-processing-performance/)
+- [New Amazon EC2 Instance Types In the Works – C7gn, R7iz, and Hpc7g](https://aws.amazon.com/blogs/aws/new-amazon-ec2-instance-types-in-the-works-c7gn-r7iz-and-hpc7g/)
 - [New – Failover Controls for Amazon S3 Multi-Region Access Points](https://aws.amazon.com/blogs/aws/new-failover-controls-for-amazon-s3-multi-region-access-points/)
 - [Automated Data Discovery for Amazon Macie](https://aws.amazon.com/blogs/aws/automated-data-discovery-for-amazon-macie/)
-- [New – AWS Config Rules Now Support Proactive Compliance](https://aws.amazon.com/blogs/aws/new-aws-config-rules-now-support-proactive-compliance/)
-- [New AWS Glue 4.0 – New and Updated Engines, More Data Formats, and More](https://aws.amazon.com/blogs/aws/new-aws-glue-4-0-new-and-updated-engines-more-data-formats-and-more/)
-- [AWS Wickr – A Secure, End-to-End Encrypted Communication Service For Enterprises With Auditing And Regulatory Requirements](https://aws.amazon.com/blogs/aws/aws-wickr-a-secure-end-to-end-encrypted-communication-service-for-enterprises-with-auditing-and-regulatory-requirements/)
 <!-- BLOG-POST-LIST:END -->  
