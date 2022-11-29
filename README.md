@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Announcing AWS KMS External Key Store &lpar;XKS&rpar;](https://aws.amazon.com/blogs/aws/announcing-aws-kms-external-key-store-xks/)
+- [New for Amazon Redshift – General Availability of Streaming Ingestion for Kinesis Data Streams and Managed Streaming for Apache Kafka](https://aws.amazon.com/blogs/aws/new-for-amazon-redshift-general-availability-of-streaming-ingestion-for-kinesis-data-streams-and-managed-streaming-for-apache-kafka/)
+- [Introducing Amazon Omics – A Purpose-Built Service to Store, Query, and Analyze Genomic and Biological Data at Scale](https://aws.amazon.com/blogs/aws/introducing-amazon-omics-a-purpose-built-service-to-store-query-and-analyze-genomic-and-biological-data-at-scale/)
+- [Amazon Connect – New ML-Powered Capabilities for Forecasting, Capacity Planning, Scheduling, and Agent Empowerment](https://aws.amazon.com/blogs/aws/amazon-connect-new-ml-powered-capabilities-for-forecasting-capacity-planning-scheduling-and-agent-empowerment/)
 - [New AWS SimSpace Weaver–Run Large-Scale Spatial Simulations in the Cloud](https://aws.amazon.com/blogs/aws/new-aws-simspace-weaver-build-large-scale-spatial-simulations-in-the-cloud/)
-- [New – Amazon EC2 Hpc6id Instances Optimized for High Performance Computing](https://aws.amazon.com/blogs/aws/new-amazon-ec2-hpc6id-instances-optimized-for-high-performance-computing/)
-- [Preview: Amazon Security Lake – A Purpose-Built Customer-Owned Data Lake Service](https://aws.amazon.com/blogs/aws/preview-amazon-security-lake-a-purpose-built-customer-owned-data-lake-service/)
-- [New – Amazon Redshift Integration with Apache Spark](https://aws.amazon.com/blogs/aws/new-amazon-redshift-integration-with-apache-spark/)
-- [Preview: Amazon OpenSearch Serverless – Run Search and Analytics Workloads without Managing Clusters](https://aws.amazon.com/blogs/aws/preview-amazon-opensearch-serverless-run-search-and-analytics-workloads-without-managing-clusters/)
 <!-- BLOG-POST-LIST:END -->  
