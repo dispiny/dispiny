@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Preview: Amazon OpenSearch Serverless – Run Search and Analytics Workloads without Managing Clusters](https://aws.amazon.com/blogs/aws/preview-amazon-opensearch-serverless-run-search-and-analytics-workloads-without-managing-clusters/)
 - [New – Accelerate Your Lambda Functions with Lambda SnapStart](https://aws.amazon.com/blogs/aws/new-accelerate-your-lambda-functions-with-lambda-snapstart/)
 - [Amazon Inspector Now Scans AWS Lambda Functions for Vulnerabilities](https://aws.amazon.com/blogs/aws/amazon-inspector-now-scans-aws-lambda-functions-for-vulnerabilities/)
 - [New — Create and Share Operational Reports at Scale with Amazon QuickSight Paginated Reports](https://aws.amazon.com/blogs/aws/new-create-and-share-operational-reports-at-scale-with-amazon-quicksight-paginated-reports/)
 - [New Amazon QuickSight API Capabilities to Accelerate Your BI Transformation](https://aws.amazon.com/blogs/aws/new-amazon-quicksight-api-capabilities-to-accelerate-your-bi-transformation/)
-- [New – ENA Express: Improved Network Latency and Per-Flow Performance on EC2](https://aws.amazon.com/blogs/aws/new-ena-express-improved-network-latency-and-per-flow-performance-on-ec2/)
 <!-- BLOG-POST-LIST:END -->  
