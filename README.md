@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
-- [New ML Governance Tools for Amazon SageMaker – Simplify Access Control and Enhance Transparency Over Your ML Projects](https://aws.amazon.com/blogs/aws/new-ml-governance-tools-for-amazon-sagemaker-simplify-access-control-and-enhance-transparency-over-your-ml-projects/)
-- [Join the Preview – AWS Glue Data Quality](https://aws.amazon.com/blogs/aws/join-the-preview-aws-glue-data-quality/)
-- [New – Trusted Language Extensions for PostgreSQL on Amazon Aurora and Amazon RDS](https://aws.amazon.com/blogs/aws/new-trusted-language-extensions-for-postgresql-on-amazon-aurora-and-amazon-rds/)
-- [Preview: Use Amazon SageMaker to Build, Train, and Deploy ML Models Using Geospatial Data](https://aws.amazon.com/blogs/aws/preview-use-amazon-sagemaker-to-build-train-and-deploy-ml-models-using-geospatial-data/)
-- [New – Redesigned UI for Amazon SageMaker Studio](https://aws.amazon.com/blogs/aws/new-redesigned-ui-for-amazon-sagemaker-studio/)
+- [New for Amazon SageMaker – Perform Shadow Tests to Compare Inference Performance Between ML Model Variants](https://aws.amazon.com/blogs/aws/new-for-amazon-sagemaker-perform-shadow-tests-to-compare-inference-performance-between-ml-model-variants/)
+- [Next Generation SageMaker Notebooks – Now with Built-in Data Preparation, Real-Time Collaboration, and Notebook Automation](https://aws.amazon.com/blogs/aws/next-generation-sagemaker-notebooks-now-with-built-in-data-preparation-real-time-collaboration-and-notebook-automation/)
+- [New – Share ML Models and Notebooks More Easily Within Your Organization with Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/aws/new-share-ml-models-and-notebooks-more-easily-within-your-organization-with-amazon-sagemaker-jumpstart/)
+- [AWS Machine Learning University New Educator Enablement Program to Build Diverse Talent for ML/AI Jobs](https://aws.amazon.com/blogs/aws/aws-machine-learning-university-new-educator-enablement-program-to-build-diverse-talent-for-ml-ai-jobs/)
+- [New for Amazon Redshift – Simplify Data Ingestion and Make Your Data Warehouse More Secure and Reliable](https://aws.amazon.com/blogs/aws/new-for-amazon-redshift-simplify-data-ingestion-and-make-your-data-warehouse-more-secure-and-reliable/)
 <!-- BLOG-POST-LIST:END -->  
