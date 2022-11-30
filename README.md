@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Announcing Amazon DocumentDB Elastic Clusters](https://aws.amazon.com/blogs/aws/announcing-amazon-documentdb-elastic-clusters/)
+- [New — Amazon Athena for Apache Spark](https://aws.amazon.com/blogs/aws/new-amazon-athena-for-apache-spark/)
 - [AWS Verified Access Preview — VPN-less Secure Network Access to Corporate Applications](https://aws.amazon.com/blogs/aws/aws-verified-access-preview-vpn-less-secure-network-access-to-corporate-applications/)
 - [New – Announcing Automated Data Preparation for Amazon QuickSight Q](https://aws.amazon.com/blogs/aws/new-announcing-automated-data-preparation-for-amazon-quicksight-q/)
 - [Introducing VPC Lattice – Simplify Networking for Service-to-Service Communication &lpar;Preview&rpar;](https://aws.amazon.com/blogs/aws/introducing-vpc-lattice-simplify-networking-for-service-to-service-communication-preview/)
-- [Announcing AWS KMS External Key Store &lpar;XKS&rpar;](https://aws.amazon.com/blogs/aws/announcing-aws-kms-external-key-store-xks/)
-- [New for Amazon Redshift – General Availability of Streaming Ingestion for Kinesis Data Streams and Managed Streaming for Apache Kafka](https://aws.amazon.com/blogs/aws/new-for-amazon-redshift-general-availability-of-streaming-ingestion-for-kinesis-data-streams-and-managed-streaming-for-apache-kafka/)
 <!-- BLOG-POST-LIST:END -->  
