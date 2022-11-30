@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Verified Access Preview — VPN-less Secure Network Access to Corporate Applications](https://aws.amazon.com/blogs/aws/aws-verified-access-preview-vpn-less-secure-network-access-to-corporate-applications/)
+- [New – Announcing Automated Data Preparation for Amazon QuickSight Q](https://aws.amazon.com/blogs/aws/new-announcing-automated-data-preparation-for-amazon-quicksight-q/)
+- [Introducing VPC Lattice – Simplify Networking for Service-to-Service Communication &lpar;Preview&rpar;](https://aws.amazon.com/blogs/aws/introducing-vpc-lattice-simplify-networking-for-service-to-service-communication-preview/)
 - [Announcing AWS KMS External Key Store &lpar;XKS&rpar;](https://aws.amazon.com/blogs/aws/announcing-aws-kms-external-key-store-xks/)
 - [New for Amazon Redshift – General Availability of Streaming Ingestion for Kinesis Data Streams and Managed Streaming for Apache Kafka](https://aws.amazon.com/blogs/aws/new-for-amazon-redshift-general-availability-of-streaming-ingestion-for-kinesis-data-streams-and-managed-streaming-for-apache-kafka/)
-- [Introducing Amazon Omics – A Purpose-Built Service to Store, Query, and Analyze Genomic and Biological Data at Scale](https://aws.amazon.com/blogs/aws/introducing-amazon-omics-a-purpose-built-service-to-store-query-and-analyze-genomic-and-biological-data-at-scale/)
-- [Amazon Connect – New ML-Powered Capabilities for Forecasting, Capacity Planning, Scheduling, and Agent Empowerment](https://aws.amazon.com/blogs/aws/amazon-connect-new-ml-powered-capabilities-for-forecasting-capacity-planning-scheduling-and-agent-empowerment/)
-- [New AWS SimSpace Weaver–Run Large-Scale Spatial Simulations in the Cloud](https://aws.amazon.com/blogs/aws/new-aws-simspace-weaver-build-large-scale-spatial-simulations-in-the-cloud/)
 <!-- BLOG-POST-LIST:END -->  
