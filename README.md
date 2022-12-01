@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Step Functions Distributed Map – A Serverless Solution for Large-Scale Parallel Data Processing](https://aws.amazon.com/blogs/aws/step-functions-distributed-map-a-serverless-solution-for-large-scale-parallel-data-processing/)
 - [AWS Marketplace Vendor Insights – Simplify Third-Party Software Risk Assessments](https://aws.amazon.com/blogs/aws/aws-marketplace-vendor-insights-simplify-third-party-software-risk-assessments/)
 - [New for Amazon SageMaker – Perform Shadow Tests to Compare Inference Performance Between ML Model Variants](https://aws.amazon.com/blogs/aws/new-for-amazon-sagemaker-perform-shadow-tests-to-compare-inference-performance-between-ml-model-variants/)
 - [Next Generation SageMaker Notebooks – Now with Built-in Data Preparation, Real-Time Collaboration, and Notebook Automation](https://aws.amazon.com/blogs/aws/next-generation-sagemaker-notebooks-now-with-built-in-data-preparation-real-time-collaboration-and-notebook-automation/)
 - [New – Share ML Models and Notebooks More Easily Within Your Organization with Amazon SageMaker JumpStart](https://aws.amazon.com/blogs/aws/new-share-ml-models-and-notebooks-more-easily-within-your-organization-with-amazon-sagemaker-jumpstart/)
-- [AWS Machine Learning University New Educator Enablement Program to Build Diverse Talent for ML/AI Jobs](https://aws.amazon.com/blogs/aws/aws-machine-learning-university-new-educator-enablement-program-to-build-diverse-talent-for-ml-ai-jobs/)
 <!-- BLOG-POST-LIST:END -->  
