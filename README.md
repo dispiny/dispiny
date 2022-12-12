@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Week in Review – December 12, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-december-12-2022/)
 - [New – Process PDFs, Word Documents, and Images with Amazon Comprehend for IDP](https://aws.amazon.com/blogs/aws/now-process-pdfs-word-documents-and-images-with-amazon-comprehend-for-idp/)
 - [Introducing Amazon GameLift Anywhere – Run Your Game Servers on Your Own Infrastructure](https://aws.amazon.com/blogs/aws/introducing-amazon-gamelift-anywhere-run-your-game-servers-on-your-own-infrastructure/)
 - [Announcing Amazon CodeCatalyst, a Unified Software Development Service &lpar;Preview&rpar;](https://aws.amazon.com/blogs/aws/announcing-amazon-codecatalyst-preview-a-unified-software-development-service/)
 - [New — Create Point-to-Point Integrations Between Event Producers and Consumers with Amazon EventBridge Pipes](https://aws.amazon.com/blogs/aws/new-create-point-to-point-integrations-between-event-producers-and-consumers-with-amazon-eventbridge-pipes/)
-- [Step Functions Distributed Map – A Serverless Solution for Large-Scale Parallel Data Processing](https://aws.amazon.com/blogs/aws/step-functions-distributed-map-a-serverless-solution-for-large-scale-parallel-data-processing/)
 <!-- BLOG-POST-LIST:END -->  
