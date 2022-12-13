@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Heads-Up: Amazon S3 Security Changes Are Coming in April of 2023](https://aws.amazon.com/blogs/aws/heads-up-amazon-s3-security-changes-are-coming-in-april-of-2023/)
 - [AWS Week in Review – December 12, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-december-12-2022/)
 - [New – Process PDFs, Word Documents, and Images with Amazon Comprehend for IDP](https://aws.amazon.com/blogs/aws/now-process-pdfs-word-documents-and-images-with-amazon-comprehend-for-idp/)
 - [Introducing Amazon GameLift Anywhere – Run Your Game Servers on Your Own Infrastructure](https://aws.amazon.com/blogs/aws/introducing-amazon-gamelift-anywhere-run-your-game-servers-on-your-own-infrastructure/)
 - [Announcing Amazon CodeCatalyst, a Unified Software Development Service &lpar;Preview&rpar;](https://aws.amazon.com/blogs/aws/announcing-amazon-codecatalyst-preview-a-unified-software-development-service/)
-- [New — Create Point-to-Point Integrations Between Event Producers and Consumers with Amazon EventBridge Pipes](https://aws.amazon.com/blogs/aws/new-create-point-to-point-integrations-between-event-producers-and-consumers-with-amazon-eventbridge-pipes/)
 <!-- BLOG-POST-LIST:END -->  
