@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Week in Review – December 19, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-december-19-2022/)
 - [New – Bring ML Models Built Anywhere into Amazon SageMaker Canvas and Generate Predictions](https://aws.amazon.com/blogs/aws/new-bring-ml-models-built-anywhere-into-amazon-sagemaker-canvas-and-generate-predictions/)
 - [Heads-Up: Amazon S3 Security Changes Are Coming in April of 2023](https://aws.amazon.com/blogs/aws/heads-up-amazon-s3-security-changes-are-coming-in-april-of-2023/)
 - [AWS Week in Review – December 12, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-december-12-2022/)
 - [New – Process PDFs, Word Documents, and Images with Amazon Comprehend for IDP](https://aws.amazon.com/blogs/aws/now-process-pdfs-word-documents-and-images-with-amazon-comprehend-for-idp/)
-- [Introducing Amazon GameLift Anywhere – Run Your Game Servers on Your Own Infrastructure](https://aws.amazon.com/blogs/aws/introducing-amazon-gamelift-anywhere-run-your-game-servers-on-your-own-infrastructure/)
 <!-- BLOG-POST-LIST:END -->  
