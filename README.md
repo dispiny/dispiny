@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Week in Review – January 23, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-january-23-2023/)
 - [AWS Week in Review – January 16, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-january-16-2023/)
 - [Happy New Year! AWS Week in Review – January 9, 2023](https://aws.amazon.com/blogs/aws/happy-new-year-aws-week-in-review-january-9-2023/)
 - [Amazon S3 Encrypts New Objects By Default](https://aws.amazon.com/blogs/aws/amazon-s3-encrypts-new-objects-by-default/)
 - [AWS Week in Review – December 19, 2022](https://aws.amazon.com/blogs/aws/aws-week-in-review-december-19-2022/)
-- [New – Bring ML Models Built Anywhere into Amazon SageMaker Canvas and Generate Predictions](https://aws.amazon.com/blogs/aws/new-bring-ml-models-built-anywhere-into-amazon-sagemaker-canvas-and-generate-predictions/)
 <!-- BLOG-POST-LIST:END -->  
