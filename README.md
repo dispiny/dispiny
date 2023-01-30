@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New – Deployment Pipelines Reference Architecture and Reference Implementations](https://aws.amazon.com/blogs/aws/new_deployment_pipelines_reference_architecture_and_-reference_implementations/)
 - [AWS Week in Review – January 30, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-january-30-2023/)
 - [Now Open — AWS Asia Pacific &lpar;Melbourne&rpar; Region in Australia](https://aws.amazon.com/blogs/aws/now-open-aws-asia-pacific-melbourne-region-in-australia/)
 - [AWS Week in Review – January 23, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-january-23-2023/)
 - [AWS Week in Review – January 16, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-january-16-2023/)
-- [Happy New Year! AWS Week in Review – January 9, 2023](https://aws.amazon.com/blogs/aws/happy-new-year-aws-week-in-review-january-9-2023/)
 <!-- BLOG-POST-LIST:END -->  
