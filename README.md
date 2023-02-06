@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Week in Review – February 6, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-february-6-2023/)
 - [New – AWS CloudTrail Lake Supports Ingesting Activity Events From Non-AWS Sources](https://aws.amazon.com/blogs/aws/new-aws-cloudtrail-lake-supports-ingesting-activity-events-from-non-aws-sources/)
 - [New – Deployment Pipelines Reference Architecture and Reference Implementations](https://aws.amazon.com/blogs/aws/new_deployment_pipelines_reference_architecture_and_-reference_implementations/)
 - [AWS Week in Review – January 30, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-january-30-2023/)
 - [Now Open — AWS Asia Pacific &lpar;Melbourne&rpar; Region in Australia](https://aws.amazon.com/blogs/aws/now-open-aws-asia-pacific-melbourne-region-in-australia/)
-- [AWS Week in Review – January 23, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-january-23-2023/)
 <!-- BLOG-POST-LIST:END -->  
