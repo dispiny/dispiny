@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [How to Connect Business and Technology to Embrace Strategic Thinking &lpar;Book Review&rpar;](https://aws.amazon.com/blogs/aws/how-to-connect-business-and-technology-to-embrace-strategic-thinking-book-review/)
 - [New Graviton3-Based General Purpose &lpar;m7g&rpar; and Memory-Optimized &lpar;r7g&rpar; Amazon EC2 Instances](https://aws.amazon.com/blogs/aws/new-graviton3-based-general-purpose-m7g-and-memory-optimized-r7g-amazon-ec2-instances/)
 - [Week in Review – February 13, 2023](https://aws.amazon.com/blogs/aws/week-in-review-february-13-2023/)
 - [New – Visualize Your VPC Resources from Amazon VPC Creation Experience](https://aws.amazon.com/blogs/aws/new-visualize-your-vpc-resources-from-amazon-vpc-creation-experience/)
 - [AWS Week in Review – February 6, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-february-6-2023/)
-- [New – AWS CloudTrail Lake Supports Ingesting Activity Events From Non-AWS Sources](https://aws.amazon.com/blogs/aws/new-aws-cloudtrail-lake-supports-ingesting-activity-events-from-non-aws-sources/)
 <!-- BLOG-POST-LIST:END -->  
