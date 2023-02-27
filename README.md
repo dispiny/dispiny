@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Week in Review – February 27, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-february-27-2023/)
 - [New: AWS Telco Network Builder – Deploy and Manage Telco Networks](https://aws.amazon.com/blogs/aws/new-aws-telco-network-builder-deploy-and-manage-telco-networks/)
 - [AWS Week in Review – February 20, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-february-20-2023/)
 - [Behind the Scenes at AWS – DynamoDB UpdateTable Speedup](https://aws.amazon.com/blogs/aws/behind-the-scenes-at-aws-dynamodb-updatetable-speedup/)
 - [How to Connect Business and Technology to Embrace Strategic Thinking &lpar;Book Review&rpar;](https://aws.amazon.com/blogs/aws/how-to-connect-business-and-technology-to-embrace-strategic-thinking-book-review/)
-- [New Graviton3-Based General Purpose &lpar;m7g&rpar; and Memory-Optimized &lpar;r7g&rpar; Amazon EC2 Instances](https://aws.amazon.com/blogs/aws/new-graviton3-based-general-purpose-m7g-and-memory-optimized-r7g-amazon-ec2-instances/)
 <!-- BLOG-POST-LIST:END -->  
