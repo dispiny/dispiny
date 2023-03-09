@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Meet the Newest AWS Heroes – March 2023](https://aws.amazon.com/blogs/aws/meet-the-newest-aws-heroes-march-2023/)
 - [AWS Application Composer Now Generally Available – Visually Build Serverless Applications Quickly](https://aws.amazon.com/blogs/aws/aws-application-composer-now-generally-available-visually-build-serverless-applications-quickly/)
 - [Subscribe to AWS Daily Feature Updates via Amazon SNS](https://aws.amazon.com/blogs/aws/subscribe-to-aws-daily-feature-updates-via-amazon-sns/)
 - [AWS Week in Review – March 6, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-6-2023/)
 - [In the Works – AWS Region in Malaysia](https://aws.amazon.com/blogs/aws/in-the-works-aws-region-in-malaysia/)
-- [New – Amazon Lightsail for Research with All-in-One Research Environments](https://aws.amazon.com/blogs/aws/new-amazon-lightsail-for-research-with-all-in-one-research-environments/)
 <!-- BLOG-POST-LIST:END -->  
