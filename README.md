@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New – Use Amazon S3 Object Lambda with Amazon CloudFront to Tailor Content for End Users](https://aws.amazon.com/blogs/aws/new-use-amazon-s3-object-lambda-with-amazon-cloudfront-to-tailor-content-for-end-users/)
 - [AWS Week in Review – March 13, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-13-2023/)
 - [Meet the Newest AWS Heroes – March 2023](https://aws.amazon.com/blogs/aws/meet-the-newest-aws-heroes-march-2023/)
 - [AWS Application Composer Now Generally Available – Visually Build Serverless Applications Quickly](https://aws.amazon.com/blogs/aws/aws-application-composer-now-generally-available-visually-build-serverless-applications-quickly/)
 - [Subscribe to AWS Daily Feature Updates via Amazon SNS](https://aws.amazon.com/blogs/aws/subscribe-to-aws-daily-feature-updates-via-amazon-sns/)
-- [AWS Week in Review – March 6, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-6-2023/)
 <!-- BLOG-POST-LIST:END -->  
