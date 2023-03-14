@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Week in Review – March 13, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-13-2023/)
 - [Meet the Newest AWS Heroes – March 2023](https://aws.amazon.com/blogs/aws/meet-the-newest-aws-heroes-march-2023/)
 - [AWS Application Composer Now Generally Available – Visually Build Serverless Applications Quickly](https://aws.amazon.com/blogs/aws/aws-application-composer-now-generally-available-visually-build-serverless-applications-quickly/)
 - [Subscribe to AWS Daily Feature Updates via Amazon SNS](https://aws.amazon.com/blogs/aws/subscribe-to-aws-daily-feature-updates-via-amazon-sns/)
 - [AWS Week in Review – March 6, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-6-2023/)
-- [In the Works – AWS Region in Malaysia](https://aws.amazon.com/blogs/aws/in-the-works-aws-region-in-malaysia/)
 <!-- BLOG-POST-LIST:END -->  
