@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Amazon GuardDuty Now Supports Amazon EKS Runtime Monitoring](https://aws.amazon.com/blogs/aws/amazon-guardduty-now-supports-amazon-eks-runtime-monitoring/)
 - [Announcing General Availability of Step-by-Step Guides for Amazon Connect Agent Workspace](https://aws.amazon.com/blogs/aws/announcing-general-availability-of-step-by-step-guides-for-amazon-connect-agent-workspace/)
 - [How French Broadcaster TF1 Used AWS Cloud Technology and Expertise to Bring the FIFA World Cup to Millions](https://aws.amazon.com/blogs/aws/how-french-broadcaster-tf1-used-aws-cloud-technology-and-expertise-to-bring-the-fifa-world-cup-to-millions/)
 - [AWS Application Migration Service Major Updates: Import and Export Feature, Source Server Migration Metrics Dashboard, and Additional Post-Launch Actions](https://aws.amazon.com/blogs/aws/aws-application-migration-service-major-updates-import-and-export-feature-source-server-migration-metrics-dashboard-and-additional-post-launch-actions/)
 - [Amazon Chime SDK Call Analytics: Real-Time Voice Tone Analysis and Speaker Search](https://aws.amazon.com/blogs/aws/amazon-chime-sdk-call-analytics-real-time-voice-tone-analysis-and-speaker-search/)
-- [AWS Week in Review – March 27, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-march-27-2023/)
 <!-- BLOG-POST-LIST:END -->  
