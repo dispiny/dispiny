@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New – Ready-to-use Models and Support for Custom Text and Image Classification Models in Amazon SageMaker Canvas](https://aws.amazon.com/blogs/aws/new-ready-to-use-models-and-support-for-custom-text-and-image-classification-models-in-amazon-sagemaker-canvas/)
 - [Simplify Service-to-Service Connectivity, Security, and Monitoring with Amazon VPC Lattice – Now Generally Available](https://aws.amazon.com/blogs/aws/simplify-service-to-service-connectivity-security-and-monitoring-with-amazon-vpc-lattice-now-generally-available/)
 - [Amazon GuardDuty Now Supports Amazon EKS Runtime Monitoring](https://aws.amazon.com/blogs/aws/amazon-guardduty-now-supports-amazon-eks-runtime-monitoring/)
 - [Announcing General Availability of Step-by-Step Guides for Amazon Connect Agent Workspace](https://aws.amazon.com/blogs/aws/announcing-general-availability-of-step-by-step-guides-for-amazon-connect-agent-workspace/)
 - [How French Broadcaster TF1 Used AWS Cloud Technology and Expertise to Bring the FIFA World Cup to Millions](https://aws.amazon.com/blogs/aws/how-french-broadcaster-tf1-used-aws-cloud-technology-and-expertise-to-bring-the-fifa-world-cup-to-millions/)
-- [AWS Application Migration Service Major Updates: Import and Export Feature, Source Server Migration Metrics Dashboard, and Additional Post-Launch Actions](https://aws.amazon.com/blogs/aws/aws-application-migration-service-major-updates-import-and-export-feature-source-server-migration-metrics-dashboard-and-additional-post-launch-actions/)
 <!-- BLOG-POST-LIST:END -->  
