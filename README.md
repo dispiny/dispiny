@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Supply Chain Now Generally Available – Mitigate Risks and Lower Costs with Increased Visibility and Actionable Insights](https://aws.amazon.com/blogs/aws/aws-supply-chain-now-generally-available-mitigate-risks-and-lower-costs-with-increased-visibility-and-actionable-insights/)
 - [AWS Week in Review: Public Preview of Amazon DataZone and AWS DataSync Updates – April 3, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-public-preview-of-amazon-datazone-and-aws-datasync-updates-april-3-2023/)
 - [New – Ready-to-use Models and Support for Custom Text and Image Classification Models in Amazon SageMaker Canvas](https://aws.amazon.com/blogs/aws/new-ready-to-use-models-and-support-for-custom-text-and-image-classification-models-in-amazon-sagemaker-canvas/)
 - [Simplify Service-to-Service Connectivity, Security, and Monitoring with Amazon VPC Lattice – Now Generally Available](https://aws.amazon.com/blogs/aws/simplify-service-to-service-connectivity-security-and-monitoring-with-amazon-vpc-lattice-now-generally-available/)
 - [Amazon GuardDuty Now Supports Amazon EKS Runtime Monitoring](https://aws.amazon.com/blogs/aws/amazon-guardduty-now-supports-amazon-eks-runtime-monitoring/)
-- [Announcing General Availability of Step-by-Step Guides for Amazon Connect Agent Workspace](https://aws.amazon.com/blogs/aws/announcing-general-availability-of-step-by-step-guides-for-amazon-connect-agent-workspace/)
 <!-- BLOG-POST-LIST:END -->  
