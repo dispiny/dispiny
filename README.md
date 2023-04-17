@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Week in Review: New Service for Generative AI and Amazon EC2 Trn1n, Inf2, and CodeWhisperer now GA – April 17, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-new-service-for-generative-ai-and-amazon-ec2-trn1n-inf2-and-codewhisperer-now-ga-april-17-2023/)
 - [Amazon EC2 Inf2 Instances for Low-Cost, High-Performance Generative AI Inference are Now Generally Available](https://aws.amazon.com/blogs/aws/amazon-ec2-inf2-instances-for-low-cost-high-performance-generative-ai-inference-are-now-generally-available/)
 - [Amazon CodeWhisperer, Free for Individual Use, is Now Generally Available](https://aws.amazon.com/blogs/aws/amazon-codewhisperer-free-for-individual-use-is-now-generally-available/)
 - [Week in Review: Terraform in Service Catalog, AWS Supply Chain, Streaming Response in Lambda, and Amplify Library for Swift – April 10, 2023](https://aws.amazon.com/blogs/aws/week-in-review-terraform-in-service-catalog-aws-supply-chain-streaming-response-in-lambda-and-amplify-library-for-swift-april-10-2023/)
 - [New – Self-Service Provisioning of Terraform Open-Source Configurations with AWS Service Catalog](https://aws.amazon.com/blogs/aws/new-self-service-provisioning-of-terraform-open-source-configurations-with-aws-service-catalog/)
-- [AWS Supply Chain Now Generally Available – Mitigate Risks and Lower Costs with Increased Visibility and Actionable Insights](https://aws.amazon.com/blogs/aws/aws-supply-chain-now-generally-available-mitigate-risks-and-lower-costs-with-increased-visibility-and-actionable-insights/)
 <!-- BLOG-POST-LIST:END -->  
