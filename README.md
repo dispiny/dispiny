@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Choose Korean in AWS Support as Your Preferred Language](https://aws.amazon.com/blogs/aws/choose-chinese-and-korean-in-aws-support-as-your-preferred-language/)
 - [Amazon S3 Compatible Storage on AWS Snowball Edge Compute Optimized Devices Now Generally Available](https://aws.amazon.com/blogs/aws/amazon-s3-compatible-storage-on-aws-snowball-edge-compute-optimized-devices-now-generally-available/)
 - [Discover Building without Limits at AWS Developer Innovation Day](https://aws.amazon.com/blogs/aws/discover-building-without-limits-at-aws-developer-innovation-day/)
 - [AWS Week in Review: New Service for Generative AI and Amazon EC2 Trn1n, Inf2, and CodeWhisperer now GA – April 17, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-new-service-for-generative-ai-and-amazon-ec2-trn1n-inf2-and-codewhisperer-now-ga-april-17-2023/)
 - [Amazon EC2 Inf2 Instances for Low-Cost, High-Performance Generative AI Inference are Now Generally Available](https://aws.amazon.com/blogs/aws/amazon-ec2-inf2-instances-for-low-cost-high-performance-generative-ai-inference-are-now-generally-available/)
-- [Amazon CodeWhisperer, Free for Individual Use, is Now Generally Available](https://aws.amazon.com/blogs/aws/amazon-codewhisperer-free-for-individual-use-is-now-generally-available/)
 <!-- BLOG-POST-LIST:END -->  
