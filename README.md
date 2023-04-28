@@ -92,7 +92,7 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
-- [How CyberCRX cut ML processing time from 8 days to 56 minutes with AWS Step Functions Distributed Map](https://aws.amazon.com/blogs/aws/how-cybercrx-cut-ml-processing-time-from-8-days-to-56-minutes-with-aws-step-functions-distributed-map/)
+- [How CyberGRX cut ML processing time from 8 days to 56 minutes with AWS Step Functions Distributed Map](https://aws.amazon.com/blogs/aws/how-cybercrx-cut-ml-processing-time-from-8-days-to-56-minutes-with-aws-step-functions-distributed-map/)
 - [AWS Week in Review – April 24, 2023: Amazon CodeCatalyst, Amazon S3 on Snowball Edge, and More…](https://aws.amazon.com/blogs/aws/aws-week-in-review-april-24-2023-amazon-codecatalyst-amazon-s3-on-snowball-edge-and-more/)
 - [Choose Korean in AWS Support as Your Preferred Language](https://aws.amazon.com/blogs/aws/choose-korean-in-aws-support-as-your-preferred-language/)
 - [Amazon S3 Compatible Storage on AWS Snowball Edge Compute Optimized Devices Now Generally Available](https://aws.amazon.com/blogs/aws/amazon-s3-compatible-storage-on-aws-snowball-edge-compute-optimized-devices-now-generally-available/)
