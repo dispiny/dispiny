@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Week in Review – AWS Notifications, Serverless event, and More – May 8, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-aws-notifications-serverless-event-and-more-may-8-2023/)
 - [Introducing Bob’s Used Books—a New, Real-World, .NET Sample Application](https://aws.amazon.com/blogs/aws/introducing-bobs-used-books-a-new-real-world-net-sample-application/)
 - [New – Set Up Your AWS Notifications in One Place](https://aws.amazon.com/blogs/aws/new-set-up-your-aws-notifications-in-one-place/)
 - [Week in Review – AWS Verified Access, Java 17, Amplify Flutter, Conferences, and More – May 1, 2023](https://aws.amazon.com/blogs/aws/week-in-review-aws-verified-access-java-17-amplify-flutter-conferences-and-more-may-1-2023/)
 - [Introducing Athena Provisioned Capacity](https://aws.amazon.com/blogs/aws/introducing-athena-provisioned-capacity/)
-- [How CyberGRX cut ML processing time from 8 days to 56 minutes with AWS Step Functions Distributed Map](https://aws.amazon.com/blogs/aws/how-cybercrx-cut-ml-processing-time-from-8-days-to-56-minutes-with-aws-step-functions-distributed-map/)
 <!-- BLOG-POST-LIST:END -->  
