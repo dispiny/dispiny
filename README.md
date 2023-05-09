@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New Storage-Optimized Amazon EC2 I4g Instances: Graviton Processors and AWS Nitro SSDs](https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-i4g-instances-graviton-processors-and-aws-nitro-ssds/)
 - [AWS Week in Review – AWS Notifications, Serverless event, and More – May 8, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-aws-notifications-serverless-event-and-more-may-8-2023/)
 - [Introducing Bob’s Used Books—a New, Real-World, .NET Sample Application](https://aws.amazon.com/blogs/aws/introducing-bobs-used-books-a-new-real-world-net-sample-application/)
 - [New – Set Up Your AWS Notifications in One Place](https://aws.amazon.com/blogs/aws/new-set-up-your-aws-notifications-in-one-place/)
 - [Week in Review – AWS Verified Access, Java 17, Amplify Flutter, Conferences, and More – May 1, 2023](https://aws.amazon.com/blogs/aws/week-in-review-aws-verified-access-java-17-amplify-flutter-conferences-and-more-may-1-2023/)
-- [Introducing Athena Provisioned Capacity](https://aws.amazon.com/blogs/aws/introducing-athena-provisioned-capacity/)
 <!-- BLOG-POST-LIST:END -->  
