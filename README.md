@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New – Simplify the Investigation of AWS Security Findings with Amazon Detective](https://aws.amazon.com/blogs/aws/new-simplify-the-investigation-of-aws-security-findings-with-amazon-detective/)
 - [Retiring the AWS Documentation on GitHub](https://aws.amazon.com/blogs/aws/retiring-the-aws-documentation-on-github/)
 - [AWS Week in Review –  New Open-Source Updates for Snapchange, Cedar, and Jupyter Community Contributions – May 15, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-new-open-source-updates-for-snapchange-cedar-and-jupyter-community-contributions-may-15-2023/)
 - [Learn How to Modernize Your Applications at AWS Serverless Innovation Day](https://aws.amazon.com/blogs/aws/learn-how-to-modernize-your-applications-at-aws-serverless-innovation-day/)
 - [New – Amazon Aurora I/O-Optimized Cluster Configuration with Up to 40% Cost Savings for I/O-Intensive Applications](https://aws.amazon.com/blogs/aws/new-amazon-aurora-i-o-optimized-cluster-configuration-with-up-to-40-cost-savings-for-i-o-intensive-applications/)
-- [New Storage-Optimized Amazon EC2 I4g Instances: Graviton Processors and AWS Nitro SSDs](https://aws.amazon.com/blogs/aws/new-storage-optimized-amazon-ec2-i4g-instances-graviton-processors-and-aws-nitro-ssds/)
 <!-- BLOG-POST-LIST:END -->  
