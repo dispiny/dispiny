@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Week in Review – AWS Wickr, Amazon Redshift, Generative AI, and More – May 29, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-aws-wickr-amazon-redshift-generative-ai-and-more-may-29-2023/)
 - [AWS Week in Review – AWS Documentation Updates, Amazon EventBridge is Faster, and More – May 22, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-aws-documentation-updates-amazon-eventbridge-is-faster-and-more-may-22-2023/)
 - [Amazon SageMaker Geospatial Capabilities Now Generally Available with Security Updates and More Use Case Samples](https://aws.amazon.com/blogs/aws/amazon-sagemaker-geospatial-capabilities-now-generally-available-with-security-updates-and-more-use-case-samples/)
 - [New – Simplify the Investigation of AWS Security Findings with Amazon Detective](https://aws.amazon.com/blogs/aws/new-simplify-the-investigation-of-aws-security-findings-with-amazon-detective/)
 - [Retiring the AWS Documentation on GitHub](https://aws.amazon.com/blogs/aws/retiring-the-aws-documentation-on-github/)
-- [AWS Week in Review –  New Open-Source Updates for Snapchange, Cedar, and Jupyter Community Contributions – May 15, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-new-open-source-updates-for-snapchange-cedar-and-jupyter-community-contributions-may-15-2023/)
 <!-- BLOG-POST-LIST:END -->  
