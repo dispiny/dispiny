@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [A New Set of APIs for Amazon SQS Dead-Letter Queue Redrive](https://aws.amazon.com/blogs/aws/a-new-set-of-apis-for-amazon-sqs-dead-letter-queue-redrive/)
 - [AWS Week in Review – Amazon Security Lake Now GA, New Actions on AWS Fault Injection Simulator, and More – June 5, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-amazon-security-lake-now-ga-new-actions-on-aws-fault-injection-simulator-and-more-june-5-2023/)
 - [New – AWS DMS Serverless: Automatically Provisions and Scales Capacity for Migration and Data Replication](https://aws.amazon.com/blogs/aws/new-aws-dms-serverless-automatically-provisions-and-scales-capacity-for-migration-and-data-replication/)
 - [New – Snowball Edge Storage Optimized Devices with More Storage and Bandwidth](https://aws.amazon.com/blogs/aws/new-snowball-edge-storage-optimized-devices-with-more-storage-and-bandwidth/)
 - [AWS Week in Review – AWS Wickr, Amazon Redshift, Generative AI, and More – May 29, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-aws-wickr-amazon-redshift-generative-ai-and-more-may-29-2023/)
-- [AWS Week in Review – AWS Documentation Updates, Amazon EventBridge is Faster, and More – May 22, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-aws-documentation-updates-amazon-eventbridge-is-faster-and-more-may-22-2023/)
 <!-- BLOG-POST-LIST:END -->  
