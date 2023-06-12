@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New – Move Payment Processing to the Cloud with AWS Payment Cryptography](https://aws.amazon.com/blogs/aws/new-move-payment-processing-to-the-cloud-with-aws-payment-cryptography/)
 - [Announcing the latest AWS Heroes – June 2023](https://aws.amazon.com/blogs/aws/announcing-the-latest-aws-heroes-june-2023/)
 - [A New Set of APIs for Amazon SQS Dead-Letter Queue Redrive](https://aws.amazon.com/blogs/aws/a-new-set-of-apis-for-amazon-sqs-dead-letter-queue-redrive/)
 - [AWS Week in Review – Amazon Security Lake Now GA, New Actions on AWS Fault Injection Simulator, and More – June 5, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-amazon-security-lake-now-ga-new-actions-on-aws-fault-injection-simulator-and-more-june-5-2023/)
 - [New – AWS DMS Serverless: Automatically Provisions and Scales Capacity for Migration and Data Replication](https://aws.amazon.com/blogs/aws/new-aws-dms-serverless-automatically-provisions-and-scales-capacity-for-migration-and-data-replication/)
-- [New – Snowball Edge Storage Optimized Devices with More Storage and Bandwidth](https://aws.amazon.com/blogs/aws/new-snowball-edge-storage-optimized-devices-with-more-storage-and-bandwidth/)
 <!-- BLOG-POST-LIST:END -->  
