@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Simplify How You Manage Authorization in Your Applications with Amazon Verified Permissions – Now Generally Available](https://aws.amazon.com/blogs/aws/simplify-how-you-manage-authorization-in-your-applications-with-amazon-verified-permissions-now-generally-available/)
 - [AWS Week in Review – Automate DLQ Redrive for SQS, Lambda Supports Ruby 3.2, and More – June 12, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-automate-dlq-redrive-for-sqs-lambda-supports-ruby-3-2-and-more-june-12-2023/)
 - [New – Move Payment Processing to the Cloud with AWS Payment Cryptography](https://aws.amazon.com/blogs/aws/new-move-payment-processing-to-the-cloud-with-aws-payment-cryptography/)
 - [Announcing the latest AWS Heroes – June 2023](https://aws.amazon.com/blogs/aws/announcing-the-latest-aws-heroes-june-2023/)
 - [A New Set of APIs for Amazon SQS Dead-Letter Queue Redrive](https://aws.amazon.com/blogs/aws/a-new-set-of-apis-for-amazon-sqs-dead-letter-queue-redrive/)
-- [AWS Week in Review – Amazon Security Lake Now GA, New Actions on AWS Fault Injection Simulator, and More – June 5, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-amazon-security-lake-now-ga-new-actions-on-aws-fault-injection-simulator-and-more-june-5-2023/)
 <!-- BLOG-POST-LIST:END -->  
