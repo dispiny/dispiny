@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Learn how to streamline and secure your SaaS applications at AWS Applications Innovation Day](https://aws.amazon.com/blogs/aws/learn-how-to-streamline-and-secure-your-saas-applications-at-aws-applications-innovation-day/)
 - [AWS Week in Review – Amazon EC2 Instance Connect Endpoint, Detective, Amazon S3 Dual Layer Encryption, Amazon Verified Permission – June 19, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-amazon-ec2-instance-connect-endpoint-detective-amazon-s3-dual-layer-encryption-amazon-verified-permission-june-19-2023/)
 - [How GoDaddy Implemented a Multi-Region Event-Driven Platform at Scale](https://aws.amazon.com/blogs/aws/how-godaddy-implemented-a-multi-region-event-driven-platform-at-scale/)
 - [Discover How AWS Designed Silicon Fuels Customer Outcomes at AWS Silicon Innovation Day](https://aws.amazon.com/blogs/aws/discover-how-aws-designed-silicon-fuels-customer-outcomes-at-aws-silicon-innovation-day/)
 - [New – Amazon S3 Dual-Layer Server-Side Encryption with Keys Stored in AWS Key Management Service &lpar;DSSE-KMS&rpar;](https://aws.amazon.com/blogs/aws/new-amazon-s3-dual-layer-server-side-encryption-with-keys-stored-in-aws-key-management-service-dsse-kms/)
-- [Simplify How You Manage Authorization in Your Applications with Amazon Verified Permissions – Now Generally Available](https://aws.amazon.com/blogs/aws/simplify-how-you-manage-authorization-in-your-applications-with-amazon-verified-permissions-now-generally-available/)
 <!-- BLOG-POST-LIST:END -->  
