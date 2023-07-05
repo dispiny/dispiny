@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Application Migration Service Major Updates: Global View, Import and Export from Local Disk, and Additional Post-launch Actions](https://aws.amazon.com/blogs/aws/aws-application-migration-service-major-updates-global-view-import-and-export-from-local-disk-and-additional-post-launch-actions/)
 - [AWS Week in Review – Generative AI with LLM Hands-on Course, Amazon SageMaker Data Wrangler Updates, and More – July 3, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-generative-ai-with-llm-hands-on-course-amazon-sagemaker-data-wrangler-updates-and-more-july-3-2023/)
 - [Generative AI with Large Language Models — New Hands-on Course by DeepLearning.AI and AWS](https://aws.amazon.com/blogs/aws/generative-ai-with-large-language-models-new-hands-on-course-by-deeplearning-ai-and-aws/)
 - [New AWS AppFabric Improves Application Observability for SaaS Applications](https://aws.amazon.com/blogs/aws/new-aws-appfabric-improves-application-observability-for-saas-applications/)
 - [AWS Week in Review – Step Functions Versions and Aliases, EC2 Instances with Graviton3E Processors, and More – June 26, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-step-functions-versions-and-aliases-ec2-instances-with-graviton3e-processors-and-more-june-26-2023/)
-- [New – Amazon EC2 Hpc7g Instances Powered by AWS Graviton3E Processors Optimized for High Performance Computing Workloads](https://aws.amazon.com/blogs/aws/new-amazon-ec2-hpc7g-instances-powered-by-aws-graviton3e-processors-optimized-for-high-performance-computing-workloads/)
 <!-- BLOG-POST-LIST:END -->  
