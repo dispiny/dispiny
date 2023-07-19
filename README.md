@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Reimagine Software Development With CodeWhisperer as Your AI Coding Companion](https://aws.amazon.com/blogs/aws/reimagine-software-development-with-codewhisperer-as-your-ai-coding-companion/)
 - [AWS Week in Review – Updates on Amazon FSx for NetApp ONTAP, AWS Lambda, eksctl, Karpenter, and More – July 17, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-updates-on-amazon-fsx-for-netapp-ontap-aws-lambda-eksctl-karpetner-and-more-july-17-2023/)
 - [AWS Fargate Enables Faster Container Startup using Seekable OCI](https://aws.amazon.com/blogs/aws/aws-fargate-enables-faster-container-startup-using-seekable-oci/)
 - [New – Amazon FSx for NetApp ONTAP Now Supports WORM Protection for Regulatory Compliance and Ransomware Protection](https://aws.amazon.com/blogs/aws/new-amazon-fsx-for-netapp-ontap-now-supports-worm-protection-for-regulatory-compliance-and-ransomware-protection/)
 - [AWS Week in Review – AWS Glue Crawlers Now Supports Apache Iceberg, Amazon RDS Updates, and More – July 10, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-aws-glue-crawlers-now-supports-apache-iceberg-amazon-rds-updates-and-more-july-10-2023/)
-- [New Solution – Clickstream Analytics on AWS for Mobile and Web Applications](https://aws.amazon.com/blogs/aws/new-solution-clickstream-analytics-on-aws-for-mobile-and-web-applications/)
 <!-- BLOG-POST-LIST:END -->  
