@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New – Amazon EC2 P5 Instances Powered by NVIDIA H100 Tensor Core GPUs for Accelerating Generative AI and HPC Applications](https://aws.amazon.com/blogs/aws/new-amazon-ec2-p5-instances-powered-by-nvidia-h100-tensor-core-gpus-for-accelerating-generative-ai-and-hpc-applications/)
 - [AWS Entity Resolution: Match and Link Related Records from Multiple Applications and Data Stores](https://aws.amazon.com/blogs/aws/aws-entity-resolution-match-and-link-related-records-from-multiple-applications-and-data-stores/)
 - [Preview – Enable Foundation Models to Complete Tasks With Agents for Amazon Bedrock](https://aws.amazon.com/blogs/aws/preview-enable-foundation-models-to-complete-tasks-with-agents-for-amazon-bedrock/)
 - [Top Announcements of the AWS Summit in New York, 2023](https://aws.amazon.com/blogs/aws/top-announcements-of-the-aws-summit-in-new-york-2023/)
 - [AWS Week in Review – Redshift+Forecast, CodeCatalyst+GitHub, Lex Analytics, Llama 2, and Much More – July 24, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-redshiftforecast-codecatalystgithub-lex-analytics-llama-2-and-much-more-july-24-2023/)
-- [Amazon Route 53 Resolver Now Available on AWS Outposts Rack](https://aws.amazon.com/blogs/aws/amazon-route-53-resolver-now-available-on-aws-outposts-rack/)
 <!-- BLOG-POST-LIST:END -->  
