@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Top Announcements of the AWS Summit in New York, 2023](https://aws.amazon.com/blogs/aws/top-announcements-of-the-aws-summit-in-new-york-2023/)
 - [AWS Week in Review – Redshift+Forecast, CodeCatalyst+GitHub, Lex Analytics, Llama 2, and Much More – July 24, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-redshiftforecast-codecatalystgithub-lex-analytics-llama-2-and-much-more-july-24-2023/)
 - [Amazon Route 53 Resolver Now Available on AWS Outposts Rack](https://aws.amazon.com/blogs/aws/amazon-route-53-resolver-now-available-on-aws-outposts-rack/)
 - [Reimagine Software Development With CodeWhisperer as Your AI Coding Companion](https://aws.amazon.com/blogs/aws/reimagine-software-development-with-codewhisperer-as-your-ai-coding-companion/)
 - [AWS Week in Review – Updates on Amazon FSx for NetApp ONTAP, AWS Lambda, eksctl, Karpenter, and More – July 17, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-updates-on-amazon-fsx-for-netapp-ontap-aws-lambda-eksctl-karpetner-and-more-july-17-2023/)
-- [AWS Fargate Enables Faster Container Startup using Seekable OCI](https://aws.amazon.com/blogs/aws/aws-fargate-enables-faster-container-startup-using-seekable-oci/)
 <!-- BLOG-POST-LIST:END -->  
