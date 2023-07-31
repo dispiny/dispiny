@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Week in Review – Agents for Amazon Bedrock, Amazon SageMaker Canvas New Capabilities, and More – July 31, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-agents-for-amazon-bedrock-amazon-sagemaker-canvas-new-capabilities-and-more-july-31-2023/)
 - [New – AWS Public IPv4 Address Charge + Public IP Insights](https://aws.amazon.com/blogs/aws/new-aws-public-ipv4-address-charge-public-ip-insights/)
 - [New Amazon EC2 Instances &lpar;C7gd, M7gd, and R7gd&rpar; Powered by AWS Graviton3 Processor with Local NVMe-based SSD Storage](https://aws.amazon.com/blogs/aws/new-amazon-ec2-instances-c7gd-m7gd-and-r7gd-powered-by-aws-graviton3-processor-with-local-nvme-based-ssd-storage/)
 - [New: AWS Local Zone in Phoenix, Arizona – More Instance Types, More EBS Storage Classes, and More Services](https://aws.amazon.com/blogs/aws/new-aws-local-zone-in-phoenix-arizona-more-instance-types-more-ebs-storage-classes-and-more-services/)
 - [New – Amazon EC2 P5 Instances Powered by NVIDIA H100 Tensor Core GPUs for Accelerating Generative AI and HPC Applications](https://aws.amazon.com/blogs/aws/new-amazon-ec2-p5-instances-powered-by-nvidia-h100-tensor-core-gpus-for-accelerating-generative-ai-and-hpc-applications/)
-- [AWS Entity Resolution: Match and Link Related Records from Multiple Applications and Data Stores](https://aws.amazon.com/blogs/aws/aws-entity-resolution-match-and-link-related-records-from-multiple-applications-and-data-stores/)
 <!-- BLOG-POST-LIST:END -->  
