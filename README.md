@@ -92,7 +92,7 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
-- [Now Open – AWS Israel &lpar;Tel Aviv &rpar; Region](https://aws.amazon.com/blogs/aws/now-open-aws-israel-tel-aviv-region/)
+- [Now Open – AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/blogs/aws/now-open-aws-israel-tel-aviv-region/)
 - [AWS Week in Review – Agents for Amazon Bedrock, Amazon SageMaker Canvas New Capabilities, and More – July 31, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-agents-for-amazon-bedrock-amazon-sagemaker-canvas-new-capabilities-and-more-july-31-2023/)
 - [New – AWS Public IPv4 Address Charge + Public IP Insights](https://aws.amazon.com/blogs/aws/new-aws-public-ipv4-address-charge-public-ip-insights/)
 - [New Amazon EC2 Instances &lpar;C7gd, M7gd, and R7gd&rpar; Powered by AWS Graviton3 Processor with Local NVMe-based SSD Storage](https://aws.amazon.com/blogs/aws/new-amazon-ec2-instances-c7gd-m7gd-and-r7gd-powered-by-aws-graviton3-processor-with-local-nvme-based-ssd-storage/)
