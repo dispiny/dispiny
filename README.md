@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New — Deliver Interactive Real-Time Live Streams with Amazon IVS](https://aws.amazon.com/blogs/aws/new-deliver-interactive-real-time-live-streams-with-amazon-ivs/)
 - [New Seventh-Generation General Purpose Amazon EC2 Instances &lpar;M7i-Flex and M7i&rpar;](https://aws.amazon.com/blogs/aws/new-seventh-generation-general-purpose-amazon-ec2-instances-m7i-flex-and-m7i/)
 - [Prime Day 2023 Powered by AWS – All the Numbers](https://aws.amazon.com/blogs/aws/prime-day-2023-powered-by-aws-all-the-numbers/)
 - [Introducing the first AWS Security Heroes](https://aws.amazon.com/blogs/aws/introducing-the-first-aws-security-heroes/)
 - [Now Open – AWS Israel &lpar;Tel Aviv&rpar; Region](https://aws.amazon.com/blogs/aws/now-open-aws-israel-tel-aviv-region/)
-- [AWS Week in Review – Agents for Amazon Bedrock, Amazon SageMaker Canvas New Capabilities, and More – July 31, 2023](https://aws.amazon.com/blogs/aws/aws-week-in-review-agents-for-amazon-bedrock-amazon-sagemaker-canvas-new-capabilities-and-more-july-31-2023/)
 <!-- BLOG-POST-LIST:END -->  
