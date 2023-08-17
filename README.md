@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New – Amazon EC2 Hpc7a Instances Powered by 4th Gen AMD EPYC Processors Optimized for High Performance Computing](https://aws.amazon.com/blogs/aws/new-amazon-ec2-hpc7a-instances-powered-by-4th-gen-amd-epyc-processors-optimized-for-high-performance-computing/)
 - [Join AWS Hybrid Cloud &amp; Edge Day to Learn How to Deploy Your Applications in the Everywhere Cloud](https://aws.amazon.com/blogs/aws/join-aws-hybrid-cloud-edge-day-to-learn-how-to-deploy-your-applications-in-the-everywhere-cloud/)
 - [New – Amazon EC2 M7a General Purpose Instances Powered by 4th Gen AMD EPYC Processors](https://aws.amazon.com/blogs/aws/new-amazon-ec2-m7a-general-purpose-instances-powered-by-4th-gen-amd-epyc-processors/)
 - [AWS Weekly Roundup – Amazon MWAA, EMR Studio, Generative AI, and More – August 14, 2023](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-mwaa-emr-studio-generative-ai-and-more-august-14-2023/)
 - [New — File Release for Amazon FSx for Lustre](https://aws.amazon.com/blogs/aws/new-file-release-for-amazon-fsx-for-lustre/)
-- [Welcome to AWS Storage Day 2023](https://aws.amazon.com/blogs/aws/welcome-to-aws-storage-day-2023/)
 <!-- BLOG-POST-LIST:END -->  
