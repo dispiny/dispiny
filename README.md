@@ -92,7 +92,7 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
-- [AWS Weekly Roundup – AWS Dedicated Zones, Events and More – August 28, 2023](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-dedicated-zones-events-and-more-august-28-2023/)
+- [AWS Weekly Roundup – AWS Dedicated Local Zones, Events and More – August 28, 2023](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-dedicated-zones-events-and-more-august-28-2023/)
 - [AWS Weekly Roundup – AWS AppSync, AWS CodePipeline, Events and More – August 21, 2023](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-appsync-aws-codepipeline-events-and-more-august-21-2023/)
 - [New – Amazon EC2 Hpc7a Instances Powered by 4th Gen AMD EPYC Processors Optimized for High Performance Computing](https://aws.amazon.com/blogs/aws/new-amazon-ec2-hpc7a-instances-powered-by-4th-gen-amd-epyc-processors-optimized-for-high-performance-computing/)
 - [Join AWS Hybrid Cloud &amp; Edge Day to Learn How to Deploy Your Applications in the Everywhere Cloud](https://aws.amazon.com/blogs/aws/join-aws-hybrid-cloud-edge-day-to-learn-how-to-deploy-your-applications-in-the-everywhere-cloud/)
