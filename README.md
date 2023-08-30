@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Announcing Amazon Managed Service for Apache Flink Renamed from Amazon Kinesis Data Analytics](https://aws.amazon.com/blogs/aws/announcing-amazon-managed-service-for-apache-flink-renamed-from-amazon-kinesis-data-analytics/)
 - [AWS Weekly Roundup – AWS Dedicated Local Zones, Events and More – August 28, 2023](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-dedicated-zones-events-and-more-august-28-2023/)
 - [AWS Weekly Roundup – AWS AppSync, AWS CodePipeline, Events and More – August 21, 2023](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-appsync-aws-codepipeline-events-and-more-august-21-2023/)
 - [New – Amazon EC2 Hpc7a Instances Powered by 4th Gen AMD EPYC Processors Optimized for High Performance Computing](https://aws.amazon.com/blogs/aws/new-amazon-ec2-hpc7a-instances-powered-by-4th-gen-amd-epyc-processors-optimized-for-high-performance-computing/)
 - [Join AWS Hybrid Cloud &amp; Edge Day to Learn How to Deploy Your Applications in the Everywhere Cloud](https://aws.amazon.com/blogs/aws/join-aws-hybrid-cloud-edge-day-to-learn-how-to-deploy-your-applications-in-the-everywhere-cloud/)
-- [New – Amazon EC2 M7a General Purpose Instances Powered by 4th Gen AMD EPYC Processors](https://aws.amazon.com/blogs/aws/new-amazon-ec2-m7a-general-purpose-instances-powered-by-4th-gen-amd-epyc-processors/)
 <!-- BLOG-POST-LIST:END -->  
