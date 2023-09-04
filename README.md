@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: Farewell EC2-Classic, EBS at 15 Years, and More &lpar;Sept. 4, 2023&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-farewell-ec2-classic-ebs-at-15-years-and-more-sept-4-2023/)
 - [Announcing Amazon Managed Service for Apache Flink Renamed from Amazon Kinesis Data Analytics](https://aws.amazon.com/blogs/aws/announcing-amazon-managed-service-for-apache-flink-renamed-from-amazon-kinesis-data-analytics/)
 - [AWS Weekly Roundup – AWS Dedicated Local Zones, Events and More – August 28, 2023](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-dedicated-zones-events-and-more-august-28-2023/)
 - [AWS Weekly Roundup – AWS AppSync, AWS CodePipeline, Events and More – August 21, 2023](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-appsync-aws-codepipeline-events-and-more-august-21-2023/)
 - [New – Amazon EC2 Hpc7a Instances Powered by 4th Gen AMD EPYC Processors Optimized for High Performance Computing](https://aws.amazon.com/blogs/aws/new-amazon-ec2-hpc7a-instances-powered-by-4th-gen-amd-epyc-processors-optimized-for-high-performance-computing/)
-- [Join AWS Hybrid Cloud &amp; Edge Day to Learn How to Deploy Your Applications in the Everywhere Cloud](https://aws.amazon.com/blogs/aws/join-aws-hybrid-cloud-edge-day-to-learn-how-to-deploy-your-applications-in-the-everywhere-cloud/)
 <!-- BLOG-POST-LIST:END -->  
