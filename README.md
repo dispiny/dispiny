@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New – Amazon EC2 R7iz Instances Memory-Optimized for High CPU Performance, Memory-Intensive Workloads](https://aws.amazon.com/blogs/aws/new-amazon-ec2-r7iz-instances-memory-optimized-for-high-cpu-performance-memory-intensive-workloads/)
 - [The newest AWS Heroes are here – September 2023](https://aws.amazon.com/blogs/aws/the-newest-aws-heroes-are-here-september-2023/)
 - [AWS End User Computing Innovation Day 2023:  Architecting End User Computing for Change and Agility](https://aws.amazon.com/blogs/aws/aws-end-user-computing-innovation-day-2023-architecting-end-user-computing-for-change-and-agility/)
 - [How Vercel Shipped Cron Jobs in 2 Months Using Amazon EventBridge Scheduler](https://aws.amazon.com/blogs/aws/how-vercel-shipped-cron-jobs-in-2-months-using-amazon-eventbridge-scheduler/)
 - [AWS Weekly Roundup: Farewell EC2-Classic, EBS at 15 Years, and More &lpar;Sept. 4, 2023&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-farewell-ec2-classic-ebs-at-15-years-and-more-sept-4-2023/)
-- [Announcing Amazon Managed Service for Apache Flink Renamed from Amazon Kinesis Data Analytics](https://aws.amazon.com/blogs/aws/announcing-amazon-managed-service-for-apache-flink-renamed-from-amazon-kinesis-data-analytics/)
 <!-- BLOG-POST-LIST:END -->  
