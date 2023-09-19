@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New – NVMe Reservations for Amazon Elastic Block Store io2 Volumes](https://aws.amazon.com/blogs/aws/new-nvme-reservations-for-amazon-elastic-block-store-io2-volumes/)
 - [AWS Weekly Roundup: C7i Instances, Knowledge Base for Amazon Bedrock, and More &lpar;Sept. 18, 2023&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-c7i-instances-knowledge-base-for-amazon-bedrock-and-more-sept-18-2023/)
 - [Preview – Connect Foundation Models to Your Company Data Sources with Agents for Amazon Bedrock](https://aws.amazon.com/blogs/aws/preview-connect-foundation-models-to-your-company-data-sources-with-agents-for-amazon-bedrock/)
 - [New – Amazon EC2 R7a Instances Powered By 4th Gen AMD EPYC Processors for Memory Optimized Workloads](https://aws.amazon.com/blogs/aws/new-amazon-ec2-r7a-instances-powered-by-4th-gen-amd-epyc-processors-for-memory-optimized-workloads/)
 - [AWS Weekly Roundup: R7iz Instances, Amazon Connect, CloudWatch Logs, and Lots More &lpar;Sept. 11, 2023&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-r7iz-instances-amazon-connect-cloudwatch-logs-and-lots-more-sept-11-2023/)
-- [New Amazon EC2 R7iz Instances are Optimized for High CPU Performance, Memory-Intensive Workloads](https://aws.amazon.com/blogs/aws/new-amazon-ec2-r7iz-instances-memory-optimized-for-high-cpu-performance-memory-intensive-workloads/)
 <!-- BLOG-POST-LIST:END -->  
