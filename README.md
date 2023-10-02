@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup – Amazon Bedrock Is Now Generally Available, Attend AWS Innovate Online, and More – Oct 2, 2023](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-is-now-generally-available-attend-aws-innovate-online-and-more-oct-2-2023/)
 - [Amazon Bedrock Is Now Generally Available – Build and Scale Generative AI Applications with Foundation Models](https://aws.amazon.com/blogs/aws/amazon-bedrock-is-now-generally-available-build-and-scale-generative-ai-applications-with-foundation-models/)
 - [Amazon MSK Introduces Managed Data Delivery from Apache Kafka to Your Data Lake](https://aws.amazon.com/blogs/aws/amazon-msk-introduces-managed-data-delivery-from-apache-kafka-to-your-data-lake/)
 - [AWS Weekly Roundup: Amazon EC2 M2 Pro Mac, Amazon Coretto 21, Amazon CloudWatch Synthetics, and more &lpar;Sept. 25, 2023&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-m2-pro-mac-amazon-coretto-21-amazon-cloudwatch-synthetics-and-more-sept-25-2023/)
 - [New – Add Your Swift Packages to AWS CodeArtifact](https://aws.amazon.com/blogs/aws/new-add-your-swift-packages-to-aws-codeartifact/)
-- [New – Amazon EC2 M2 Pro Mac Instances Built on Apple Silicon M2 Pro Mac Mini Computers](https://aws.amazon.com/blogs/aws/new-amazon-ec2-m2-pro-mac-instances-built-on-apple-silicon-m2-pro-mac-mini-computers/)
 <!-- BLOG-POST-LIST:END -->  
