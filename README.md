@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS ExecLeaders Data and Generative AI Day: Fueling Business Growth with Data and Generative AI](https://aws.amazon.com/blogs/aws/aws-execleaders-data-and-generative-ai-day-fueling-business-growth-with-data-and-generative-ai/)
 - [New – Amazon EC2 C7a Instances Powered By 4th Gen AMD EPYC Processors for Compute Optimized Workloads](https://aws.amazon.com/blogs/aws/new-amazon-ec2-c7a-instances-powered-by-4th-gen-amd-epyc-processors-for-compute-optimized-workloads/)
 - [Amazon DataZone Now Generally Available – Collaborate on Data Projects across Organizational Boundaries](https://aws.amazon.com/blogs/aws/amazon-datazone-now-generally-available-collaborate-on-data-projects-across-organizational-boundaries/)
 - [AWS Weekly Roundup – Amazon Bedrock Is Now Generally Available, Attend AWS Innovate Online, and More – Oct 2, 2023](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-is-now-generally-available-attend-aws-innovate-online-and-more-oct-2-2023/)
 - [Amazon Bedrock Is Now Generally Available – Build and Scale Generative AI Applications with Foundation Models](https://aws.amazon.com/blogs/aws/amazon-bedrock-is-now-generally-available-build-and-scale-generative-ai-applications-with-foundation-models/)
-- [Amazon MSK Introduces Managed Data Delivery from Apache Kafka to Your Data Lake](https://aws.amazon.com/blogs/aws/amazon-msk-introduces-managed-data-delivery-from-apache-kafka-to-your-data-lake/)
 <!-- BLOG-POST-LIST:END -->  
