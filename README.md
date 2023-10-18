@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Amazon MSK Replicator – Fully Managed Replication across MSK Clusters in Same or Different AWS Regions](https://aws.amazon.com/blogs/aws/introducing-amazon-msk-replicator-fully-managed-replication-across-msk-clusters-in-same-or-different-aws-regions/)
 - [New Customization Capability in Amazon CodeWhisperer Generates Even Better Suggestions &lpar;Preview&rpar;](https://aws.amazon.com/blogs/aws/new-customization-capability-in-amazon-codewhisperer-generates-even-better-suggestions-preview/)
 - [New – Seventh Generation Memory-optimized Amazon EC2 Instances &lpar;R7i&rpar;](https://aws.amazon.com/blogs/aws/new-seventh-generation-memory-optimized-amazon-ec2-instances-r7i/)
 - [AWS Weekly Roundup – EBS Status Check, Textract Custom Queries, Amazon Linux 2, and more – October 16, 2023](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ebs-status-check-textract-custom-queries-amazon-linux-2-and-more-october-16-2023/)
 - [AWS Weekly Roundup: AWS Control Tower, Amazon Bedrock, Amazon OpenSearch Service, and More &lpar;October 9, 2023&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-control-tower-amazon-bedrock-amazon-opensearch-service-and-more-october-9-2023/)
-- [AWS ExecLeaders Data and Generative AI Day: Fueling Business Growth with Data and Generative AI](https://aws.amazon.com/blogs/aws/aws-execleaders-data-and-generative-ai-day-fueling-business-growth-with-data-and-generative-ai/)
 <!-- BLOG-POST-LIST:END -->  
