@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [In the Works – AWS European Sovereign Cloud](https://aws.amazon.com/blogs/aws/in-the-works-aws-european-sovereign-cloud/)
 - [AWS Weekly Roundup – CodeWhisperer, CodeCatalyst, RDS, Route53, and more – October 24, 2023](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-codewhisperer-codecatalyst-rds-route53-and-more-october-23-2023/)
 - [Rotate Your SSL/TLS Certificates Now – Amazon RDS and Amazon Aurora Expire in 2024](https://aws.amazon.com/blogs/aws/rotate-your-ssl-tls-certificates-now-amazon-rds-and-amazon-aurora-expire-in-2024/)
 - [Introducing Amazon MSK Replicator – Fully Managed Replication across MSK Clusters in Same or Different AWS Regions](https://aws.amazon.com/blogs/aws/introducing-amazon-msk-replicator-fully-managed-replication-across-msk-clusters-in-same-or-different-aws-regions/)
 - [New Customization Capability in Amazon CodeWhisperer Generates Even Better Suggestions &lpar;Preview&rpar;](https://aws.amazon.com/blogs/aws/new-customization-capability-in-amazon-codewhisperer-generates-even-better-suggestions-preview/)
-- [New – Seventh Generation Memory-optimized Amazon EC2 Instances &lpar;R7i&rpar;](https://aws.amazon.com/blogs/aws/new-seventh-generation-memory-optimized-amazon-ec2-instances-r7i/)
 <!-- BLOG-POST-LIST:END -->  
