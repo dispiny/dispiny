@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup—Reserve GPU capacity for short ML workloads, Finch is GA, and more—November 6, 2023](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-reserve-gpu-capacity-for-short-ml-workloads-finch-is-ga-and-more-november-6-2023/)
+- [Amazon EC2 Instance Metadata Service IMDSv2 by default](https://aws.amazon.com/blogs/aws/amazon-ec2-instance-metadata-service-imdsv2-by-default/)
 - [Announcing Amazon EC2 Capacity Blocks for ML to reserve GPU capacity for your machine learning workloads](https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-capacity-blocks-for-ml-to-reserve-gpu-capacity-for-your-machine-learning-workloads/)
 - [AWS Weekly Roundup – re:Post Selections, SNS and SQS FIFO improvements, multi-VPC ENI attachments, and more – October 30, 2023](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-repost-selections-sns-and-sqs-fifo-improvements-multi-vpc-eni-attachments-and-more-october-30-2023/)
 - [In the Works – AWS European Sovereign Cloud](https://aws.amazon.com/blogs/aws/in-the-works-aws-european-sovereign-cloud/)
-- [AWS Weekly Roundup – CodeWhisperer, CodeCatalyst, RDS, Route53, and more – October 24, 2023](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-codewhisperer-codecatalyst-rds-route53-and-more-october-23-2023/)
-- [Rotate Your SSL/TLS Certificates Now – Amazon RDS and Amazon Aurora Expire in 2024](https://aws.amazon.com/blogs/aws/rotate-your-ssl-tls-certificates-now-amazon-rds-and-amazon-aurora-expire-in-2024/)
 <!-- BLOG-POST-LIST:END -->  
