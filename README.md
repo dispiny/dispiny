@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New – Create application-consistent snapshots using Amazon Data Lifecycle Manager and custom scripts](https://aws.amazon.com/blogs/aws/new-create-application-consistent-snapshots-using-amazon-data-lifecycle-manager-and-custom-scripts/)
 - [AWS Weekly Roundup—Reserve GPU capacity for short ML workloads, Finch is GA, and more—November 6, 2023](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-reserve-gpu-capacity-for-short-ml-workloads-finch-is-ga-and-more-november-6-2023/)
 - [Amazon EC2 Instance Metadata Service IMDSv2 by default](https://aws.amazon.com/blogs/aws/amazon-ec2-instance-metadata-service-imdsv2-by-default/)
 - [Announcing Amazon EC2 Capacity Blocks for ML to reserve GPU capacity for your machine learning workloads](https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-capacity-blocks-for-ml-to-reserve-gpu-capacity-for-your-machine-learning-workloads/)
 - [AWS Weekly Roundup – re:Post Selections, SNS and SQS FIFO improvements, multi-VPC ENI attachments, and more – October 30, 2023](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-repost-selections-sns-and-sqs-fifo-improvements-multi-vpc-eni-attachments-and-more-october-30-2023/)
-- [In the Works – AWS European Sovereign Cloud](https://aws.amazon.com/blogs/aws/in-the-works-aws-european-sovereign-cloud/)
 <!-- BLOG-POST-LIST:END -->  
