@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New – Block Public Sharing of Amazon EBS Snapshots](https://aws.amazon.com/blogs/aws/new-block-public-sharing-of-amazon-ebs-snapshots/)
 - [New for Amazon Comprehend – Toxicity Detection](https://aws.amazon.com/blogs/aws/new-for-amazon-comprehend-toxicity-detection/)
 - [New – Manage Planned Lifecycle Events on AWS Health](https://aws.amazon.com/blogs/aws/new-manage-planned-lifecycle-events-on-aws-health/)
 - [Amazon Aurora MySQL zero-ETL integration with Amazon Redshift is now generally available](https://aws.amazon.com/blogs/aws/amazon-aurora-mysql-zero-etl-integration-with-amazon-redshift-is-now-generally-available/)
 - [New – Create application-consistent snapshots using Amazon Data Lifecycle Manager and custom scripts](https://aws.amazon.com/blogs/aws/new-create-application-consistent-snapshots-using-amazon-data-lifecycle-manager-and-custom-scripts/)
-- [AWS Weekly Roundup—Reserve GPU capacity for short ML workloads, Finch is GA, and more—November 6, 2023](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-reserve-gpu-capacity-for-short-ml-workloads-finch-is-ga-and-more-november-6-2023/)
 <!-- BLOG-POST-LIST:END -->  
