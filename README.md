@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Bedrock now provides access to Meta’s Llama 2 Chat 13B model](https://aws.amazon.com/blogs/aws/amazon-bedrock-now-provides-access-to-llama-2-chat-13b-model/)
 - [Amazon Bedrock now provides access to Cohere Command Light and Cohere Embed English and multilingual models](https://aws.amazon.com/blogs/aws/amazon-bedrock-now-provides-access-to-cohere-command-light-and-cohere-embed-english-and-multilingual-models/)
 - [AWS Weekly Roundup – CloudFront security dashboard, EBS snapshots improvements, and more – November 13, 2023](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-cloudfront-security-dashboard-ebs-snapshots-improvements-and-more-november-13-2023/)
 - [New for Amazon SQS – Update the AWS SDK to reduce latency](https://aws.amazon.com/blogs/aws/new-for-amazon-sqs-update-the-aws-sdk-to-reduce-latency/)
 - [New – Block Public Sharing of Amazon EBS Snapshots](https://aws.amazon.com/blogs/aws/new-block-public-sharing-of-amazon-ebs-snapshots/)
-- [New for Amazon Comprehend – Toxicity Detection](https://aws.amazon.com/blogs/aws/new-for-amazon-comprehend-toxicity-detection/)
 <!-- BLOG-POST-LIST:END -->  
