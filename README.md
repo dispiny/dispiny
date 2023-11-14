@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New – Multi-account search in AWS Resource Explorer](https://aws.amazon.com/blogs/aws/new-multi-account-search-in-aws-resource-explorer/)
 - [New – AWS Audit Manager now supports first third-party GRC integration](https://aws.amazon.com/blogs/aws/new-aws-audit-manager-now-supports-first-third-party-grc-integration/)
 - [AWS Glue Data Catalog now supports automatic compaction of Apache Iceberg tables](https://aws.amazon.com/blogs/aws/aws-glue-data-catalog-now-supports-automatic-compaction-of-apache-iceberg-tables/)
 - [Meet the final cohort of AWS Heroes this year – November 2023](https://aws.amazon.com/blogs/aws/meet-the-final-cohort-of-aws-heroes-this-year-november-2023/)
 - [Amazon Bedrock now provides access to Meta’s Llama 2 Chat 13B model](https://aws.amazon.com/blogs/aws/amazon-bedrock-now-provides-access-to-llama-2-chat-13b-model/)
-- [Amazon Bedrock now provides access to Cohere Command Light and Cohere Embed English and multilingual models](https://aws.amazon.com/blogs/aws/amazon-bedrock-now-provides-access-to-cohere-command-light-and-cohere-embed-english-and-multilingual-models/)
 <!-- BLOG-POST-LIST:END -->  
