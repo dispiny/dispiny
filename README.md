@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Happy anniversary, Amazon CloudFront: 15 years of evolution and internet advancements](https://aws.amazon.com/blogs/aws/happy-anniversary-amazon-cloudfront-15-years-of-evolution-and-internet-advancements/)
 - [New – Long-Form voices for Amazon Polly](https://aws.amazon.com/blogs/aws/new-long-form-voices-for-amazon-polly/)
 - [Build AI apps with PartyRock and Amazon Bedrock](https://aws.amazon.com/blogs/aws/build-ai-apps-with-partyrock-and-amazon-bedrock/)
 - [New – Amazon EBS Snapshot Lock](https://aws.amazon.com/blogs/aws/new-amazon-ebs-snapshot-lock/)
 - [New – Multi-account search in AWS Resource Explorer](https://aws.amazon.com/blogs/aws/new-multi-account-search-in-aws-resource-explorer/)
-- [New – AWS Audit Manager now supports first third-party GRC integration](https://aws.amazon.com/blogs/aws/new-aws-audit-manager-now-supports-first-third-party-grc-integration/)
 <!-- BLOG-POST-LIST:END -->  
