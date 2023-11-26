@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Amazon CloudFront KeyValueStore: A low-latency datastore for CloudFront Functions](https://aws.amazon.com/blogs/aws/introducing-amazon-cloudfront-keyvaluestore-a-low-latency-datastore-for-cloudfront-functions/)
-- [AWS Weekly Roundup – EC2 DL2q instances, PartyRock, Amplify’s 6th birthday, and more – November 20, 2023](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ec2-dl2q-instances-partyrock-amplifys-6th-birthday-and-more-november-20-2023/)
-- [Happy anniversary, Amazon CloudFront: 15 years of evolution and internet advancements](https://aws.amazon.com/blogs/aws/happy-anniversary-amazon-cloudfront-15-years-of-evolution-and-internet-advancements/)
-- [New – Long-Form voices for Amazon Polly](https://aws.amazon.com/blogs/aws/new-long-form-voices-for-amazon-polly/)
-- [Build AI apps with PartyRock and Amazon Bedrock](https://aws.amazon.com/blogs/aws/build-ai-apps-with-partyrock-and-amazon-bedrock/)
+- [Increase collaboration and securely share cloud knowledge with AWS re:Post Private](https://aws.amazon.com/blogs/aws/increase-collaboration-and-securely-share-cloud-knowledge-with-aws-repost-private/)
+- [Use anomaly detection with AWS Glue to improve data quality &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/use-anomaly-detection-with-aws-glue-to-improve-data-quality-preview/)
+- [Mutual authentication for Application Load Balancer reliably verifies certificate-based client identities](https://aws.amazon.com/blogs/aws/mutual-authentication-for-application-load-balancer-to-reliably-verify-certificate-based-client-identities/)
+- [Use natural language to query Amazon CloudWatch logs and metrics &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/use-natural-language-to-query-amazon-cloudwatch-logs-and-metrics-preview/)
+- [Check your AWS Free Tier usage programmatically with a new API](https://aws.amazon.com/blogs/aws/check-your-aws-free-tier-usage-programmatically-with-a-new-api/)
 <!-- BLOG-POST-LIST:END -->  
