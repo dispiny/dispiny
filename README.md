@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Top announcements of AWS re:Invent 2023](https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2023/)
 - [Use natural language to query Amazon CloudWatch logs and metrics &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/use-natural-language-to-query-amazon-cloudwatch-logs-and-metrics-preview/)
 - [Increase collaboration and securely share cloud knowledge with AWS re:Post Private](https://aws.amazon.com/blogs/aws/increase-collaboration-and-securely-share-cloud-knowledge-with-aws-repost-private/)
 - [Use anomaly detection with AWS Glue to improve data quality &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/use-anomaly-detection-with-aws-glue-to-improve-data-quality-preview/)
 - [Mutual authentication for Application Load Balancer reliably verifies certificate-based client identities](https://aws.amazon.com/blogs/aws/mutual-authentication-for-application-load-balancer-to-reliably-verify-certificate-based-client-identities/)
-- [Check your AWS Free Tier usage programmatically with a new API](https://aws.amazon.com/blogs/aws/check-your-aws-free-tier-usage-programmatically-with-a-new-api/)
 <!-- BLOG-POST-LIST:END -->  
