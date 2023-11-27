@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
-- [Top announcements of AWS re:Invent 2023](https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2023/)
-- [Use natural language to query Amazon CloudWatch logs and metrics &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/use-natural-language-to-query-amazon-cloudwatch-logs-and-metrics-preview/)
-- [Increase collaboration and securely share cloud knowledge with AWS re:Post Private](https://aws.amazon.com/blogs/aws/increase-collaboration-and-securely-share-cloud-knowledge-with-aws-repost-private/)
-- [Use anomaly detection with AWS Glue to improve data quality &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/use-anomaly-detection-with-aws-glue-to-improve-data-quality-preview/)
-- [Mutual authentication for Application Load Balancer reliably verifies certificate-based client identities](https://aws.amazon.com/blogs/aws/mutual-authentication-for-application-load-balancer-to-reliably-verify-certificate-based-client-identities/)
+- [New – Scale-out file systems for Amazon FSx for NetApp ONTAP](https://aws.amazon.com/blogs/aws/new-scale-out-file-systems-for-amazon-fsx-for-netapp-ontap/)
+- [Introducing shared VPC support for Amazon FSx for NetApp ONTAP](https://aws.amazon.com/blogs/aws/introducing-shared-vpc-support-for-amazon-fsx-for-netapp-ontap/)
+- [Announcing on-demand data replication for Amazon FSx for OpenZFS](https://aws.amazon.com/blogs/aws/on-demand-data-replication-for-amazon-fsx-for-openzfs/)
+- [AWS Lambda functions now scale 12 times faster when handling high-volume requests](https://aws.amazon.com/blogs/aws/aws-lambda-functions-now-scale-12-times-faster-when-handling-high-volume-requests/)
+- [IAM Access Analyzer updates: Find unused access, check policies before deployment](https://aws.amazon.com/blogs/aws/iam-access-analyzer-updates-find-unused-access-check-policies-before-deployment/)
 <!-- BLOG-POST-LIST:END -->  
