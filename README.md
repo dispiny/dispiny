@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
-- [Manage EDI at scale with new AWS B2B Data Interchange](https://aws.amazon.com/blogs/aws/introducing-aws-b2b-data-interchange-simplified-connections-with-your-trading-partners/)
-- [Automatic restore testing and validation now available in AWS Backup](https://aws.amazon.com/blogs/aws/automatic-restore-testing-and-validation-is-now-available-in-aws-backup/)
-- [Amazon CodeWhisperer offers new AI-powered code remediation, IaC support, and integration with Visual Studio](https://aws.amazon.com/blogs/aws/amazon-codewhisperer-offers-new-ai-powered-code-remediation-iac-support-and-integration-with-visual-studio/)
-- [FlexGroup Volume Management for Amazon FSx for NetApp ONTAP is now available](https://aws.amazon.com/blogs/aws/flexgroup-volume-management-for-amazon-fsx-for-netapp-ontap-is-now-available/)
-- [New – Scale-out file systems for Amazon FSx for NetApp ONTAP](https://aws.amazon.com/blogs/aws/new-scale-out-file-systems-for-amazon-fsx-for-netapp-ontap/)
+- [Getting started with new Amazon RDS for Db2](https://aws.amazon.com/blogs/aws/getting-started-with-new-amazon-rds-for-db2/)
+- [Announcing throughput increase and dead letter queue redrive support for Amazon SQS FIFO queues](https://aws.amazon.com/blogs/aws/announcing-throughput-increase-and-dead-letter-queue-redrive-support-for-amazon-sqs-fifo-queues/)
+- [Amazon EBS Snapshots Archive is now available with AWS Backup](https://aws.amazon.com/blogs/aws/amazon-ebs-snapshots-archive-is-now-available-with-aws-backup/)
+- [Replication failback and increased IOPS are new for Amazon EFS](https://aws.amazon.com/blogs/aws/replication-failback-and-increased-iops-are-new-for-amazon-efs/)
+- [AWS Control Tower adds new controls to help customers meet digital sovereignty requirements](https://aws.amazon.com/blogs/aws/aws-control-tower-helps-customers-meet-digital-sovereignty-requirements/)
 <!-- BLOG-POST-LIST:END -->  
