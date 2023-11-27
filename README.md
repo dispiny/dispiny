@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Manage EDI at scale with new AWS B2B Data Interchange](https://aws.amazon.com/blogs/aws/introducing-aws-b2b-data-interchange-simplified-connections-with-your-trading-partners/)
+- [Automatic restore testing and validation now available in AWS Backup](https://aws.amazon.com/blogs/aws/automatic-restore-testing-and-validation-is-now-available-in-aws-backup/)
 - [Amazon CodeWhisperer offers new AI-powered code remediation, IaC support, and integration with Visual Studio](https://aws.amazon.com/blogs/aws/amazon-codewhisperer-offers-new-ai-powered-code-remediation-iac-support-and-integration-with-visual-studio/)
 - [FlexGroup Volume Management for Amazon FSx for NetApp ONTAP is now available](https://aws.amazon.com/blogs/aws/flexgroup-volume-management-for-amazon-fsx-for-netapp-ontap-is-now-available/)
 - [New – Scale-out file systems for Amazon FSx for NetApp ONTAP](https://aws.amazon.com/blogs/aws/new-scale-out-file-systems-for-amazon-fsx-for-netapp-ontap/)
-- [Introducing shared VPC support for Amazon FSx for NetApp ONTAP](https://aws.amazon.com/blogs/aws/introducing-shared-vpc-support-for-amazon-fsx-for-netapp-ontap/)
-- [Announcing on-demand data replication for Amazon FSx for OpenZFS](https://aws.amazon.com/blogs/aws/on-demand-data-replication-for-amazon-fsx-for-openzfs/)
 <!-- BLOG-POST-LIST:END -->  
