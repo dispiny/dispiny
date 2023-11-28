@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
-- [Customize models in Amazon Bedrock with your own data using fine-tuning and continued pre-training](https://aws.amazon.com/blogs/aws/customize-models-in-amazon-bedrock-with-your-own-data-using-fine-tuning-and-continued-pre-training/)
-- [Knowledge Bases now delivers fully managed RAG experience in Amazon Bedrock](https://aws.amazon.com/blogs/aws/knowledge-bases-now-delivers-fully-managed-rag-experience-in-amazon-bedrock/)
-- [Join the preview for new memory-optimized, AWS Graviton4-powered Amazon EC2 instances &lpar;R8g&rpar;](https://aws.amazon.com/blogs/aws/join-the-preview-for-new-memory-optimized-aws-graviton4-powered-amazon-ec2-instances-r8g/)
-- [Announcing the new Amazon S3 Express One Zone high performance storage class](https://aws.amazon.com/blogs/aws/new-amazon-s3-express-one-zone-high-performance-storage-class/)
-- [Reserve quantum computers, get guidance and cutting-edge capabilities with Amazon Braket Direct](https://aws.amazon.com/blogs/aws/reserve-quantum-computers-get-expertise-and-cutting-edge-capabilities-with-amazon-braket-direct/)
+- [New generative AI features in Amazon Connect, including Amazon Q, facilitate improved contact center service](https://aws.amazon.com/blogs/aws/new-generative-ai-features-in-amazon-connect-including-amazon-q-facilitate-improved-contact-center-service/)
+- [New Amazon Q in QuickSight uses generative AI assistance for quicker, easier data insights &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/new-amazon-q-in-quicksight-uses-generative-ai-assistance-for-quicker-easier-data-insights-preview/)
+- [Introducing Amazon Q, a new generative AI-powered assistant &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/introducing-amazon-q-a-new-generative-ai-powered-assistant-preview/)
+- [Upgrade your Java applications with Amazon Q Code Transformation &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/upgrade-your-java-applications-with-amazon-q-code-transformation-preview/)
+- [Improve developer productivity with generative-AI powered Amazon Q in Amazon CodeCatalyst &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/improve-developer-productivity-with-generative-ai-powered-amazon-q-in-amazon-codecatalyst-preview/)
 <!-- BLOG-POST-LIST:END -->  
