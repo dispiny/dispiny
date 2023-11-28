@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Join the preview of Amazon Aurora Limitless Database](https://aws.amazon.com/blogs/aws/join-the-preview-amazon-aurora-limitless-database/)
 - [Getting started with new Amazon RDS for Db2](https://aws.amazon.com/blogs/aws/getting-started-with-new-amazon-rds-for-db2/)
 - [Announcing throughput increase and dead letter queue redrive support for Amazon SQS FIFO queues](https://aws.amazon.com/blogs/aws/announcing-throughput-increase-and-dead-letter-queue-redrive-support-for-amazon-sqs-fifo-queues/)
 - [Amazon EBS Snapshots Archive is now available with AWS Backup](https://aws.amazon.com/blogs/aws/amazon-ebs-snapshots-archive-is-now-available-with-aws-backup/)
 - [Replication failback and increased IOPS are new for Amazon EFS](https://aws.amazon.com/blogs/aws/replication-failback-and-increased-iops-are-new-for-amazon-efs/)
-- [AWS Control Tower adds new controls to help customers meet digital sovereignty requirements](https://aws.amazon.com/blogs/aws/aws-control-tower-helps-customers-meet-digital-sovereignty-requirements/)
 <!-- BLOG-POST-LIST:END -->  
