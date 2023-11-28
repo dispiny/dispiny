@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Customize models in Amazon Bedrock with your own data using fine-tuning and continued pre-training](https://aws.amazon.com/blogs/aws/customize-models-in-amazon-bedrock-with-your-own-data-using-fine-tuning-and-continued-pre-training/)
+- [Knowledge Bases now delivers fully managed RAG experience in Amazon Bedrock](https://aws.amazon.com/blogs/aws/knowledge-bases-now-delivers-fully-managed-rag-experience-in-amazon-bedrock/)
+- [Join the preview for new memory-optimized, AWS Graviton4-powered Amazon EC2 instances &lpar;R8g&rpar;](https://aws.amazon.com/blogs/aws/join-the-preview-for-new-memory-optimized-aws-graviton4-powered-amazon-ec2-instances-r8g/)
+- [Announcing the new Amazon S3 Express One Zone high performance storage class](https://aws.amazon.com/blogs/aws/new-amazon-s3-express-one-zone-high-performance-storage-class/)
 - [Reserve quantum computers, get guidance and cutting-edge capabilities with Amazon Braket Direct](https://aws.amazon.com/blogs/aws/reserve-quantum-computers-get-expertise-and-cutting-edge-capabilities-with-amazon-braket-direct/)
-- [AWS Step Functions Workflow Studio is now available in AWS Application Composer](https://aws.amazon.com/blogs/aws/aws-step-functions-workflow-studio-is-now-available-in-aws-application-composer/)
-- [Amazon CodeCatalyst introduces custom blueprints and a new enterprise tier](https://aws.amazon.com/blogs/aws/amazon-codecatalyst-introduces-custom-blueprints-and-a-new-enterprise-tier/)
-- [Amazon ElastiCache Serverless for Redis and Memcached is now available](https://aws.amazon.com/blogs/aws/amazon-elasticache-serverless-for-redis-and-memcached-now-generally-available/)
-- [Join the preview of Amazon Aurora Limitless Database](https://aws.amazon.com/blogs/aws/join-the-preview-amazon-aurora-limitless-database/)
 <!-- BLOG-POST-LIST:END -->  
