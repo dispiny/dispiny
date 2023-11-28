@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Step Functions Workflow Studio is now available in AWS Application Composer](https://aws.amazon.com/blogs/aws/aws-step-functions-workflow-studio-is-now-available-in-aws-application-composer/)
+- [Amazon CodeCatalyst introduces custom blueprints and a new enterprise tier](https://aws.amazon.com/blogs/aws/amazon-codecatalyst-introduces-custom-blueprints-and-a-new-enterprise-tier/)
+- [Amazon ElastiCache Serverless for Redis and Memcached is now available](https://aws.amazon.com/blogs/aws/amazon-elasticache-serverless-for-redis-and-memcached-now-generally-available/)
 - [Join the preview of Amazon Aurora Limitless Database](https://aws.amazon.com/blogs/aws/join-the-preview-amazon-aurora-limitless-database/)
 - [Getting started with new Amazon RDS for Db2](https://aws.amazon.com/blogs/aws/getting-started-with-new-amazon-rds-for-db2/)
-- [Announcing throughput increase and dead letter queue redrive support for Amazon SQS FIFO queues](https://aws.amazon.com/blogs/aws/announcing-throughput-increase-and-dead-letter-queue-redrive-support-for-amazon-sqs-fifo-queues/)
-- [Amazon EBS Snapshots Archive is now available with AWS Backup](https://aws.amazon.com/blogs/aws/amazon-ebs-snapshots-archive-is-now-available-with-aws-backup/)
-- [Replication failback and increased IOPS are new for Amazon EFS](https://aws.amazon.com/blogs/aws/replication-failback-and-increased-iops-are-new-for-amazon-efs/)
 <!-- BLOG-POST-LIST:END -->  
