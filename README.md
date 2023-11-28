@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Reserve quantum computers, get guidance and cutting-edge capabilities with Amazon Braket Direct](https://aws.amazon.com/blogs/aws/reserve-quantum-computers-get-expertise-and-cutting-edge-capabilities-with-amazon-braket-direct/)
 - [AWS Step Functions Workflow Studio is now available in AWS Application Composer](https://aws.amazon.com/blogs/aws/aws-step-functions-workflow-studio-is-now-available-in-aws-application-composer/)
 - [Amazon CodeCatalyst introduces custom blueprints and a new enterprise tier](https://aws.amazon.com/blogs/aws/amazon-codecatalyst-introduces-custom-blueprints-and-a-new-enterprise-tier/)
 - [Amazon ElastiCache Serverless for Redis and Memcached is now available](https://aws.amazon.com/blogs/aws/amazon-elasticache-serverless-for-redis-and-memcached-now-generally-available/)
 - [Join the preview of Amazon Aurora Limitless Database](https://aws.amazon.com/blogs/aws/join-the-preview-amazon-aurora-limitless-database/)
-- [Getting started with new Amazon RDS for Db2](https://aws.amazon.com/blogs/aws/getting-started-with-new-amazon-rds-for-db2/)
 <!-- BLOG-POST-LIST:END -->  
