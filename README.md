@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New generative AI capabilities for Amazon DataZone to further simplify data cataloging and discovery &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/new-generative-ai-capabilities-for-amazon-datazone-to-further-simplify-data-cataloging-and-discovery-preview/)
+- [Amazon DynamoDB zero-ETL integration with Amazon OpenSearch Service is now available](https://aws.amazon.com/blogs/aws/amazon-dynamodb-zero-etl-integration-with-amazon-opensearch-service-is-now-generally-available/)
 - [New generative AI features in Amazon Connect, including Amazon Q, facilitate improved contact center service](https://aws.amazon.com/blogs/aws/new-generative-ai-features-in-amazon-connect-including-amazon-q-facilitate-improved-contact-center-service/)
 - [New Amazon Q in QuickSight uses generative AI assistance for quicker, easier data insights &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/new-amazon-q-in-quicksight-uses-generative-ai-assistance-for-quicker-easier-data-insights-preview/)
 - [Introducing Amazon Q, a new generative AI-powered assistant &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/introducing-amazon-q-a-new-generative-ai-powered-assistant-preview/)
-- [Upgrade your Java applications with Amazon Q Code Transformation &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/upgrade-your-java-applications-with-amazon-q-code-transformation-preview/)
-- [Improve developer productivity with generative-AI powered Amazon Q in Amazon CodeCatalyst &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/improve-developer-productivity-with-generative-ai-powered-amazon-q-in-amazon-codecatalyst-preview/)
 <!-- BLOG-POST-LIST:END -->  
