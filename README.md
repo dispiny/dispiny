@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Introducing highly durable Amazon OpenSearch Service clusters with 30% price/performance improvement](https://aws.amazon.com/blogs/aws/introducing-highly-durable-amazon-opensearch-service-clusters-with-30-price-performance-improvement/)
+- [Amazon SageMaker Clarify makes it easier to evaluate and select foundation models &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/amazon-sagemaker-clarify-makes-it-easier-to-evaluate-and-select-foundation-models-preview/)
+- [Evaluate, compare, and select the best foundation models for your use case in Amazon Bedrock &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/evaluate-compare-and-select-the-best-foundation-models-for-your-use-case-in-amazon-bedrock-preview/)
 - [Amazon Redshift adds new AI capabilities, including Amazon Q, to boost efficiency and productivity](https://aws.amazon.com/blogs/aws/amazon-redshift-adds-new-ai-capabilities-to-boost-efficiency-and-productivity/)
 - [AWS Clean Rooms Differential Privacy enhances privacy protection of your users data &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/aws-clean-rooms-differential-privacy-enhances-privacy-protection-of-your-users-data-preview/)
-- [AWS Clean Rooms ML helps customers and partners apply ML models without sharing raw data &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/aws-clean-rooms-ml-helps-customers-and-partners-apply-ml-models-without-sharing-raw-data-preview/)
-- [Announcing Amazon OpenSearch Service zero-ETL integration with Amazon S3 &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/amazon-opensearch-service-zero-etl-integration-with-amazon-s3-preview/)
-- [Analyze large amounts of graph data to get insights and find trends with Amazon Neptune Analytics](https://aws.amazon.com/blogs/aws/introducing-amazon-neptune-analytics-a-high-performance-graph-analytics/)
 <!-- BLOG-POST-LIST:END -->  
