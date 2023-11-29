@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Package and deploy models faster with new tools and guided workflows in Amazon SageMaker](https://aws.amazon.com/blogs/aws/package-and-deploy-models-faster-with-new-tools-and-guided-workflows-in-amazon-sagemaker/)
+- [Use natural language to explore and prepare data with a new capability of Amazon SageMaker Canvas](https://aws.amazon.com/blogs/aws/use-natural-language-to-explore-and-prepare-data-with-a-new-capability-of-amazon-sagemaker-canvas/)
+- [Amazon SageMaker adds new inference capabilities to help reduce foundation model deployment costs and latency](https://aws.amazon.com/blogs/aws/amazon-sagemaker-adds-new-inference-capabilities-to-help-reduce-foundation-model-deployment-costs-and-latency/)
+- [Leverage foundation models for business analysis at scale with Amazon SageMaker Canvas](https://aws.amazon.com/blogs/aws/leverage-foundation-models-for-business-analysis-at-scale-with-amazon-sagemaker-canvas/)
 - [Introducing highly durable Amazon OpenSearch Service clusters with 30% price/performance improvement](https://aws.amazon.com/blogs/aws/introducing-highly-durable-amazon-opensearch-service-clusters-with-30-price-performance-improvement/)
-- [Amazon SageMaker Clarify makes it easier to evaluate and select foundation models &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/amazon-sagemaker-clarify-makes-it-easier-to-evaluate-and-select-foundation-models-preview/)
-- [Evaluate, compare, and select the best foundation models for your use case in Amazon Bedrock &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/evaluate-compare-and-select-the-best-foundation-models-for-your-use-case-in-amazon-bedrock-preview/)
-- [Amazon Redshift adds new AI capabilities, including Amazon Q, to boost efficiency and productivity](https://aws.amazon.com/blogs/aws/amazon-redshift-adds-new-ai-capabilities-to-boost-efficiency-and-productivity/)
-- [AWS Clean Rooms Differential Privacy enhances privacy protection of your users data &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/aws-clean-rooms-differential-privacy-enhances-privacy-protection-of-your-users-data-preview/)
 <!-- BLOG-POST-LIST:END -->  
