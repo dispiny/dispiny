@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Titan Image Generator, Multimodal Embeddings, and Text models are now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/amazon-titan-image-generator-multimodal-embeddings-and-text-models-are-now-available-in-amazon-bedrock/)
-- [Amazon Bedrock now provides access to Anthropic’s latest model, Claude 2.1](https://aws.amazon.com/blogs/aws/amazon-bedrock-now-provides-access-to-anthropics-latest-model-claude-2-1/)
-- [New generative AI capabilities for Amazon DataZone to further simplify data cataloging and discovery &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/new-generative-ai-capabilities-for-amazon-datazone-to-further-simplify-data-cataloging-and-discovery-preview/)
-- [Amazon DynamoDB zero-ETL integration with Amazon OpenSearch Service is now available](https://aws.amazon.com/blogs/aws/amazon-dynamodb-zero-etl-integration-with-amazon-opensearch-service-is-now-generally-available/)
-- [New generative AI features in Amazon Connect, including Amazon Q, facilitate improved contact center service](https://aws.amazon.com/blogs/aws/new-generative-ai-features-in-amazon-connect-including-amazon-q-facilitate-improved-contact-center-service/)
+- [Amazon Redshift adds new AI capabilities, including Amazon Q, to boost efficiency and productivity](https://aws.amazon.com/blogs/aws/amazon-redshift-adds-new-ai-capabilities-to-boost-efficiency-and-productivity/)
+- [AWS Clean Rooms Differential Privacy enhances privacy protection of your users data &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/aws-clean-rooms-differential-privacy-enhances-privacy-protection-of-your-users-data-preview/)
+- [AWS Clean Rooms ML helps customers and partners apply ML models without sharing raw data &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/aws-clean-rooms-ml-helps-customers-and-partners-apply-ml-models-without-sharing-raw-data-preview/)
+- [Announcing Amazon OpenSearch Service zero-ETL integration with Amazon S3 &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/amazon-opensearch-service-zero-etl-integration-with-amazon-s3-preview/)
+- [Analyze large amounts of graph data to get insights and find trends with Amazon Neptune Analytics](https://aws.amazon.com/blogs/aws/introducing-amazon-neptune-analytics-a-high-performance-graph-analytics/)
 <!-- BLOG-POST-LIST:END -->  
