@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Amazon CloudWatch Application Signals for automatic instrumentation of your applications &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/amazon-cloudwatch-application-signals-for-automatic-instrumentation-of-your-applications-preview/)
+- [New myApplications in the AWS Management Console simplifies managing your application resources](https://aws.amazon.com/blogs/aws/new-myapplications-in-the-aws-management-console-simplifies-managing-your-application-resources/)
 - [Easily deploy SaaS products with new Quick Launch in AWS Marketplace](https://aws.amazon.com/blogs/aws/easily-deploy-saas-products-with-new-quick-launch-in-aws-marketplace/)
 - [Package and deploy models faster with new tools and guided workflows in Amazon SageMaker](https://aws.amazon.com/blogs/aws/package-and-deploy-models-faster-with-new-tools-and-guided-workflows-in-amazon-sagemaker/)
 - [Use natural language to explore and prepare data with a new capability of Amazon SageMaker Canvas](https://aws.amazon.com/blogs/aws/use-natural-language-to-explore-and-prepare-data-with-a-new-capability-of-amazon-sagemaker-canvas/)
-- [Amazon SageMaker adds new inference capabilities to help reduce foundation model deployment costs and latency](https://aws.amazon.com/blogs/aws/amazon-sagemaker-adds-new-inference-capabilities-to-help-reduce-foundation-model-deployment-costs-and-latency/)
-- [Leverage foundation models for business analysis at scale with Amazon SageMaker Canvas](https://aws.amazon.com/blogs/aws/leverage-foundation-models-for-business-analysis-at-scale-with-amazon-sagemaker-canvas/)
 <!-- BLOG-POST-LIST:END -->  
