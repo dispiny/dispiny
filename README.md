@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New for AWS Amplify – Query MySQL and PostgreSQL database for AWS CDK](https://aws.amazon.com/blogs/aws/new-for-aws-amplify-query-mysql-and-postgresql-database-for-aws-cdk/)
 - [Use AWS Fault Injection Service to demonstrate multi-region and multi-AZ application resilience](https://aws.amazon.com/blogs/aws/use-aws-fault-injection-service-to-demonstrate-multi-region-and-multi-az-application-resilience/)
 - [Zonal autoshift – Automatically shift your traffic away from Availability Zones when we detect potential issues](https://aws.amazon.com/blogs/aws/zonal-autoshift-automatically-shift-your-traffic-away-from-availability-zones-when-we-detect-potential-issues/)
 - [IDE extension for AWS Application Composer enhances visual modern applications development with AI-generated IaC](https://aws.amazon.com/blogs/aws/ide-extension-for-aws-application-composer-enhances-visual-modern-applications-development-with-ai-generated-iac/)
 - [Amazon SageMaker Studio adds web-based interface, Code Editor, flexible workspaces, and streamlines user onboarding](https://aws.amazon.com/blogs/aws/amazon-sagemaker-studio-adds-web-based-interface-code-editor-flexible-workspaces-and-streamlines-user-onboarding/)
-- [Three new capabilities for Amazon Inspector broaden the realm of vulnerability scanning for workloads](https://aws.amazon.com/blogs/aws/three-new-capabilities-for-amazon-inspector-broaden-the-realm-of-vulnerability-scanning-for-workloads/)
 <!-- BLOG-POST-LIST:END -->  
