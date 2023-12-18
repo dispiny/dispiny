@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup — AWS Lambda, AWS Amplify, Amazon OpenSearch Service, Amazon Rekognition, and more — December 18, 2023](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-aws-amplify-amazon-opensearch-service-amazon-rekognition-and-more-december-18-2023/)
 - [New for AWS Amplify – Query MySQL and PostgreSQL database for AWS CDK](https://aws.amazon.com/blogs/aws/new-for-aws-amplify-query-mysql-and-postgresql-database-for-aws-cdk/)
 - [Use AWS Fault Injection Service to demonstrate multi-region and multi-AZ application resilience](https://aws.amazon.com/blogs/aws/use-aws-fault-injection-service-to-demonstrate-multi-region-and-multi-az-application-resilience/)
 - [Zonal autoshift – Automatically shift your traffic away from Availability Zones when we detect potential issues](https://aws.amazon.com/blogs/aws/zonal-autoshift-automatically-shift-your-traffic-away-from-availability-zones-when-we-detect-potential-issues/)
 - [IDE extension for AWS Application Composer enhances visual modern applications development with AI-generated IaC](https://aws.amazon.com/blogs/aws/ide-extension-for-aws-application-composer-enhances-visual-modern-applications-development-with-ai-generated-iac/)
-- [Amazon SageMaker Studio adds web-based interface, Code Editor, flexible workspaces, and streamlines user onboarding](https://aws.amazon.com/blogs/aws/amazon-sagemaker-studio-adds-web-based-interface-code-editor-flexible-workspaces-and-streamlines-user-onboarding/)
 <!-- BLOG-POST-LIST:END -->  
