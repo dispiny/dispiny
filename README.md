@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [DNS over HTTPS is now available in Amazon Route 53 Resolver](https://aws.amazon.com/blogs/aws/dns-over-https-is-now-available-in-amazon-route-53-resolver/)
 - [The AWS Canada West &lpar;Calgary&rpar; Region is now available](https://aws.amazon.com/blogs/aws/the-aws-canada-west-calgary-region-is-now-available/)
 - [AWS India customers can now save card information for monthly AWS billing](https://aws.amazon.com/blogs/aws/aws-india-customers-can-now-save-card-information-for-monthly-aws-billing/)
 - [AWS Weekly Roundup — AWS Lambda, AWS Amplify, Amazon OpenSearch Service, Amazon Rekognition, and more — December 18, 2023](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-aws-amplify-amazon-opensearch-service-amazon-rekognition-and-more-december-18-2023/)
 - [New for AWS Amplify – Query MySQL and PostgreSQL database for AWS CDK](https://aws.amazon.com/blogs/aws/new-for-aws-amplify-query-mysql-and-postgresql-database-for-aws-cdk/)
-- [Use AWS Fault Injection Service to demonstrate multi-region and multi-AZ application resilience](https://aws.amazon.com/blogs/aws/use-aws-fault-injection-service-to-demonstrate-multi-region-and-multi-az-application-resilience/)
 <!-- BLOG-POST-LIST:END -->  
