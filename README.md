@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Your MySQL 5.7 and PostgreSQL 11 databases will be automatically enrolled into Amazon RDS Extended Support](https://aws.amazon.com/blogs/aws/your-mysql-5-7-and-postgresql-11-databases-will-be-automatically-enrolled-into-amazon-rds-extended-support/)
 - [DNS over HTTPS is now available in Amazon Route 53 Resolver](https://aws.amazon.com/blogs/aws/dns-over-https-is-now-available-in-amazon-route-53-resolver/)
 - [The AWS Canada West &lpar;Calgary&rpar; Region is now available](https://aws.amazon.com/blogs/aws/the-aws-canada-west-calgary-region-is-now-available/)
 - [AWS India customers can now save card information for monthly AWS billing](https://aws.amazon.com/blogs/aws/aws-india-customers-can-now-save-card-information-for-monthly-aws-billing/)
 - [AWS Weekly Roundup — AWS Lambda, AWS Amplify, Amazon OpenSearch Service, Amazon Rekognition, and more — December 18, 2023](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-aws-amplify-amazon-opensearch-service-amazon-rekognition-and-more-december-18-2023/)
-- [New for AWS Amplify – Query MySQL and PostgreSQL database for AWS CDK](https://aws.amazon.com/blogs/aws/new-for-aws-amplify-query-mysql-and-postgresql-database-for-aws-cdk/)
 <!-- BLOG-POST-LIST:END -->  
