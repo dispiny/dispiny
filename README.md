@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Amazon ECS supports a native integration with Amazon EBS volumes for data-intensive workloads](https://aws.amazon.com/blogs/aws/amazon-ecs-supports-a-native-integration-with-amazon-ebs-volumes-for-data-intensive-workloads/)
 - [Happy New Year! AWS Weekly Roundup – January 8, 2024](https://aws.amazon.com/blogs/aws/happy-new-year-aws-weekly-roundup-january-8-2024/)
 - [Your MySQL 5.7 and PostgreSQL 11 databases will be automatically enrolled into Amazon RDS Extended Support](https://aws.amazon.com/blogs/aws/your-mysql-5-7-and-postgresql-11-databases-will-be-automatically-enrolled-into-amazon-rds-extended-support/)
 - [DNS over HTTPS is now available in Amazon Route 53 Resolver](https://aws.amazon.com/blogs/aws/dns-over-https-is-now-available-in-amazon-route-53-resolver/)
 - [The AWS Canada West &lpar;Calgary&rpar; Region is now available](https://aws.amazon.com/blogs/aws/the-aws-canada-west-calgary-region-is-now-available/)
-- [AWS India customers can now save card information for monthly AWS billing](https://aws.amazon.com/blogs/aws/aws-india-customers-can-now-save-card-information-for-monthly-aws-billing/)
 <!-- BLOG-POST-LIST:END -->  
