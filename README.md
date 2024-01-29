@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup —  Amazon API Gateway, AWS Step Functions, Amazon ECS, Amazon EKS, Amazon LightSail, Amazon VPC, and more — January 29, 2024](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-api-gateway-aws-step-functions-amazon-ecs-amazon-eks-amazon-lightsail-amazon-vpc-and-more-january-29-2024/)
 - [AWS Weekly Roundup — Amazon ECS, RDS for MySQL, EMR Studio, AWS Community, and more — January 22, 2024](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ecs-rds-for-mysql-emr-studio-aws-community-and-more-january-22-2024/)
 - [AWS Supply Chain update: Three new modules supporting upstream activities](https://aws.amazon.com/blogs/aws/aws-supply-chain-update-three-new-modules-supporting-upstream-activities/)
 - [AWS Weekly Roundup—Amazon Route53, Amazon EventBridge, Amazon SageMaker, and more – January 15, 2024](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-route53-amazon-eventbridge-amazon-sagemaker-and-more-january-15-2024/)
 - [Amazon ECS supports a native integration with Amazon EBS volumes for data-intensive workloads](https://aws.amazon.com/blogs/aws/amazon-ecs-supports-a-native-integration-with-amazon-ebs-volumes-for-data-intensive-workloads/)
-- [Happy New Year! AWS Weekly Roundup – January 8, 2024](https://aws.amazon.com/blogs/aws/happy-new-year-aws-weekly-roundup-january-8-2024/)
 <!-- BLOG-POST-LIST:END -->  
