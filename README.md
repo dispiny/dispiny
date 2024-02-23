@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Mistral AI models coming soon to Amazon Bedrock](https://aws.amazon.com/blogs/aws/mistral-ai-models-coming-soon-to-amazon-bedrock/)
 - [AWS Weekly Roundup — AWS Control Tower new API, TLS 1.3 with API Gateway, Private Marketplace Catalogs, and more — February 19, 2024](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-control-tower-new-api-tls-1-3-with-api-gateway-private-marketplace-catalogs-and-more-february-19-2024/)
 - [Knowledge Bases for Amazon Bedrock now supports Amazon Aurora PostgreSQL and Cohere embedding models](https://aws.amazon.com/blogs/aws/knowledge-bases-for-amazon-bedrock-now-supports-amazon-aurora-postgresql-and-cohere-embedding-models/)
 - [AWS Weekly Roundup — Happy Lunar New Year, IaC generator, NFL’s digital athlete, AWS Cloud Clubs, and more — February 12, 2024](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-happy-lunar-new-year-iac-generator-nfls-digital-athlete-aws-cloud-clubs-and-more-february-12-2024/)
 - [AWS Weekly Roundup — Amazon Q in AWS Glue, Amazon PartyRock Hackathon, CDK Migrate, and more — February 5, 2024](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-q-in-aws-glue-amazon-partyrock-hackathon-cdk-migrate-and-more-february-5-2024/)
-- [AWS named as a Leader in 2023 Gartner Magic Quadrant for Strategic Cloud Platform Services for thirteenth year in a row](https://aws.amazon.com/blogs/aws/read-the-2023-gartner-magic-quadrant-for-strategic-cloud-platform-services/)
 <!-- BLOG-POST-LIST:END -->  
