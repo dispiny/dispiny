@@ -3,7 +3,7 @@
 <img src="https://cdna.artstation.com/p/assets/images/images/012/908/058/original/lofe-earth-cat.gif?1537133051" align="center" style="width: 70%"/>
 </div>  
 
-### **<div align="center">👋 Hi there! My dream is to become a Cloud Solution Architect in<br>🔥 Amazon Web Service 🔥</div>**  
+### **<div align="center">👋 Hi there! My dream is to become a Special Engineer**  
   
 
 - 🔭 I am preparing to win a gold medal in the Worldskills competition.  
