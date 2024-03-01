@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Mistral AI models now available on Amazon Bedrock](https://aws.amazon.com/blogs/aws/mistral-ai-models-now-available-on-amazon-bedrock/)
 - [AWS Weekly Roundup — .Net Runtime for AWS Lambda, PartyRock Hackathon, and more — February 26, 2024](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-net-runtime-for-aws-lambda-partyrock-hackathon-and-more-february-26-2024/)
 - [New AWS Region in Mexico is in the works](https://aws.amazon.com/blogs/aws/new-aws-region-in-mexico-is-in-the-works/)
 - [Mistral AI models coming soon to Amazon Bedrock](https://aws.amazon.com/blogs/aws/mistral-ai-models-coming-soon-to-amazon-bedrock/)
 - [AWS Weekly Roundup — AWS Control Tower new API, TLS 1.3 with API Gateway, Private Marketplace Catalogs, and more — February 19, 2024](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-control-tower-new-api-tls-1-3-with-api-gateway-private-marketplace-catalogs-and-more-february-19-2024/)
-- [Knowledge Bases for Amazon Bedrock now supports Amazon Aurora PostgreSQL and Cohere embedding models](https://aws.amazon.com/blogs/aws/knowledge-bases-for-amazon-bedrock-now-supports-amazon-aurora-postgresql-and-cohere-embedding-models/)
 <!-- BLOG-POST-LIST:END -->  
