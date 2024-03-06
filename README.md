@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Amazon RDS now supports io2 Block Express volumes for mission-critical database workloads](https://aws.amazon.com/blogs/aws/amazon-rds-now-supports-io2-block-express-volumes-for-mission-critical-database-workloads/)
+- [Introducing the newest Heroes of the year – March 2024](https://aws.amazon.com/blogs/aws/introducing-the-newest-heroes-of-the-year-march-2024/)
 - [Free data transfer out to internet when moving out of AWS](https://aws.amazon.com/blogs/aws/free-data-transfer-out-to-internet-when-moving-out-of-aws/)
 - [AWS Weekly Roundup — New models for Amazon Bedrock, CloudFront embedded POPs, and more — March 4, 2024](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-new-models-for-amazon-bedrock-cloudfront-embedded-pops-and-more-march-4-2024/)
 - [Anthropic’s Claude 3 Sonnet foundation model is now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/anthropics-claude-3-sonnet-foundation-model-is-now-available-in-amazon-bedrock/)
-- [Mistral AI models now available on Amazon Bedrock](https://aws.amazon.com/blogs/aws/mistral-ai-models-now-available-on-amazon-bedrock/)
-- [AWS Weekly Roundup — .Net Runtime for AWS Lambda, PartyRock Hackathon, and more — February 26, 2024](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-net-runtime-for-aws-lambda-partyrock-hackathon-and-more-february-26-2024/)
 <!-- BLOG-POST-LIST:END -->  
