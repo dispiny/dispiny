@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic’s Claude 3 Haiku model is now available on Amazon Bedrock](https://aws.amazon.com/blogs/aws/anthropics-claude-3-haiku-model-is-now-available-in-amazon-bedrock/)
 - [AWS Weekly Roundup — Claude 3 Sonnet support in Bedrock, new instances, and more — March 11, 2024](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-3-sonnet-support-in-bedrock-new-instances-and-more-march-11-2024/)
 - [Amazon RDS now supports io2 Block Express volumes for mission-critical database workloads](https://aws.amazon.com/blogs/aws/amazon-rds-now-supports-io2-block-express-volumes-for-mission-critical-database-workloads/)
 - [Introducing the newest Heroes of the year – March 2024](https://aws.amazon.com/blogs/aws/introducing-the-newest-heroes-of-the-year-march-2024/)
 - [Free data transfer out to internet when moving out of AWS](https://aws.amazon.com/blogs/aws/free-data-transfer-out-to-internet-when-moving-out-of-aws/)
-- [AWS Weekly Roundup — New models for Amazon Bedrock, CloudFront embedded POPs, and more — March 4, 2024](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-new-models-for-amazon-bedrock-cloudfront-embedded-pops-and-more-march-4-2024/)
 <!-- BLOG-POST-LIST:END -->  
