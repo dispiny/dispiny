@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Run and manage open source InfluxDB databases with Amazon Timestream](https://aws.amazon.com/blogs/aws/run-and-manage-open-source-influxdb-databases-with-amazon-timestream/)
 - [AWS Pi Day 2024: Use your data to power generative AI](https://aws.amazon.com/blogs/aws/aws-pi-day-2024-use-your-data-to-power-generative-ai/)
 - [Anthropic’s Claude 3 Haiku model is now available on Amazon Bedrock](https://aws.amazon.com/blogs/aws/anthropics-claude-3-haiku-model-is-now-available-in-amazon-bedrock/)
 - [AWS Weekly Roundup — Claude 3 Sonnet support in Bedrock, new instances, and more — March 11, 2024](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-3-sonnet-support-in-bedrock-new-instances-and-more-march-11-2024/)
 - [Amazon RDS now supports io2 Block Express volumes for mission-critical database workloads](https://aws.amazon.com/blogs/aws/amazon-rds-now-supports-io2-block-express-volumes-for-mission-critical-database-workloads/)
-- [Introducing the newest Heroes of the year – March 2024](https://aws.amazon.com/blogs/aws/introducing-the-newest-heroes-of-the-year-march-2024/)
 <!-- BLOG-POST-LIST:END -->  
