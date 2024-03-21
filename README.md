@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Improve the security of your software supply chain with Amazon CodeArtifact package group configuration](https://aws.amazon.com/blogs/aws/improve-the-security-of-your-software-supply-chain-with-amazon-codeartifact-package-group-configuration/)
 - [AWS Weekly Roundup — Claude 3 Haiku in Amazon Bedrock, AWS CloudFormation optimizations, and more — March 18, 2024](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-3-haiku-in-amazon-bedrock-aws-cloudformation-optimizations-and-more-march-18-2024/)
 - [Run and manage open source InfluxDB databases with Amazon Timestream](https://aws.amazon.com/blogs/aws/run-and-manage-open-source-influxdb-databases-with-amazon-timestream/)
 - [AWS Pi Day 2024: Use your data to power generative AI](https://aws.amazon.com/blogs/aws/aws-pi-day-2024-use-your-data-to-power-generative-ai/)
 - [Anthropic’s Claude 3 Haiku model is now available on Amazon Bedrock](https://aws.amazon.com/blogs/aws/anthropics-claude-3-haiku-model-is-now-available-in-amazon-bedrock/)
-- [AWS Weekly Roundup — Claude 3 Sonnet support in Bedrock, new instances, and more — March 11, 2024](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-3-sonnet-support-in-bedrock-new-instances-and-more-march-11-2024/)
 <!-- BLOG-POST-LIST:END -->  
