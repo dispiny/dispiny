@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: Amazon EC2 G6 instances, Mistral Large on Amazon Bedrock, AWS Deadline Cloud, and more &lpar;April 8, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-mistral-large-aws-clean-rooms-ml-aws-deadline-cloud-and-more-april-8-2024/)
 - [Tackle complex reasoning tasks with Mistral Large, now available on Amazon Bedrock](https://aws.amazon.com/blogs/aws/tackle-complex-reasoning-tasks-with-mistral-large-now-available-on-amazon-bedrock/)
 - [Introducing AWS Deadline Cloud: Set up a cloud-based render farm in minutes](https://aws.amazon.com/blogs/aws/introducing-aws-deadline-cloud-set-up-a-cloud-based-render-farm-in-minutes/)
-- [AWS Weekly Roundup — AWS Chips Taste Test, generative AI updates, Community Days, and more — April 1, 2024](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-chips-taste-test-generative-ai-updates-community-days-and-more-april-1-2024/)
+- [AWS Weekly Roundup: AWS Chips Taste Test, generative AI updates, Community Days, and more &lpar;April 1, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-chips-taste-test-generative-ai-updates-community-days-and-more-april-1-2024/)
 - [Amazon GuardDuty EC2 Runtime Monitoring is now generally available](https://aws.amazon.com/blogs/aws/amazon-guardduty-ec2-runtime-monitoring-is-now-generally-available/)
-- [Run large-scale simulations with AWS Batch multi-container jobs](https://aws.amazon.com/blogs/aws/run-large-scale-simulations-with-aws-batch-multi-container-jobs/)
 <!-- BLOG-POST-LIST:END -->  
