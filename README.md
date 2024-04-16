@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic’s Claude 3 Opus model is now available on Amazon Bedrock](https://aws.amazon.com/blogs/aws/anthropics-claude-3-opus-model-on-amazon-bedrock/)
 - [Congratulations to the PartyRock generative AI hackathon winners](https://aws.amazon.com/blogs/aws/congratulations-to-the-partyrock-generative-ai-hackathon-winners/)
 - [AWS Weekly Roundup: New features on Knowledge Bases for Amazon Bedrock, OAC for Lambda function URL origins on Amazon CloudFront, and more &lpar;April 15, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-new-features-on-knowledge-bases-for-amazon-bedrock-oac-for-lambda-function-url-origins-on-amazon-cloudfront-and-more-april-15-2024/)
 - [AWS Weekly Roundup: Amazon EC2 G6 instances, Mistral Large on Amazon Bedrock, AWS Deadline Cloud, and more &lpar;April 8, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-mistral-large-aws-clean-rooms-ml-aws-deadline-cloud-and-more-april-8-2024/)
 - [Tackle complex reasoning tasks with Mistral Large, now available on Amazon Bedrock](https://aws.amazon.com/blogs/aws/tackle-complex-reasoning-tasks-with-mistral-large-now-available-on-amazon-bedrock/)
-- [Introducing AWS Deadline Cloud: Set up a cloud-based render farm in minutes](https://aws.amazon.com/blogs/aws/introducing-aws-deadline-cloud-set-up-a-cloud-based-render-farm-in-minutes/)
 <!-- BLOG-POST-LIST:END -->  
