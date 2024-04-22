@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: Anthropic’s Claude 3 Opus in Amazon Bedrock, Meta Llama 3 in Amazon SageMaker JumpStart, and more &lpar;April 22, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-anthropics-claude-3-opus-in-amazon-bedrock-meta-llama-3-in-amazon-sagemaker-jumpstart-and-more-april-22-2024/)
 - [Amazon CloudWatch Internet Weather Map – View and analyze internet health](https://aws.amazon.com/blogs/aws/amazon-cloudwatch-internet-weather-map-view-and-analyze-internet-health/)
 - [Anthropic’s Claude 3 Opus model is now available on Amazon Bedrock](https://aws.amazon.com/blogs/aws/anthropics-claude-3-opus-model-on-amazon-bedrock/)
 - [Congratulations to the PartyRock generative AI hackathon winners](https://aws.amazon.com/blogs/aws/congratulations-to-the-partyrock-generative-ai-hackathon-winners/)
 - [AWS Weekly Roundup: New features on Knowledge Bases for Amazon Bedrock, OAC for Lambda function URL origins on Amazon CloudFront, and more &lpar;April 15, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-new-features-on-knowledge-bases-for-amazon-bedrock-oac-for-lambda-function-url-origins-on-amazon-cloudfront-and-more-april-15-2024/)
-- [AWS Weekly Roundup: Amazon EC2 G6 instances, Mistral Large on Amazon Bedrock, AWS Deadline Cloud, and more &lpar;April 8, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-mistral-large-aws-clean-rooms-ml-aws-deadline-cloud-and-more-april-8-2024/)
 <!-- BLOG-POST-LIST:END -->  
