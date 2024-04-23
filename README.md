@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
-- [Unify DNS management using Amazon Route 53 Profiles with multiple VPCs and AWS accounts](https://aws.amazon.com/blogs/aws/unify-dns-management-using-amazon-route-53-profiles-with-multiple-vpcs-and-aws-accounts/)
-- [AWS Weekly Roundup: Anthropic’s Claude 3 Opus in Amazon Bedrock, Meta Llama 3 in Amazon SageMaker JumpStart, and more &lpar;April 22, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-anthropics-claude-3-opus-in-amazon-bedrock-meta-llama-3-in-amazon-sagemaker-jumpstart-and-more-april-22-2024/)
-- [Amazon CloudWatch Internet Weather Map – View and analyze internet health](https://aws.amazon.com/blogs/aws/amazon-cloudwatch-internet-weather-map-view-and-analyze-internet-health/)
-- [Anthropic’s Claude 3 Opus model is now available on Amazon Bedrock](https://aws.amazon.com/blogs/aws/anthropics-claude-3-opus-model-on-amazon-bedrock/)
-- [Congratulations to the PartyRock generative AI hackathon winners](https://aws.amazon.com/blogs/aws/congratulations-to-the-partyrock-generative-ai-hackathon-winners/)
+- [Meta’s Llama 3 models are now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/metas-llama-3-models-are-now-available-in-amazon-bedrock/)
+- [Guardrails for Amazon Bedrock now available with new safety filters and privacy controls](https://aws.amazon.com/blogs/aws/guardrails-for-amazon-bedrock-now-available-with-new-safety-filters-and-privacy-controls/)
+- [Agents for Amazon Bedrock: Introducing a simplified creation and configuration experience](https://aws.amazon.com/blogs/aws/agents-for-amazon-bedrock-introducing-a-simplified-creation-and-configuration-experience/)
+- [Amazon Bedrock model evaluation is now generally available](https://aws.amazon.com/blogs/aws/amazon-bedrock-model-evaluation-is-now-generally-available/)
+- [Import custom models in Amazon Bedrock &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/import-custom-models-in-amazon-bedrock-preview/)
 <!-- BLOG-POST-LIST:END -->  
