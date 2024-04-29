@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: Amazon Bedrock, AWS CodeBuild, Amazon CodeCatalyst, and more &lpar;April 29, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-aws-codebuild-amazon-codecatalyst-and-more-april-29-2024/)
 - [Meta Llama 3 models are now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/metas-llama-3-models-are-now-available-in-amazon-bedrock/)
 - [Guardrails for Amazon Bedrock now available with new safety filters and privacy controls](https://aws.amazon.com/blogs/aws/guardrails-for-amazon-bedrock-now-available-with-new-safety-filters-and-privacy-controls/)
 - [Agents for Amazon Bedrock: Introducing a simplified creation and configuration experience](https://aws.amazon.com/blogs/aws/agents-for-amazon-bedrock-introducing-a-simplified-creation-and-configuration-experience/)
 - [Amazon Bedrock model evaluation is now generally available](https://aws.amazon.com/blogs/aws/amazon-bedrock-model-evaluation-is-now-generally-available/)
-- [Import custom models in Amazon Bedrock &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/import-custom-models-in-amazon-bedrock-preview/)
 <!-- BLOG-POST-LIST:END -->  
