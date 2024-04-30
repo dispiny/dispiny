@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Add your Ruby gems to AWS CodeArtifact](https://aws.amazon.com/blogs/aws/add-your-ruby-gems-to-aws-codeartifact/)
 - [Amazon Titan Text V2 now available in Amazon Bedrock, optimized for improving RAG](https://aws.amazon.com/blogs/aws/amazon-titan-text-v2-now-available-in-amazon-bedrock-optimized-for-improving-rag/)
 - [Amazon Q Business, now generally available, helps boost workforce productivity with generative AI](https://aws.amazon.com/blogs/aws/amazon-q-business-now-generally-available-helps-boost-workforce-productivity-with-generative-ai/)
 - [Amazon Q Developer, now generally available, includes previews of new capabilities to reimagine developer experience](https://aws.amazon.com/blogs/aws/amazon-q-developer-now-generally-available-includes-new-capabilities-to-reimagine-developer-experience/)
 - [Run scalable, enterprise-grade generative AI workloads with Cohere Command R &amp; R+, now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/run-scalable-enterprise-grade-generative-ai-workloads-with-cohere-r-r-now-available-in-amazon-bedrock/)
-- [AWS Weekly Roundup: Amazon Bedrock, AWS CodeBuild, Amazon CodeCatalyst, and more &lpar;April 29, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-aws-codebuild-amazon-codecatalyst-and-more-april-29-2024/)
 <!-- BLOG-POST-LIST:END -->  
