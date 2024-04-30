@@ -93,7 +93,7 @@
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
 - [Amazon Q Business, now generally available, helps boost workforce productivity with generative AI](https://aws.amazon.com/blogs/aws/amazon-q-business-now-generally-available-helps-boost-workforce-productivity-with-generative-ai/)
-- [Amazon Q Developer, now generally available, includes new capabilities to reimagine developer experience](https://aws.amazon.com/blogs/aws/amazon-q-developer-now-generally-available-includes-new-capabilities-to-reimagine-developer-experience/)
+- [Amazon Q Developer, now generally available, includes previews of new capabilities to reimagine developer experience](https://aws.amazon.com/blogs/aws/amazon-q-developer-now-generally-available-includes-new-capabilities-to-reimagine-developer-experience/)
 - [Run scalable, enterprise-grade generative AI workloads with Cohere Command R &amp; R+, now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/run-scalable-enterprise-grade-generative-ai-workloads-with-cohere-r-r-now-available-in-amazon-bedrock/)
 - [AWS Weekly Roundup: Amazon Bedrock, AWS CodeBuild, Amazon CodeCatalyst, and more &lpar;April 29, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-aws-codebuild-amazon-codecatalyst-and-more-april-29-2024/)
 - [Meta Llama 3 models are now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/metas-llama-3-models-are-now-available-in-amazon-bedrock/)
