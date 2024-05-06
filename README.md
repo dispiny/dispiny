@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: Amazon Q, Amazon QuickSight, AWS CodeArtifact, Amazon Bedrock, and more &lpar;May 6, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-q-amazon-quicksight-aws-codeartifact-amazon-bedrock-and-more-may-6-2024/)
 - [Build RAG applications with MongoDB Atlas, now available in Knowledge Bases for Amazon Bedrock](https://aws.amazon.com/blogs/aws/build-rag-applications-with-mongodb-atlas-now-available-in-knowledge-bases-for-amazon-bedrock/)
 - [Stop the CNAME chain struggle: Simplified management with Route 53 Resolver DNS Firewall](https://aws.amazon.com/blogs/aws/stop-the-cname-chain-struggle-simplified-management-with-route-53-resolver-dns-firewall/)
 - [Add your Ruby gems to AWS CodeArtifact](https://aws.amazon.com/blogs/aws/add-your-ruby-gems-to-aws-codeartifact/)
 - [Amazon Titan Text Embeddings V2 now available in Amazon Bedrock, optimized for improving RAG](https://aws.amazon.com/blogs/aws/amazon-titan-text-v2-now-available-in-amazon-bedrock-optimized-for-improving-rag/)
-- [Amazon Q Business, now generally available, helps boost workforce productivity with generative AI](https://aws.amazon.com/blogs/aws/amazon-q-business-now-generally-available-helps-boost-workforce-productivity-with-generative-ai/)
 <!-- BLOG-POST-LIST:END -->  
