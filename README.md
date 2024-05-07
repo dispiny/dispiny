@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Build RAG and agent-based generative AI applications with new Amazon Titan Text Premier model, available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/build-rag-and-agent-based-generative-ai-applications-with-new-amazon-titan-text-premier-model-available-in-amazon-bedrock/)
 - [Build generative AI applications with Amazon Bedrock Studio &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/build-generative-ai-applications-with-amazon-bedrock-studio-preview/)
 - [AWS Weekly Roundup: Amazon Q, Amazon QuickSight, AWS CodeArtifact, Amazon Bedrock, and more &lpar;May 6, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-q-amazon-quicksight-aws-codeartifact-amazon-bedrock-and-more-may-6-2024/)
 - [Build RAG applications with MongoDB Atlas, now available in Knowledge Bases for Amazon Bedrock](https://aws.amazon.com/blogs/aws/build-rag-applications-with-mongodb-atlas-now-available-in-knowledge-bases-for-amazon-bedrock/)
 - [Stop the CNAME chain struggle: Simplified management with Route 53 Resolver DNS Firewall](https://aws.amazon.com/blogs/aws/stop-the-cname-chain-struggle-simplified-management-with-route-53-resolver-dns-firewall/)
-- [Add your Ruby gems to AWS CodeArtifact](https://aws.amazon.com/blogs/aws/add-your-ruby-gems-to-aws-codeartifact/)
 <!-- BLOG-POST-LIST:END -->  
