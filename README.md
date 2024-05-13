@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: New capabilities in Amazon Bedrock, AWS Amplify Gen 2, Amazon RDS and more &lpar;May 13, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-new-capabilities-in-amazon-bedrock-aws-amplify-gen-2-amazon-rds-and-more-may-13-2024/)
 - [A new generative engine and three voices are now generally available on Amazon Polly](https://aws.amazon.com/blogs/aws/a-new-generative-engine-and-three-voices-are-now-generally-available-on-amazon-polly/)
 - [Build RAG and agent-based generative AI applications with new Amazon Titan Text Premier model, available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/build-rag-and-agent-based-generative-ai-applications-with-new-amazon-titan-text-premier-model-available-in-amazon-bedrock/)
 - [Build generative AI applications with Amazon Bedrock Studio &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/build-generative-ai-applications-with-amazon-bedrock-studio-preview/)
 - [AWS Weekly Roundup: Amazon Q, Amazon QuickSight, AWS CodeArtifact, Amazon Bedrock, and more &lpar;May 6, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-q-amazon-quicksight-aws-codeartifact-amazon-bedrock-and-more-may-6-2024/)
-- [Build RAG applications with MongoDB Atlas, now available in Knowledge Bases for Amazon Bedrock](https://aws.amazon.com/blogs/aws/build-rag-applications-with-mongodb-atlas-now-available-in-knowledge-bases-for-amazon-bedrock/)
 <!-- BLOG-POST-LIST:END -->  
