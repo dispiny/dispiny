@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Optimized for low-latency workloads, Mistral Small now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/optimized-for-low-latency-workloads-mistral-small-now-available-in-amazon-bedrock/)
 - [AWS Weekly Roundup – Application Load Balancer IPv6, Amazon S3 pricing update, Amazon EC2 Flex instances, and more &lpar;May 20, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-application-load-balancer-ipv6-amazon-s3-pricing-update-amazon-ec2-flex-instances-and-more-may-20-2024/)
 - [New compute-optimized &lpar;C7i-flex&rpar; Amazon EC2 Flex instances](https://aws.amazon.com/blogs/aws/new-compute-optimized-c7i-flex-amazon-ec2-flex-instances/)
 - [AWS Weekly Roundup: New capabilities in Amazon Bedrock, AWS Amplify Gen 2, Amazon RDS and more &lpar;May 13, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-new-capabilities-in-amazon-bedrock-aws-amplify-gen-2-amazon-rds-and-more-may-13-2024/)
 - [A new generative engine and three voices are now generally available on Amazon Polly](https://aws.amazon.com/blogs/aws/a-new-generative-engine-and-three-voices-are-now-generally-available-on-amazon-polly/)
-- [Build RAG and agent-based generative AI applications with new Amazon Titan Text Premier model, available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/build-rag-and-agent-based-generative-ai-applications-with-new-amazon-titan-text-premier-model-available-in-amazon-bedrock/)
 <!-- BLOG-POST-LIST:END -->  
