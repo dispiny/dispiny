@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS analytics services streamline user access to data, permissions setting, and auditing](https://aws.amazon.com/blogs/aws/aws-analytics-services-streamline-user-access-to-data-permissions-setting-and-auditing/)
 - [Amazon EC2 high memory U7i Instances for large in-memory databases](https://aws.amazon.com/blogs/aws/amazon-ec2-high-memory-u7i-instances-for-large-in-memory-databases/)
 - [AWS Weekly Roundup: LlamaIndex support for Amazon Neptune, force AWS CloudFormation stack deletion, and more &lpar;May 27, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-llamaindex-support-for-amazon-neptune-force-aws-cloudformation-stack-deletion-and-more-may-27-2024/)
 - [Optimized for low-latency workloads, Mistral Small now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/optimized-for-low-latency-workloads-mistral-small-now-available-in-amazon-bedrock/)
 - [AWS Weekly Roundup: Application Load Balancer IPv6, Amazon S3 pricing update, Amazon EC2 Flex instances, and more &lpar;May 20, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-application-load-balancer-ipv6-amazon-s3-pricing-update-amazon-ec2-flex-instances-and-more-may-20-2024/)
-- [New compute-optimized &lpar;C7i-flex&rpar; Amazon EC2 Flex instances](https://aws.amazon.com/blogs/aws/new-compute-optimized-c7i-flex-amazon-ec2-flex-instances/)
 <!-- BLOG-POST-LIST:END -->  
