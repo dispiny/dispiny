@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: Amazon EC2 U7i Instances, Bedrock Converse API, AWS World IPv6 Day and more &lpar;June 3, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-u7i-instances-bedrock-converse-api-aws-world-ipv6-day-and-more-june-3-2024/)
 - [Simplify custom contact center insights with Amazon Connect analytics data lake](https://aws.amazon.com/blogs/aws/simplify-custom-contact-center-insights-with-amazon-connect-analytics-data-lake/)
 - [AWS analytics services streamline user access to data, permissions setting, and auditing](https://aws.amazon.com/blogs/aws/aws-analytics-services-streamline-user-access-to-data-permissions-setting-and-auditing/)
 - [Amazon EC2 high memory U7i Instances for large in-memory databases](https://aws.amazon.com/blogs/aws/amazon-ec2-high-memory-u7i-instances-for-large-in-memory-databases/)
 - [AWS Weekly Roundup: LlamaIndex support for Amazon Neptune, force AWS CloudFormation stack deletion, and more &lpar;May 27, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-llamaindex-support-for-amazon-neptune-force-aws-cloudformation-stack-deletion-and-more-may-27-2024/)
-- [Optimized for low-latency workloads, Mistral Small now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/optimized-for-low-latency-workloads-mistral-small-now-available-in-amazon-bedrock/)
 <!-- BLOG-POST-LIST:END -->  
