@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Simplify risk and compliance assessments with the new common control library in AWS Audit Manager](https://aws.amazon.com/blogs/aws/simplify-risk-and-compliance-assessments-with-the-new-common-control-library-in-aws-audit-manager/)
 - [Our brand-new cohort of AWS Heroes has arrived – June 2024](https://aws.amazon.com/blogs/aws/our-brand-new-cohort-of-aws-heroes-has-arrived-june-2024/)
 - [AWS Weekly Roundup: Amazon EC2 U7i Instances, Bedrock Converse API, AWS World IPv6 Day and more &lpar;June 3, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-u7i-instances-bedrock-converse-api-aws-world-ipv6-day-and-more-june-3-2024/)
 - [Simplify custom contact center insights with Amazon Connect analytics data lake](https://aws.amazon.com/blogs/aws/simplify-custom-contact-center-insights-with-amazon-connect-analytics-data-lake/)
 - [AWS analytics services streamline user access to data, permissions setting, and auditing](https://aws.amazon.com/blogs/aws/aws-analytics-services-streamline-user-access-to-data-permissions-setting-and-auditing/)
-- [Amazon EC2 high memory U7i Instances for large in-memory databases](https://aws.amazon.com/blogs/aws/amazon-ec2-high-memory-u7i-instances-for-large-in-memory-databases/)
 <!-- BLOG-POST-LIST:END -->  
