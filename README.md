@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Simplify AWS CloudTrail log analysis with natural language query generation in CloudTrail Lake &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/simplify-aws-cloudtrail-log-analysis-with-natural-language-query-generation-in-cloudtrail-lake-preview/)
+- [Introducing Amazon GuardDuty Malware Protection for Amazon S3](https://aws.amazon.com/blogs/aws/introducing-amazon-guardduty-malware-protection-for-amazon-s3/)
+- [IAM Access Analyzer Update: Extending custom policy checks &amp; guided revocation](https://aws.amazon.com/blogs/aws/iam-access-analyzer-update-extending-custom-policy-checks-guided-revocation/)
+- [AWS adds passkey multi-factor authentication &lpar;MFA&rpar; for root and IAM users](https://aws.amazon.com/blogs/aws/aws-adds-passkey-multi-factor-authentication-mfa-for-root-and-iam-users/)
 - [AWS Weekly Roundup: New AWS Heroes, Amazon API Gateway, Amazon Q and more &lpar;June 10, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-new-aws-heroes-amazon-api-gateway-amazon-q-and-more-june-10-2024/)
-- [Simplify risk and compliance assessments with the new common control library in AWS Audit Manager](https://aws.amazon.com/blogs/aws/simplify-risk-and-compliance-assessments-with-the-new-common-control-library-in-aws-audit-manager/)
-- [Our brand-new cohort of AWS Heroes has arrived – June 2024](https://aws.amazon.com/blogs/aws/our-brand-new-cohort-of-aws-heroes-has-arrived-june-2024/)
-- [AWS Weekly Roundup: Amazon EC2 U7i Instances, Bedrock Converse API, AWS World IPv6 Day and more &lpar;June 3, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-u7i-instances-bedrock-converse-api-aws-world-ipv6-day-and-more-june-3-2024/)
-- [Simplify custom contact center insights with Amazon Connect analytics data lake](https://aws.amazon.com/blogs/aws/simplify-custom-contact-center-insights-with-amazon-connect-analytics-data-lake/)
 <!-- BLOG-POST-LIST:END -->  
