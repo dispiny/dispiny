@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [In the Works – AWS Region in Taiwan](https://aws.amazon.com/blogs/aws/in-the-works-aws-region-in-taiwan/)
 - [AWS Audit Manager extends generative AI best practices framework to Amazon SageMaker](https://aws.amazon.com/blogs/aws/aws-audit-manager-extends-generative-ai-best-practices-framework-to-amazon-sagemaker/)
 - [Simplify AWS CloudTrail log analysis with natural language query generation in CloudTrail Lake &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/simplify-aws-cloudtrail-log-analysis-with-natural-language-query-generation-in-cloudtrail-lake-preview/)
 - [Introducing Amazon GuardDuty Malware Protection for Amazon S3](https://aws.amazon.com/blogs/aws/introducing-amazon-guardduty-malware-protection-for-amazon-s3/)
 - [IAM Access Analyzer Update: Extending custom policy checks &amp; guided revocation](https://aws.amazon.com/blogs/aws/iam-access-analyzer-update-extending-custom-policy-checks-guided-revocation/)
-- [AWS adds passkey multi-factor authentication &lpar;MFA&rpar; for root and IAM users](https://aws.amazon.com/blogs/aws/aws-adds-passkey-multi-factor-authentication-mfa-for-root-and-iam-users/)
 <!-- BLOG-POST-LIST:END -->  
