@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: Claude 3.5 Sonnet in Amazon Bedrock, CodeCatalyst updates, SageMaker with MLflow, and more &lpar;June 24, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-3-5-sonnet-in-amazon-bedrock-codecatalyst-updates-sagemaker-with-mlflow-and-more-june-24-2024/)
 - [AWS CodeArtifact adds support for Rust packages with Cargo](https://aws.amazon.com/blogs/aws/aws-codeartifact-adds-support-for-rust-packages-with-cargo/)
 - [Anthropic’s Claude 3.5 Sonnet model now available in Amazon Bedrock: Even more intelligence than Claude 3 Opus at one-fifth the cost](https://aws.amazon.com/blogs/aws/anthropics-claude-3-5-sonnet-model-now-available-in-amazon-bedrock-the-most-intelligent-claude-model-yet/)
 - [Announcing the general availability of fully managed MLflow on Amazon SageMaker](https://aws.amazon.com/blogs/aws/manage-ml-and-generative-ai-experiments-using-amazon-sagemaker-with-mlflow/)
 - [AWS Weekly Roundup: Passkey MFA, Malware Protection on Amazon S3, and more &lpar;June 17, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-passkey-mfa-malware-protection-on-amazon-s3-and-more-june-17-2024/)
-- [In the Works – AWS Region in Taiwan](https://aws.amazon.com/blogs/aws/in-the-works-aws-region-in-taiwan/)
 <!-- BLOG-POST-LIST:END -->  
