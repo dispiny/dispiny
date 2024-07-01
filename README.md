@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: AI21 Labs’ Jamba-Instruct in Amazon Bedrock, Amazon WorkSpaces Pools, and more &lpar;July 1, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ai21-labs-jamba-instruct-in-amazon-bedrock-amazon-workspaces-pools-and-more-july-1-2024/)
 - [Amazon WorkSpaces Pools: Cost-effective, non-persistent virtual desktops](https://aws.amazon.com/blogs/aws/amazon-workspaces-pools-cost-effective-non-persistent-virtual-desktops/)
 - [Introducing end-to-end data lineage &lpar;preview&rpar; visualization in Amazon DataZone](https://aws.amazon.com/blogs/aws/introducing-end-to-end-data-lineage-preview-visualization-in-amazon-datazone/)
 - [Amazon CodeCatalyst now supports GitLab and Bitbucket repositories, with blueprints and Amazon Q feature development](https://aws.amazon.com/blogs/aws/amazon-codecatalyst-now-supports-gitlab-and-bitbucket-repositories-with-blueprints-and-amazon-q-feature-development/)
 - [Optimizing Amazon Simple Queue Service &lpar;SQS&rpar; for speed and scale](https://aws.amazon.com/blogs/aws/optimizing-amazon-simple-queue-service-sqs-for-speed-and-scale/)
-- [AWS Weekly Roundup: Claude 3.5 Sonnet in Amazon Bedrock, CodeCatalyst updates, SageMaker with MLflow, and more &lpar;June 24, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-3-5-sonnet-in-amazon-bedrock-codecatalyst-updates-sagemaker-with-mlflow-and-more-june-24-2024/)
 <!-- BLOG-POST-LIST:END -->  
