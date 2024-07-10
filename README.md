@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Guardrails for Amazon Bedrock can now detect hallucinations and safeguard apps built using custom or third-party FMs](https://aws.amazon.com/blogs/aws/guardrails-for-amazon-bedrock-can-now-detect-hallucinations-and-safeguard-apps-built-using-custom-or-third-party-fms/)
+- [Knowledge Bases for Amazon Bedrock now supports additional data connectors &lpar;in preview&rpar;](https://aws.amazon.com/blogs/aws/knowledge-bases-for-amazon-bedrock-now-supports-additional-data-connectors-in-preview/)
+- [Introducing Amazon Q Developer in SageMaker Studio to streamline ML workflows](https://aws.amazon.com/blogs/aws/introducing-amazon-q-developer-in-sagemaker-studio-to-streamline-ml-workflows/)
 - [Monitor data events in Amazon S3 Express One Zone with AWS CloudTrail](https://aws.amazon.com/blogs/aws/monitor-data-events-in-amazon-s3-express-one-zone-with-aws-cloudtrail/)
 - [Top Announcements of the AWS Summit in New York, 2024](https://aws.amazon.com/blogs/aws/top-announcements-of-the-aws-summit-in-new-york-2024-2/)
-- [Integrate your data and collaborate using data preparation in AWS Glue Studio](https://aws.amazon.com/blogs/aws/integrate-your-data-and-collaborate-using-data-preparation-in-aws-glue-studio/)
-- [AWS Graviton4-based Amazon EC2 R8g instances: best price performance in Amazon EC2](https://aws.amazon.com/blogs/aws/aws-graviton4-based-amazon-ec2-r8g-instances-best-price-performance-in-amazon-ec2/)
-- [AWS Weekly Roundup: Amazon S3 Access Grants, AWS Lambda, European Sovereign Cloud Region, and more &lpar;July 8, 2024&rpar;.](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-s3-access-grants-aws-lambda-european-sovereign-cloud-region-and-more-july-8-2024/)
 <!-- BLOG-POST-LIST:END -->  
