@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: Advanced capabilities in Amazon Bedrock and Amazon Q, and more &lpar;July 15, 2024&rpar;.](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-advanced-capabilities-in-amazon-bedrock-and-amazon-q-and-more-july-15-2024/)
 - [Vector search for Amazon MemoryDB is now generally available](https://aws.amazon.com/blogs/aws/vector-search-for-amazon-memorydb-is-now-generally-available/)
 - [Build enterprise-grade applications with natural language using AWS App Studio &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/build-custom-business-applications-without-cloud-expertise-using-aws-app-studio-preview/)
 - [Amazon Q Apps, now generally available, enables users to build their own generative AI apps](https://aws.amazon.com/blogs/aws/amazon-q-apps-now-generally-available-enables-users-to-build-their-own-generative-ai-apps/)
 - [Customize Amazon Q Developer &lpar;in your IDE&rpar; with your private code base](https://aws.amazon.com/blogs/aws/customize-amazon-q-developer-in-your-ide-with-your-private-code-base/)
-- [Agents for Amazon Bedrock now support memory retention and code interpretation &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/agents-for-amazon-bedrock-now-support-memory-retention-and-code-interpretation-preview/)
 <!-- BLOG-POST-LIST:END -->  
