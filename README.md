@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Announcing Llama 3.1 405B, 70B, and 8B models from Meta in Amazon Bedrock](https://aws.amazon.com/blogs/aws/announcing-llama-3-1-405b-70b-and-8b-models-from-meta-in-amazon-bedrock/)
 - [AWS Weekly Roundup: Global AWS Heroes Summit, AWS Lambda, Amazon Redshift, and more &lpar;July 22, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-global-aws-heroes-summit-aws-lambda-amazon-redshift-and-more-july-22-2024/)
 - [AWS Weekly Roundup: Advanced capabilities in Amazon Bedrock and Amazon Q, and more &lpar;July 15, 2024&rpar;.](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-advanced-capabilities-in-amazon-bedrock-and-amazon-q-and-more-july-15-2024/)
 - [Vector search for Amazon MemoryDB is now generally available](https://aws.amazon.com/blogs/aws/vector-search-for-amazon-memorydb-is-now-generally-available/)
 - [Build enterprise-grade applications with natural language using AWS App Studio &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/build-custom-business-applications-without-cloud-expertise-using-aws-app-studio-preview/)
-- [Amazon Q Apps, now generally available, enables users to build their own generative AI apps](https://aws.amazon.com/blogs/aws/amazon-q-apps-now-generally-available-enables-users-to-build-their-own-generative-ai-apps/)
 <!-- BLOG-POST-LIST:END -->  
