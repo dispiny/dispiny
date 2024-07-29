@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: Llama 3.1, Mistral Large 2, AWS Step Functions, AWS Certifications update, and more &lpar;July 29, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-llama-3-1-mistral-large-2-aws-step-functions-aws-certifications-update-and-more-july-29-2024/)
 - [Announcing Llama 3.1 405B, 70B, and 8B models from Meta in Amazon Bedrock](https://aws.amazon.com/blogs/aws/announcing-llama-3-1-405b-70b-and-8b-models-from-meta-in-amazon-bedrock/)
 - [AWS Weekly Roundup: Global AWS Heroes Summit, AWS Lambda, Amazon Redshift, and more &lpar;July 22, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-global-aws-heroes-summit-aws-lambda-amazon-redshift-and-more-july-22-2024/)
 - [AWS Weekly Roundup: Advanced capabilities in Amazon Bedrock and Amazon Q, and more &lpar;July 15, 2024&rpar;.](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-advanced-capabilities-in-amazon-bedrock-and-amazon-q-and-more-july-15-2024/)
 - [Vector search for Amazon MemoryDB is now generally available](https://aws.amazon.com/blogs/aws/vector-search-for-amazon-memorydb-is-now-generally-available/)
-- [Build enterprise-grade applications with natural language using AWS App Studio &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/build-custom-business-applications-without-cloud-expertise-using-aws-app-studio-preview/)
 <!-- BLOG-POST-LIST:END -->  
