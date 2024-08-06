@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Titan Image Generator v2 is now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/amazon-titan-image-generator-v2-is-now-available-in-amazon-bedrock/)
 - [AWS Weekly Roundup: Amazon Q Business, AWS CloudFormation, Amazon WorkSpaces update, and more &lpar;Aug 5, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-q-business-aws-cloudformation-amazon-workspaces-update-and-more-aug-5-2024/)
 - [Plan your advertising campaigns with Amazon Marketing Cloud on AWS Clean Rooms, now generally available](https://aws.amazon.com/blogs/aws/plan-your-advertising-campaigns-with-amazon-marketing-cloud-on-aws-clean-rooms-now-generally-available/)
 - [AWS and Multicloud: Existing capabilities &amp; continued enhancements](https://aws.amazon.com/blogs/aws/aws-and-multicloud-existing-capabilities-continued-enhancements/)
 - [AWS Weekly Roundup: Llama 3.1, Mistral Large 2, AWS Step Functions, AWS Certifications update, and more &lpar;July 29, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-llama-3-1-mistral-large-2-aws-step-functions-aws-certifications-update-and-more-july-29-2024/)
-- [Announcing Llama 3.1 405B, 70B, and 8B models from Meta in Amazon Bedrock](https://aws.amazon.com/blogs/aws/announcing-llama-3-1-405b-70b-and-8b-models-from-meta-in-amazon-bedrock/)
 <!-- BLOG-POST-LIST:END -->  
