@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: Mithra, Amazon Titan Image Generator v2, AWS GenAI Lofts, and more &lpar;August 12, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-mithra-amazon-titan-image-generator-v2-aws-genai-lofts-and-more-august-12-2024/)
 - [Amazon Titan Image Generator v2 is now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/amazon-titan-image-generator-v2-is-now-available-in-amazon-bedrock/)
 - [AWS Weekly Roundup: Amazon Q Business, AWS CloudFormation, Amazon WorkSpaces update, and more &lpar;Aug 5, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-q-business-aws-cloudformation-amazon-workspaces-update-and-more-aug-5-2024/)
 - [Plan your advertising campaigns with Amazon Marketing Cloud on AWS Clean Rooms, now generally available](https://aws.amazon.com/blogs/aws/plan-your-advertising-campaigns-with-amazon-marketing-cloud-on-aws-clean-rooms-now-generally-available/)
 - [AWS and Multicloud: Existing capabilities &amp; continued enhancements](https://aws.amazon.com/blogs/aws/aws-and-multicloud-existing-capabilities-continued-enhancements/)
-- [AWS Weekly Roundup: Llama 3.1, Mistral Large 2, AWS Step Functions, AWS Certifications update, and more &lpar;July 29, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-llama-3-1-mistral-large-2-aws-step-functions-aws-certifications-update-and-more-july-29-2024/)
 <!-- BLOG-POST-LIST:END -->  
