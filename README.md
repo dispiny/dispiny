@@ -92,9 +92,9 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Announcing AWS Parallel Computing Service to run HPC workloads at virtually any scale](https://aws.amazon.com/blogs/aws/announcing-aws-parallel-computing-service-to-run-hpc-workloads-at-virtually-any-scale/)
 - [AWS Weekly Roundup: S3 Conditional writes, AWS Lambda, JAWS Pankration, and more &lpar;August 26, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-s3-conditional-writes-aws-lambda-jaws-pankration-and-more-august-26-2024/)
 - [Now open — AWS Asia Pacific &lpar;Malaysia&rpar; Region](https://aws.amazon.com/blogs/aws/now-open-aws-asia-pacific-malaysia-region/)
 - [Add macOS to your continuous integration pipelines with AWS CodeBuild](https://aws.amazon.com/blogs/aws/add-macos-to-your-continuous-integration-pipelines-with-aws-codebuild/)
 - [AWS Weekly Roundup: G6e instances, Karpenter, Amazon Prime Day metrics, AWS Certifications update and more &lpar;August 19, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-g6e-instances-karpenter-amazon-prime-day-metrics-aws-certifications-update-and-more-august-19-2024/)
-- [How AWS powered Prime Day 2024 for record-breaking sales](https://aws.amazon.com/blogs/aws/how-aws-powered-prime-day-2024-for-record-breaking-sales/)
 <!-- BLOG-POST-LIST:END -->  
