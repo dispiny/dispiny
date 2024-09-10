@@ -89,11 +89,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Amazon SageMaker HyperPod introduces Amazon EKS support](https://aws.amazon.com/blogs/aws/amazon-sagemaker-hyperpod-introduces-amazon-eks-support/)
 - [AWS Weekly Roundup: Amazon DynamoDB, AWS AppSync, Storage Browser for Amazon S3, and more &lpar;September 9, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-dynamodb-aws-appsync-storage-browser-for-amazon-s3-and-more-september-9-2024/)
 - [Stability AI’s best image generating models now in Amazon Bedrock](https://aws.amazon.com/blogs/aws/stability-ais-best-image-generating-models-now-in-amazon-bedrock/)
 - [The latest AWS Heroes have arrived – September 2024](https://aws.amazon.com/blogs/aws/the-latest-aws-heroes-have-arrived-september-2024/)
 - [AWS named as a Leader in the first Gartner Magic Quadrant for AI Code Assistants](https://aws.amazon.com/blogs/aws/aws-named-as-a-leader-in-the-first-gartner-magic-quadrant-for-ai-code-assistants/)
-- [AWS Weekly Roundup: AWS Parallel Computing Service, Amazon EC2 status checks, and more &lpar;September 2, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-parallel-computing-service-amazon-ec2-status-checks-and-more-september-2-2024/)
 <!-- BLOG-POST-LIST:END -->  
 
 
