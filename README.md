@@ -13,9 +13,6 @@
   
 
 - ❓ Ask me about anything related to Amazon Web Server stack and related technologies  
-- 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eaniya198)](https://solved.ac/eaniya198)
-<img src="https://komarev.com/ghpvc/?username=dispiny&&style=flat-square" align="center" />
   
 
 <br/>  
@@ -98,3 +95,6 @@
 - [AWS named as a Leader in the first Gartner Magic Quadrant for AI Code Assistants](https://aws.amazon.com/blogs/aws/aws-named-as-a-leader-in-the-first-gartner-magic-quadrant-for-ai-code-assistants/)
 - [AWS Weekly Roundup: AWS Parallel Computing Service, Amazon EC2 status checks, and more &lpar;September 2, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-parallel-computing-service-amazon-ec2-status-checks-and-more-september-2-2024/)
 <!-- BLOG-POST-LIST:END -->  
+
+
+<img src="https://komarev.com/ghpvc/?username=dispiny&&style=flat-square" align="center" />
