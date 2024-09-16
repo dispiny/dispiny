@@ -89,11 +89,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: Oracle Database@AWS, Amazon RDS, AWS PrivateLink, Amazon MSK, Amazon EventBridge, Amazon SageMaker and more](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-oracle-databaseaws-amazon-rds-aws-privatelink-amazon-msk-amazon-eventbridge-amazon-sagemaker-and-more/)
 - [Amazon RDS for MySQL zero-ETL integration with Amazon Redshift, now generally available, enables near real-time analytics](https://aws.amazon.com/blogs/aws/amazon-rds-for-mysql-zero-etl-integration-with-amazon-redshift-now-generally-available-enables-near-real-time-analytics/)
 - [Amazon SageMaker HyperPod introduces Amazon EKS support](https://aws.amazon.com/blogs/aws/amazon-sagemaker-hyperpod-introduces-amazon-eks-support/)
 - [AWS Weekly Roundup: Amazon DynamoDB, AWS AppSync, Storage Browser for Amazon S3, and more &lpar;September 9, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-dynamodb-aws-appsync-storage-browser-for-amazon-s3-and-more-september-9-2024/)
 - [Stability AI’s best image generating models now in Amazon Bedrock](https://aws.amazon.com/blogs/aws/stability-ais-best-image-generating-models-now-in-amazon-bedrock/)
-- [The latest AWS Heroes have arrived – September 2024](https://aws.amazon.com/blogs/aws/the-latest-aws-heroes-have-arrived-september-2024/)
 <!-- BLOG-POST-LIST:END -->  
 
 
