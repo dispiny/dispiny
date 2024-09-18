@@ -89,11 +89,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Data engineering professional certificate: New hands-on specialization by DeepLearning.AI and AWS](https://aws.amazon.com/blogs/aws/data-engineering-professional-certificate-new-hands-on-specialization-by-deeplearning-ai-and-aws/)
 - [Amazon S3 Express One Zone now supports AWS KMS with customer managed keys](https://aws.amazon.com/blogs/aws/amazon-s3-express-one-zone-now-supports-aws-kms-with-customer-managed-keys/)
 - [AWS Weekly Roundup: Oracle Database@AWS, Amazon RDS, AWS PrivateLink, Amazon MSK, Amazon EventBridge, Amazon SageMaker and more](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-oracle-databaseaws-amazon-rds-aws-privatelink-amazon-msk-amazon-eventbridge-amazon-sagemaker-and-more/)
 - [Amazon RDS for MySQL zero-ETL integration with Amazon Redshift, now generally available, enables near real-time analytics](https://aws.amazon.com/blogs/aws/amazon-rds-for-mysql-zero-etl-integration-with-amazon-redshift-now-generally-available-enables-near-real-time-analytics/)
 - [Amazon SageMaker HyperPod introduces Amazon EKS support](https://aws.amazon.com/blogs/aws/amazon-sagemaker-hyperpod-introduces-amazon-eks-support/)
-- [AWS Weekly Roundup: Amazon DynamoDB, AWS AppSync, Storage Browser for Amazon S3, and more &lpar;September 9, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-dynamodb-aws-appsync-storage-browser-for-amazon-s3-and-more-september-9-2024/)
 <!-- BLOG-POST-LIST:END -->  
 
 
