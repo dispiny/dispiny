@@ -89,11 +89,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Jamba 1.5 family of models by AI21 Labs is now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/jamba-1-5-family-of-models-by-ai21-labs-is-now-available-in-amazon-bedrock/)
+- [AWS Weekly Roundup: Amazon EC2 X8g Instances, Amazon Q generative SQL for Amazon Redshift, AWS SDK for Swift, and more &lpar;Sep 23, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-x8g-instances-amazon-q-generative-sql-for-amazon-redshift-aws-sdk-for-swift-and-more-sep-23-2024/)
 - [AWS named as a Leader in the 2024 Gartner Magic Quadrant for Desktop as a Service &lpar;DaaS&rpar;](https://aws.amazon.com/blogs/aws/aws-named-as-a-leader-in-the-2024-gartner-magic-quadrant-for-desktop-as-a-service-daas/)
 - [Now available: Graviton4-powered memory-optimized Amazon EC2 X8g instances](https://aws.amazon.com/blogs/aws/now-available-graviton4-powered-memory-optimized-amazon-ec2-x8g-instances/)
 - [Data engineering professional certificate: New hands-on specialization by DeepLearning.AI and AWS](https://aws.amazon.com/blogs/aws/data-engineering-professional-certificate-new-hands-on-specialization-by-deeplearning-ai-and-aws/)
-- [Amazon S3 Express One Zone now supports AWS KMS with customer managed keys](https://aws.amazon.com/blogs/aws/amazon-s3-express-one-zone-now-supports-aws-kms-with-customer-managed-keys/)
-- [AWS Weekly Roundup: Oracle Database@AWS, Amazon RDS, AWS PrivateLink, Amazon MSK, Amazon EventBridge, Amazon SageMaker and more](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-oracle-databaseaws-amazon-rds-aws-privatelink-amazon-msk-amazon-eventbridge-amazon-sagemaker-and-more/)
 <!-- BLOG-POST-LIST:END -->  
 
 
