@@ -89,11 +89,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: Jamba 1.5 family, Llama 3.2, Amazon EC2 C8g and M8g instances and more &lpar;Sep 30, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-jamba-1-5-family-llama-3-2-amazon-ec2-c8g-and-m8g-instances-and-more-sep-30-2024/)
 - [Run your compute-intensive and general purpose workloads sustainably with the new Amazon EC2 C8g, M8g instances](https://aws.amazon.com/blogs/aws/run-your-compute-intensive-and-general-purpose-workloads-sustainably-with-the-new-amazon-ec2-c8g-m8g-instances/)
 - [Introducing Llama 3.2 models from Meta in Amazon Bedrock: A new generation of multimodal vision and lightweight models](https://aws.amazon.com/blogs/aws/introducing-llama-3-2-models-from-meta-in-amazon-bedrock-a-new-generation-of-multimodal-vision-and-lightweight-models/)
 - [Jamba 1.5 family of models by AI21 Labs is now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/jamba-1-5-family-of-models-by-ai21-labs-is-now-available-in-amazon-bedrock/)
 - [AWS Weekly Roundup: Amazon EC2 X8g Instances, Amazon Q generative SQL for Amazon Redshift, AWS SDK for Swift, and more &lpar;Sep 23, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-x8g-instances-amazon-q-generative-sql-for-amazon-redshift-aws-sdk-for-swift-and-more-sep-23-2024/)
-- [AWS named as a Leader in the 2024 Gartner Magic Quadrant for Desktop as a Service &lpar;DaaS&rpar;](https://aws.amazon.com/blogs/aws/aws-named-as-a-leader-in-the-2024-gartner-magic-quadrant-for-desktop-as-a-service-daas/)
 <!-- BLOG-POST-LIST:END -->  
 
 
