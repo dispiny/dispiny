@@ -89,11 +89,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: HIPAA eligible with Amazon Q Business, Amazon DCV, AWS re:Post Agent, and more &lpar;Oct 07, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-q-business-is-hipaa-eligible-amazon-dcv-aws-repost-agent-and-more-oct-07-2024/)
 - [NICE DCV is now Amazon DCV with 2024.0 release](https://aws.amazon.com/blogs/aws/nice-desktop-cloud-visualization-dcv-is-now-amazon-dcv/)
 - [AWS Weekly Roundup: Jamba 1.5 family, Llama 3.2, Amazon EC2 C8g and M8g instances and more &lpar;Sep 30, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-jamba-1-5-family-llama-3-2-amazon-ec2-c8g-and-m8g-instances-and-more-sep-30-2024/)
 - [Run your compute-intensive and general purpose workloads sustainably with the new Amazon EC2 C8g, M8g instances](https://aws.amazon.com/blogs/aws/run-your-compute-intensive-and-general-purpose-workloads-sustainably-with-the-new-amazon-ec2-c8g-m8g-instances/)
 - [Introducing Llama 3.2 models from Meta in Amazon Bedrock: A new generation of multimodal vision and lightweight models](https://aws.amazon.com/blogs/aws/introducing-llama-3-2-models-from-meta-in-amazon-bedrock-a-new-generation-of-multimodal-vision-and-lightweight-models/)
-- [Jamba 1.5 family of models by AI21 Labs is now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/jamba-1-5-family-of-models-by-ai21-labs-is-now-available-in-amazon-bedrock/)
 <!-- BLOG-POST-LIST:END -->  
 
 
