@@ -89,11 +89,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: Agentic workflows, Amazon Transcribe, AWS Lambda insights, and more &lpar;October 21, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-workflows-amazon-transcribe-aws-lambda-insights-and-more-october-21-2024/)
 - [Amazon Aurora PostgreSQL and Amazon DynamoDB zero-ETL integrations with Amazon Redshift now generally available](https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-and-amazon-dynamodb-zero-etl-integrations-with-amazon-redshift-now-generally-available/)
 - [AWS Weekly Roundup: What’s App, AWS Lambda, Load Balancers, AWS Console, and more &lpar;Oct 14, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-whats-app-aws-lambda-load-balancers-aws-console-and-more-oct-14-2024/)
 - [Convert AWS console actions to reusable code with AWS Console-to-Code, now generally available](https://aws.amazon.com/blogs/aws/convert-aws-console-actions-to-reusable-code-with-aws-console-to-code-now-generally-available/)
 - [AWS Weekly Roundup: HIPAA eligible with Amazon Q Business, Amazon DCV, AWS re:Post Agent, and more &lpar;Oct 07, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-q-business-is-hipaa-eligible-amazon-dcv-aws-repost-agent-and-more-oct-07-2024/)
-- [NICE DCV is now Amazon DCV with 2024.0 release](https://aws.amazon.com/blogs/aws/nice-desktop-cloud-visualization-dcv-is-now-amazon-dcv/)
 <!-- BLOG-POST-LIST:END -->  
 
 
