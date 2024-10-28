@@ -89,11 +89,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Celebrating 10 Years of Amazon ECS: Powering a Decade of Containerized Innovation](https://aws.amazon.com/blogs/aws/celebrating-10-years-of-amazon-ecs-powering-a-decade-of-containerized-innovation/)
+- [AWS Weekly Roundup: New code editor in AWS Lambda console, Amazon Q Business analytics, Claude 3.5 upgrades, and more &lpar;October 28, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-new-code-editor-in-aws-lambda-console-amazon-q-business-analytics-claude-3-5-upgrades-and-more-october-28-2024/)
 - [EC2 Image Builder now supports building and testing macOS images](https://aws.amazon.com/blogs/aws/ec2-image-builder-now-supports-building-and-testing-macos-images/)
 - [Upgraded Claude 3.5 Sonnet from Anthropic &lpar;available now&rpar;, computer use &lpar;public beta&rpar;, and Claude 3.5 Haiku &lpar;coming soon&rpar; in Amazon Bedrock](https://aws.amazon.com/blogs/aws/upgraded-claude-3-5-sonnet-from-anthropic-available-now-computer-use-public-beta-and-claude-3-5-haiku-coming-soon-in-amazon-bedrock/)
 - [AWS Weekly Roundup: Agentic workflows, Amazon Transcribe, AWS Lambda insights, and more &lpar;October 21, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentic-workflows-amazon-transcribe-aws-lambda-insights-and-more-october-21-2024/)
-- [Amazon Aurora PostgreSQL and Amazon DynamoDB zero-ETL integrations with Amazon Redshift now generally available](https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-and-amazon-dynamodb-zero-etl-integrations-with-amazon-redshift-now-generally-available/)
-- [AWS Weekly Roundup: What’s App, AWS Lambda, Load Balancers, AWS Console, and more &lpar;Oct 14, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-whats-app-aws-lambda-load-balancers-aws-console-and-more-oct-14-2024/)
 <!-- BLOG-POST-LIST:END -->  
 
 
