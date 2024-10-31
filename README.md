@@ -89,11 +89,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Aurora PostgreSQL Limitless Database is now generally available](https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-limitless-database-is-now-generally-available/)
 - [Simplify and enhance Amazon S3 static website hosting with AWS Amplify Hosting](https://aws.amazon.com/blogs/aws/simplify-and-enhance-amazon-s3-static-website-hosting-with-aws-amplify/)
 - [Celebrating 10 Years of Amazon ECS: Powering a Decade of Containerized Innovation](https://aws.amazon.com/blogs/aws/celebrating-10-years-of-amazon-ecs-powering-a-decade-of-containerized-innovation/)
 - [AWS Weekly Roundup: New code editor in AWS Lambda console, Amazon Q Business analytics, Claude 3.5 upgrades, and more &lpar;October 28, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-new-code-editor-in-aws-lambda-console-amazon-q-business-analytics-claude-3-5-upgrades-and-more-october-28-2024/)
 - [EC2 Image Builder now supports building and testing macOS images](https://aws.amazon.com/blogs/aws/ec2-image-builder-now-supports-building-and-testing-macos-images/)
-- [Upgraded Claude 3.5 Sonnet from Anthropic &lpar;available now&rpar;, computer use &lpar;public beta&rpar;, and Claude 3.5 Haiku &lpar;coming soon&rpar; in Amazon Bedrock](https://aws.amazon.com/blogs/aws/upgraded-claude-3-5-sonnet-from-anthropic-available-now-computer-use-public-beta-and-claude-3-5-haiku-coming-soon-in-amazon-bedrock/)
 <!-- BLOG-POST-LIST:END -->  
 
 
