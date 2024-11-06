@@ -89,11 +89,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Introducing the last cohort of AWS Heroes this year – November 2024](https://aws.amazon.com/blogs/aws/introducing-the-last-cohort-of-aws-heroes-this-year-november-2024/)
 - [AWS Weekly Roundup: AWS Lambda, Amazon Bedrock, Amazon Redshift, Amazon CloudWatch, and more &lpar;Nov 4, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-amazon-bedrock-amazon-redshift-amazon-cloudwatch-and-more-nov-4-2024/)
 - [Fine-tuning for Anthropic’s Claude 3 Haiku model in Amazon Bedrock is now generally available](https://aws.amazon.com/blogs/aws/fine-tuning-for-anthropics-claude-3-haiku-model-in-amazon-bedrock-is-now-generally-available/)
 - [Unlock the potential of your supply chain data and gain actionable insights with AWS Supply Chain Analytics](https://aws.amazon.com/blogs/aws/unlock-the-potential-of-your-supply-chain-data-and-gain-actionable-insights-with-aws-supply-chain-analytics/)
 - [Amazon Aurora PostgreSQL Limitless Database is now generally available](https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-limitless-database-is-now-generally-available/)
-- [Simplify and enhance Amazon S3 static website hosting with AWS Amplify Hosting](https://aws.amazon.com/blogs/aws/simplify-and-enhance-amazon-s3-static-website-hosting-with-aws-amplify/)
 <!-- BLOG-POST-LIST:END -->  
 
 
