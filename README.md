@@ -89,11 +89,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Replicate changes from databases to Apache Iceberg tables using Amazon Data Firehose &lpar;in preview&rpar;](https://aws.amazon.com/blogs/aws/replicate-changes-from-databases-to-apache-iceberg-tables-using-amazon-data-firehose/)
 - [Centrally managing root access for customers using AWS Organizations](https://aws.amazon.com/blogs/aws/centrally-managing-root-access-for-customers-using-aws-organizations/)
 - [Introducing resource control policies &lpar;RCPs&rpar;, a new type of authorization policy in AWS Organizations](https://aws.amazon.com/blogs/aws/introducing-resource-control-policies-rcps-a-new-authorization-policy/)
 - [AWS BuilderCards second edition at re:Invent 2024](https://aws.amazon.com/blogs/aws/aws-buildercards-second-edition-available-at-reinvent-2024-and-online/)
 - [AWS Weekly Roundup: 20 years of AWS News Blog, Express brokers for Amazon MSK, Windows Server 2025 images on EC2, and more &lpar;Nov 11, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-20-years-of-aws-news-blog-express-brokers-for-amazon-msk-windows-server-2025-images-on-ec2-and-more-nov-11-2024/)
-- [Announcing new APIs for Amazon Location Service Routes, Places, and Maps](https://aws.amazon.com/blogs/aws/announcing-new-apis-for-amazon-location-service-routes-places-and-maps/)
 <!-- BLOG-POST-LIST:END -->  
 
 
