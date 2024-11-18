@@ -89,11 +89,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Build and modify apps using natural language with AWS App Studio, now generally available](https://aws.amazon.com/blogs/aws/build-and-modify-apps-using-natural-language-with-aws-app-studio-now-generally-available/)
+- [AWS Lambda turns ten – looking back and looking ahead](https://aws.amazon.com/blogs/aws/aws-lambda-turns-ten-the-first-decade-of-serverless-innovation/)
 - [AWS Weekly Roundup: AWS BuilderCards at re:Invent 2024, AWS Community Day, Amazon Bedrock, vector databases, and more &lpar;Nov 18, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-buildercards-at-reinvent-2024-aws-community-day-amazon-bedrock-vector-databases-and-more-nov-18-2024/)
 - [Replicate changes from databases to Apache Iceberg tables using Amazon Data Firehose &lpar;in preview&rpar;](https://aws.amazon.com/blogs/aws/replicate-changes-from-databases-to-apache-iceberg-tables-using-amazon-data-firehose/)
 - [Centrally managing root access for customers using AWS Organizations](https://aws.amazon.com/blogs/aws/centrally-managing-root-access-for-customers-using-aws-organizations/)
-- [Introducing resource control policies &lpar;RCPs&rpar;, a new type of authorization policy in AWS Organizations](https://aws.amazon.com/blogs/aws/introducing-resource-control-policies-rcps-a-new-authorization-policy/)
-- [AWS BuilderCards second edition at re:Invent 2024](https://aws.amazon.com/blogs/aws/aws-buildercards-second-edition-available-at-reinvent-2024-and-online/)
 <!-- BLOG-POST-LIST:END -->  
 
 
