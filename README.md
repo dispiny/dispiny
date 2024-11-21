@@ -89,11 +89,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Announcing a visual update to the AWS Management Console &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/announcing-a-visual-update-to-the-aws-management-console-preview/)
 - [Introducing Amazon CloudFront VPC origins: Enhanced security and streamlined operations for your applications](https://aws.amazon.com/blogs/aws/introducing-amazon-cloudfront-vpc-origins-enhanced-security-and-streamlined-operations-for-your-applications/)
 - [Amazon CloudFront now accepts your applications’ gRPC calls](https://aws.amazon.com/blogs/aws/amazon-cloudfront-now-accepts-your-applications-grpc-calls/)
 - [Streamline container application networking with built-in Amazon ECS support in Amazon VPC Lattice](https://aws.amazon.com/blogs/aws/streamline-container-application-networking-with-native-amazon-ecs-support-in-amazon-vpc-lattice/)
 - [AWS Lambda SnapStart for Python and .NET functions is now generally available](https://aws.amazon.com/blogs/aws/aws-lambda-snapstart-for-python-and-net-functions-is-now-generally-available/)
-- [Build and modify apps using natural language with AWS App Studio, now generally available](https://aws.amazon.com/blogs/aws/build-and-modify-apps-using-natural-language-with-aws-app-studio-now-generally-available/)
 <!-- BLOG-POST-LIST:END -->  
 
 
