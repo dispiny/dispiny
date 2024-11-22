@@ -89,11 +89,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Improve your app authentication workflow with new Amazon Cognito features](https://aws.amazon.com/blogs/aws/improve-your-app-authentication-workflow-with-new-amazon-cognito-features/)
 - [Introducing new capabilities to AWS CloudTrail Lake to enhance your cloud visibility and investigations](https://aws.amazon.com/blogs/aws/introducing-new-capabilities-to-aws-cloudtrail-lake-to-enhance-your-cloud-visibility-and-investigations/)
 - [Track performance of serverless applications built using AWS Lambda with Application Signals](https://aws.amazon.com/blogs/aws/track-performance-of-serverless-applications-built-using-aws-lambda-with-application-signals/)
 - [Announcing a visual update to the AWS Management Console &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/announcing-a-visual-update-to-the-aws-management-console-preview/)
 - [Introducing Amazon CloudFront VPC origins: Enhanced security and streamlined operations for your applications](https://aws.amazon.com/blogs/aws/introducing-amazon-cloudfront-vpc-origins-enhanced-security-and-streamlined-operations-for-your-applications/)
-- [Amazon CloudFront now accepts your applications’ gRPC calls](https://aws.amazon.com/blogs/aws/amazon-cloudfront-now-accepts-your-applications-grpc-calls/)
 <!-- BLOG-POST-LIST:END -->  
 
 
