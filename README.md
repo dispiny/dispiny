@@ -89,11 +89,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Announcing future-dated Amazon EC2 On-Demand Capacity Reservations](https://aws.amazon.com/blogs/aws/announcing-future-dated-amazon-ec2-on-demand-capacity-reservations/)
 - [AWS Weekly Roundup: 197 new launches, AI training partnership with Anthropic, and join AWS re:Invent virtually &lpar;Nov 25, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-197-new-launches-ai-training-partnership-with-anthropic-and-join-aws-reinvent-virtually-nov-25-2024/)
 - [Introducing a new experience for AWS Systems Manager](https://aws.amazon.com/blogs/aws/introducing-a-new-experience-for-aws-system-manager/)
 - [AWS named as a leader again in the Gartner Magic Quadrant for Distributed Hybrid Infrastructure](https://aws.amazon.com/blogs/aws/aws-named-as-a-leader-again-in-the-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/)
 - [Improve your app authentication workflow with new Amazon Cognito features](https://aws.amazon.com/blogs/aws/improve-your-app-authentication-workflow-with-new-amazon-cognito-features/)
-- [Introducing new capabilities to AWS CloudTrail Lake to enhance your cloud visibility and investigations](https://aws.amazon.com/blogs/aws/introducing-new-capabilities-to-aws-cloudtrail-lake-to-enhance-your-cloud-visibility-and-investigations/)
 <!-- BLOG-POST-LIST:END -->  
 
 
