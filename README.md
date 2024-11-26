@@ -89,11 +89,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Time-based snapshot copy for Amazon EBS](https://aws.amazon.com/blogs/aws/time-based-snapshot-copy-for-amazon-ebs/)
 - [Announcing future-dated Amazon EC2 On-Demand Capacity Reservations](https://aws.amazon.com/blogs/aws/announcing-future-dated-amazon-ec2-on-demand-capacity-reservations/)
 - [AWS Weekly Roundup: multiple new launches, AI training partnership with Anthropic, and join AWS re:Invent virtually &lpar;Nov 25, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-multiple-new-launches-ai-training-partnership-with-anthropic-and-join-aws-reinvent-virtually-nov-25-2024/)
 - [Introducing a new experience for AWS Systems Manager](https://aws.amazon.com/blogs/aws/introducing-a-new-experience-for-aws-system-manager/)
 - [AWS named as a leader again in the Gartner Magic Quadrant for Distributed Hybrid Infrastructure](https://aws.amazon.com/blogs/aws/aws-named-as-a-leader-again-in-the-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/)
-- [Improve your app authentication workflow with new Amazon Cognito features](https://aws.amazon.com/blogs/aws/improve-your-app-authentication-workflow-with-new-amazon-cognito-features/)
 <!-- BLOG-POST-LIST:END -->  
 
 
