@@ -89,11 +89,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Amazon FSx for Lustre increases throughput to GPU instances by up to 12x](https://aws.amazon.com/blogs/aws/amazon-fsx-for-lustre-unlocks-full-network-bandwidth-and-gpu-performance/)
 - [Time-based snapshot copy for Amazon EBS](https://aws.amazon.com/blogs/aws/time-based-snapshot-copy-for-amazon-ebs/)
 - [Announcing future-dated Amazon EC2 On-Demand Capacity Reservations](https://aws.amazon.com/blogs/aws/announcing-future-dated-amazon-ec2-on-demand-capacity-reservations/)
 - [AWS Weekly Roundup: multiple new launches, AI training partnership with Anthropic, and join AWS re:Invent virtually &lpar;Nov 25, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-multiple-new-launches-ai-training-partnership-with-anthropic-and-join-aws-reinvent-virtually-nov-25-2024/)
 - [Introducing a new experience for AWS Systems Manager](https://aws.amazon.com/blogs/aws/introducing-a-new-experience-for-aws-system-manager/)
-- [AWS named as a leader again in the Gartner Magic Quadrant for Distributed Hybrid Infrastructure](https://aws.amazon.com/blogs/aws/aws-named-as-a-leader-again-in-the-gartner-magic-quadrant-for-distributed-hybrid-infrastructure/)
 <!-- BLOG-POST-LIST:END -->  
 
 
