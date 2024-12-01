@@ -89,11 +89,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
-- [Amazon FSx for Lustre increases throughput to GPU instances by up to 12x](https://aws.amazon.com/blogs/aws/amazon-fsx-for-lustre-unlocks-full-network-bandwidth-and-gpu-performance/)
-- [Time-based snapshot copy for Amazon EBS](https://aws.amazon.com/blogs/aws/time-based-snapshot-copy-for-amazon-ebs/)
-- [Announcing future-dated Amazon EC2 On-Demand Capacity Reservations](https://aws.amazon.com/blogs/aws/announcing-future-dated-amazon-ec2-on-demand-capacity-reservations/)
-- [AWS Weekly Roundup: multiple new launches, AI training partnership with Anthropic, and join AWS re:Invent virtually &lpar;Nov 25, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-multiple-new-launches-ai-training-partnership-with-anthropic-and-join-aws-reinvent-virtually-nov-25-2024/)
-- [Introducing a new experience for AWS Systems Manager](https://aws.amazon.com/blogs/aws/introducing-a-new-experience-for-aws-system-manager/)
+- [New APIs in Amazon Bedrock to enhance RAG applications, now available](https://aws.amazon.com/blogs/aws/new-apis-in-amazon-bedrock-to-enhance-rag-applications-now-available/)
+- [Connect users to data through your apps with Storage Browser for Amazon S3](https://aws.amazon.com/blogs/aws/connect-users-to-data-through-your-apps-with-storage-browser-for-amazon-s3/)
+- [Introducing new PartyRock capabilities and free daily usage](https://aws.amazon.com/blogs/aws/introducing-new-partyrock-capabilities-and-free-daily-usage/)
+- [Amazon MemoryDB Multi-Region is now generally available](https://aws.amazon.com/blogs/aws/amazon-memorydb-multi-region-is-now-generally-available/)
+- [Introducing default data integrity protections for new objects in Amazon S3](https://aws.amazon.com/blogs/aws/introducing-default-data-integrity-protections-for-new-objects-in-amazon-s3/)
 <!-- BLOG-POST-LIST:END -->  
 
 
