@@ -89,11 +89,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
-- [Securely share AWS resources across VPC and account boundaries with PrivateLink, VPC Lattice, EventBridge, and Step Functions](https://aws.amazon.com/blogs/aws/securely-share-aws-resources-across-vpc-and-account-boundaries-with-privatelink-vpc-lattice-eventbridge-and-step-functions/)
-- [New AWS Security Incident Response helps organizations respond to and recover from security events](https://aws.amazon.com/blogs/aws/new-aws-security-incident-response-helps-organizations-respond-to-and-recover-from-security-events/)
-- [New APIs in Amazon Bedrock to enhance RAG applications, now available](https://aws.amazon.com/blogs/aws/new-apis-in-amazon-bedrock-to-enhance-rag-applications-now-available/)
-- [Connect users to data through your apps with Storage Browser for Amazon S3](https://aws.amazon.com/blogs/aws/connect-users-to-data-through-your-apps-with-storage-browser-for-amazon-s3/)
-- [Introducing new PartyRock capabilities and free daily usage](https://aws.amazon.com/blogs/aws/introducing-new-partyrock-capabilities-and-free-daily-usage/)
+- [Introducing Amazon GuardDuty Extended Threat Detection: AI/ML attack sequence identification for enhanced cloud security](https://aws.amazon.com/blogs/aws/introducing-amazon-guardduty-extended-threat-detection-aiml-attack-sequence-identification-for-enhanced-cloud-security/)
+- [Container Insights with enhanced observability now available in Amazon ECS](https://aws.amazon.com/blogs/aws/container-insights-with-enhanced-observability-now-available-in-amazon-ecs/)
+- [AWS Clean Rooms now supports multiple clouds and data sources](https://aws.amazon.com/blogs/aws/aws-clean-rooms-now-supports-multiple-clouds-and-data-sources/)
+- [New physical AWS Data Transfer Terminals let you upload to the cloud faster](https://aws.amazon.com/blogs/aws/new-physical-aws-data-transfer-terminals-let-you-upload-to-the-cloud-faster/)
+- [Enhance your productivity with new extensions and integrations in Amazon Q Business](https://aws.amazon.com/blogs/aws/enhance-your-productivity-with-new-extensions-and-integrations-in-amazon-q-business/)
 <!-- BLOG-POST-LIST:END -->  
 
 
