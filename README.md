@@ -89,11 +89,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Amazon Nova: Frontier intelligence and industry leading price performance](https://aws.amazon.com/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/)
-- [Introducing multi-agent collaboration capability for Amazon Bedrock &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/introducing-multi-agent-collaboration-capability-for-amazon-bedrock/)
-- [Prevent factual errors from LLM hallucinations with mathematically sound Automated Reasoning checks &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/prevent-factual-errors-from-llm-hallucinations-with-mathematically-sound-automated-reasoning-checks-preview/)
-- [Build faster, more cost-efficient, highly accurate models with Amazon Bedrock Model Distillation &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/build-faster-more-cost-efficient-highly-accurate-models-with-amazon-bedrock-model-distillation-preview/)
-- [Introducing queryable object metadata for Amazon S3 buckets &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/introducing-queryable-object-metadata-for-amazon-s3-buckets-preview/)
+- [New Amazon DynamoDB zero-ETL integration with Amazon SageMaker Lakehouse](https://aws.amazon.com/blogs/aws/new-amazon-dynamodb-zero-etl-integration-with-amazon-sagemaker-lakehouse/)
+- [Discover, govern, and collaborate on data and AI securely with Amazon SageMaker Data and AI Governance](https://aws.amazon.com/blogs/aws/discover-govern-and-collaborate-on-data-and-ai-securely-with-amazon-sagemaker-data-and-ai-governance/)
+- [Announcing the general availability of data lineage in the next generation of Amazon SageMaker and Amazon DataZone](https://aws.amazon.com/blogs/aws/announcing-the-general-availability-of-data-lineage-in-the-next-generation-of-amazon-sagemaker-and-amazon-datazone/)
+- [Introducing the next generation of Amazon SageMaker: The center for all your data, analytics, and AI](https://aws.amazon.com/blogs/aws/introducing-the-next-generation-of-amazon-sagemaker-the-center-for-all-your-data-analytics-and-ai/)
+- [Amazon Q Business is adding new workflow automation capability and 50+ action integrations](https://aws.amazon.com/blogs/aws/amazon-q-business-is-adding-new-workflow-automation-capability-and-50-action-integrations/)
 <!-- BLOG-POST-LIST:END -->  
 
 
