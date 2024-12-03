@@ -89,11 +89,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Introducing queryable object metadata for Amazon S3 buckets &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/introducing-queryable-object-metadata-for-amazon-s3-buckets-preview/)
+- [New Amazon S3 Tables: Storage optimized for analytics workloads](https://aws.amazon.com/blogs/aws/new-amazon-s3-tables-storage-optimized-for-analytics-workloads/)
+- [Amazon EC2 Trn2 Instances and Trn2 UltraServers for AI/ML training and inference are now available](https://aws.amazon.com/blogs/aws/amazon-ec2-trn2-instances-and-trn2-ultraservers-for-aiml-training-and-inference-is-now-available/)
 - [New Amazon EC2 P5en instances with NVIDIA H200 Tensor Core GPUs and EFAv3 networking](https://aws.amazon.com/blogs/aws/new-amazon-ec2-p5en-instances-with-nvidia-h200-tensor-core-gpus-and-efav3-networking/)
 - [Top announcements of AWS re:Invent 2024](https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2024/)
-- [Introducing Amazon GuardDuty Extended Threat Detection: AI/ML attack sequence identification for enhanced cloud security](https://aws.amazon.com/blogs/aws/introducing-amazon-guardduty-extended-threat-detection-aiml-attack-sequence-identification-for-enhanced-cloud-security/)
-- [Container Insights with enhanced observability now available in Amazon ECS](https://aws.amazon.com/blogs/aws/container-insights-with-enhanced-observability-now-available-in-amazon-ecs/)
-- [AWS Clean Rooms now supports multiple clouds and data sources](https://aws.amazon.com/blogs/aws/aws-clean-rooms-now-supports-multiple-clouds-and-data-sources/)
 <!-- BLOG-POST-LIST:END -->  
 
 
