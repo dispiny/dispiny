@@ -89,11 +89,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Amazon Nova: Frontier intelligence and industry leading price performance](https://aws.amazon.com/blogs/aws/introducing-amazon-nova-frontier-intelligence-and-industry-leading-price-performance/)
+- [Introducing multi-agent collaboration capability for Amazon Bedrock &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/introducing-multi-agent-collaboration-capability-for-amazon-bedrock/)
+- [Prevent factual errors from LLM hallucinations with mathematically sound Automated Reasoning checks &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/prevent-factual-errors-from-llm-hallucinations-with-mathematically-sound-automated-reasoning-checks-preview/)
+- [Build faster, more cost-efficient, highly accurate models with Amazon Bedrock Model Distillation &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/build-faster-more-cost-efficient-highly-accurate-models-with-amazon-bedrock-model-distillation-preview/)
 - [Introducing queryable object metadata for Amazon S3 buckets &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/introducing-queryable-object-metadata-for-amazon-s3-buckets-preview/)
-- [New Amazon S3 Tables: Storage optimized for analytics workloads](https://aws.amazon.com/blogs/aws/new-amazon-s3-tables-storage-optimized-for-analytics-workloads/)
-- [Amazon EC2 Trn2 Instances and Trn2 UltraServers for AI/ML training and inference are now available](https://aws.amazon.com/blogs/aws/amazon-ec2-trn2-instances-and-trn2-ultraservers-for-aiml-training-and-inference-is-now-available/)
-- [New Amazon EC2 P5en instances with NVIDIA H200 Tensor Core GPUs and EFAv3 networking](https://aws.amazon.com/blogs/aws/new-amazon-ec2-p5en-instances-with-nvidia-h200-tensor-core-gpus-and-efav3-networking/)
-- [Top announcements of AWS re:Invent 2024](https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2024/)
 <!-- BLOG-POST-LIST:END -->  
 
 
