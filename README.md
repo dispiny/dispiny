@@ -89,11 +89,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
-- [Meet your training timelines and budgets with new Amazon SageMaker HyperPod flexible training plans](https://aws.amazon.com/blogs/aws/meet-your-training-timelines-and-budgets-with-new-amazon-sagemaker-hyperpod-flexible-training-plans/)
-- [Maximize accelerator utilization for model development with new Amazon SageMaker HyperPod task governance](https://aws.amazon.com/blogs/aws/maximize-accelerator-utilization-for-model-development-with-new-amazon-sagemaker-hyperpod-task-governance/)
-- [Amazon SageMaker Lakehouse integrated access controls now available in Amazon Athena federated queries](https://aws.amazon.com/blogs/aws/amazon-sagemaker-lakehouse-integrated-access-controls-now-available-in-amazon-athena-federated-queries/)
-- [Amazon SageMaker Lakehouse and Amazon Redshift supports zero-ETL integrations from applications](https://aws.amazon.com/blogs/aws/introducing-amazon-sagemaker-lakehouse-support-for-zero-etl-integrations-from-applications/)
-- [Simplify analytics and AI/ML with new Amazon SageMaker Lakehouse](https://aws.amazon.com/blogs/aws/simplify-analytics-and-aiml-with-new-amazon-sagemaker-lakehouse/)
+- [Solve complex problems with new scenario analysis capability in Amazon Q in QuickSight](https://aws.amazon.com/blogs/aws/solve-complex-problems-with-new-scenario-analysis-capability-in-amazon-q-in-quicksight/)
+- [Use Amazon Q Developer to build ML models in Amazon SageMaker Canvas](https://aws.amazon.com/blogs/aws/use-amazon-q-developer-to-build-ml-models-in-amazon-sagemaker-canvas/)
+- [Amazon Bedrock Guardrails now supports multimodal toxicity detection with image support &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/amazon-bedrock-guardrails-now-supports-multimodal-toxicity-detection-with-image-support/)
+- [New Amazon Bedrock capabilities enhance data processing and retrieval](https://aws.amazon.com/blogs/aws/new-amazon-bedrock-capabilities-enhance-data-processing-and-retrieval/)
+- [Reduce costs and latency with Amazon Bedrock Intelligent Prompt Routing and prompt caching &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/reduce-costs-and-latency-with-amazon-bedrock-intelligent-prompt-routing-and-prompt-caching-preview/)
 <!-- BLOG-POST-LIST:END -->  
 
 
