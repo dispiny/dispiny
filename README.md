@@ -89,11 +89,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Accelerate foundation model training and fine-tuning with new Amazon SageMaker HyperPod recipes](https://aws.amazon.com/blogs/aws/accelerate-foundation-model-training-and-fine-tuning-with-new-amazon-sagemaker-hyperpod-recipes/)
+- [AWS Education Equity Initiative: Applying generative AI to educate the next wave of innovators](https://aws.amazon.com/blogs/aws/aws-education-equity-initiative-applying-generative-ai-to-educate-the-next-wave-of-innovators/)
 - [Solve complex problems with new scenario analysis capability in Amazon Q in QuickSight](https://aws.amazon.com/blogs/aws/solve-complex-problems-with-new-scenario-analysis-capability-in-amazon-q-in-quicksight/)
 - [Use Amazon Q Developer to build ML models in Amazon SageMaker Canvas](https://aws.amazon.com/blogs/aws/use-amazon-q-developer-to-build-ml-models-in-amazon-sagemaker-canvas/)
 - [Amazon Bedrock Guardrails now supports multimodal toxicity detection with image support &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/amazon-bedrock-guardrails-now-supports-multimodal-toxicity-detection-with-image-support/)
-- [New Amazon Bedrock capabilities enhance data processing and retrieval](https://aws.amazon.com/blogs/aws/new-amazon-bedrock-capabilities-enhance-data-processing-and-retrieval/)
-- [Reduce costs and latency with Amazon Bedrock Intelligent Prompt Routing and prompt caching &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/reduce-costs-and-latency-with-amazon-bedrock-intelligent-prompt-routing-and-prompt-caching-preview/)
 <!-- BLOG-POST-LIST:END -->  
 
 
