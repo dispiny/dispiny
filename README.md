@@ -89,11 +89,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Meet your training timelines and budgets with new Amazon SageMaker HyperPod flexible training plans](https://aws.amazon.com/blogs/aws/meet-your-training-timelines-and-budgets-with-new-amazon-sagemaker-hyperpod-flexible-training-plans/)
+- [Maximize accelerator utilization for model development with new Amazon SageMaker HyperPod task governance](https://aws.amazon.com/blogs/aws/maximize-accelerator-utilization-for-model-development-with-new-amazon-sagemaker-hyperpod-task-governance/)
 - [Amazon SageMaker Lakehouse integrated access controls now available in Amazon Athena federated queries](https://aws.amazon.com/blogs/aws/amazon-sagemaker-lakehouse-integrated-access-controls-now-available-in-amazon-athena-federated-queries/)
 - [Amazon SageMaker Lakehouse and Amazon Redshift supports zero-ETL integrations from applications](https://aws.amazon.com/blogs/aws/introducing-amazon-sagemaker-lakehouse-support-for-zero-etl-integrations-from-applications/)
 - [Simplify analytics and AI/ML with new Amazon SageMaker Lakehouse](https://aws.amazon.com/blogs/aws/simplify-analytics-and-aiml-with-new-amazon-sagemaker-lakehouse/)
-- [New Amazon DynamoDB zero-ETL integration with Amazon SageMaker Lakehouse](https://aws.amazon.com/blogs/aws/new-amazon-dynamodb-zero-etl-integration-with-amazon-sagemaker-lakehouse/)
-- [Discover, govern, and collaborate on data and AI securely with Amazon SageMaker Data and AI Governance](https://aws.amazon.com/blogs/aws/discover-govern-and-collaborate-on-data-and-ai-securely-with-amazon-sagemaker-data-and-ai-governance/)
 <!-- BLOG-POST-LIST:END -->  
 
 
