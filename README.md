@@ -89,11 +89,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Now Available – Second-Generation FPGA-Powered Amazon EC2 instances &lpar;F2&rpar;](https://aws.amazon.com/blogs/aws/now-available-second-generation-fpga-powered-amazon-ec2-instances-f2/)
 - [Introducing Buy with AWS: an accelerated procurement experience on AWS Partner sites, powered by AWS Marketplace](https://aws.amazon.com/blogs/aws/introducing-buy-with-aws-an-accelerated-procurement-experience-on-aws-partner-sites-powered-by-aws-marketplace/)
 - [Accelerate foundation model training and fine-tuning with new Amazon SageMaker HyperPod recipes](https://aws.amazon.com/blogs/aws/accelerate-foundation-model-training-and-fine-tuning-with-new-amazon-sagemaker-hyperpod-recipes/)
 - [AWS Education Equity Initiative: Applying generative AI to educate the next wave of innovators](https://aws.amazon.com/blogs/aws/aws-education-equity-initiative-applying-generative-ai-to-educate-the-next-wave-of-innovators/)
 - [Solve complex problems with new scenario analysis capability in Amazon Q in QuickSight](https://aws.amazon.com/blogs/aws/solve-complex-problems-with-new-scenario-analysis-capability-in-amazon-q-in-quicksight/)
-- [Use Amazon Q Developer to build ML models in Amazon SageMaker Canvas](https://aws.amazon.com/blogs/aws/use-amazon-q-developer-to-build-ml-models-in-amazon-sagemaker-canvas/)
 <!-- BLOG-POST-LIST:END -->  
 
 
