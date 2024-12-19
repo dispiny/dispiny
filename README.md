@@ -89,11 +89,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Stable Diffusion 3.5 Large is now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/stable-diffusion-3-5-large-is-now-available-in-amazon-bedrock/)
 - [New Amazon EC2 High Memory U7inh instance on HPE Server for large in-memory databases](https://aws.amazon.com/blogs/aws/new-amazon-ec2-high-memory-u7inh-instance-on-hpe-server-for-large-in-memory-databases/)
 - [And that’s a wrap!](https://aws.amazon.com/blogs/aws/and-thats-a-wrap/)
 - [AWS Weekly Roundup: Amazon EC2 F2 instances, Amazon Bedrock Guardrails price reduction, Amazon SES update, and more &lpar;December 16, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-f2-instances-amazon-bedrock-guardrails-price-reduction-amazon-ses-update-and-more-december-16-2024/)
 - [Now Available – Second-Generation FPGA-Powered Amazon EC2 instances &lpar;F2&rpar;](https://aws.amazon.com/blogs/aws/now-available-second-generation-fpga-powered-amazon-ec2-instances-f2/)
-- [Introducing Buy with AWS: an accelerated procurement experience on AWS Partner sites, powered by AWS Marketplace](https://aws.amazon.com/blogs/aws/introducing-buy-with-aws-an-accelerated-procurement-experience-on-aws-partner-sites-powered-by-aws-marketplace/)
 <!-- BLOG-POST-LIST:END -->  
 
 
