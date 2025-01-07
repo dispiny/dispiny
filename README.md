@@ -1,6 +1,13 @@
 <div align="center">
 <!-- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /> -->
-<img src="https://cdna.artstation.com/p/assets/images/images/012/908/058/original/lofe-earth-cat.gif?1537133051" align="center" style="width: 70%"/>
+<!-- <img src="https://cdna.artstation.com/p/assets/images/images/012/908/058/original/lofe-earth-cat.gif?1537133051" align="center" style="width: 70%"/> -->
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/dispiny"
+  width="600"
+  height="300"
+/>
+</a>
 </div>  
 
 ### **<div align="center">👋 Hi there! My dream is to become a Special Engineer**  
