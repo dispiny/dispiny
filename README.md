@@ -4,8 +4,8 @@
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/dispiny"
-  width="600"
-  height="300"
+  width="800"
+  height="400"
 />
 </a>
 </div>  
