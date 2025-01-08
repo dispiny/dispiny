@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Announcing the new AWS Asia Pacific &lpar;Thailand&rpar; Region](https://aws.amazon.com/blogs/aws/announcing-the-new-aws-asia-pacific-thailand-region/)
 - [Happy New Year! AWS Weekly Roundup: 2025 Tech Predictions, Llama 3.3 70B, Stable Diffusion 3.5 Large, custom billing view, and more &lpar;January 6, 2025&rpar;](https://aws.amazon.com/blogs/aws/happy-new-year-aws-weekly-roundup-2025-tech-predictions-llama-3-3-70b-stable-diffusion-3-5-large-custom-billing-view-and-more-january-6-2025/)
 - [Stable Diffusion 3.5 Large is now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/stable-diffusion-3-5-large-is-now-available-in-amazon-bedrock/)
 - [New Amazon EC2 High Memory U7inh instance on HPE Server for large in-memory databases](https://aws.amazon.com/blogs/aws/new-amazon-ec2-high-memory-u7inh-instance-on-hpe-server-for-large-in-memory-databases/)
 - [And that’s a wrap!](https://aws.amazon.com/blogs/aws/and-thats-a-wrap/)
-- [AWS Weekly Roundup: Amazon EC2 F2 instances, Amazon Bedrock Guardrails price reduction, Amazon SES update, and more &lpar;December 16, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-f2-instances-amazon-bedrock-guardrails-price-reduction-amazon-ses-update-and-more-december-16-2024/)
 <!-- BLOG-POST-LIST:END -->  
 
 
