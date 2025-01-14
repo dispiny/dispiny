@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Now open — AWS Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/blogs/aws/now-open-aws-mexico-central-region/)
 - [AWS Weekly Roundup: New Asia Pacific Region, DynamoDB updates, Amazon Q developer, and more &lpar;January 13, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-new-asia-pacific-region-dynamodb-updates-amazon-q-developer-and-more-january-13-2025/)
 - [Announcing the new AWS Asia Pacific &lpar;Thailand&rpar; Region](https://aws.amazon.com/blogs/aws/announcing-the-new-aws-asia-pacific-thailand-region/)
 - [Happy New Year! AWS Weekly Roundup: 2025 Tech Predictions, Llama 3.3 70B, Stable Diffusion 3.5 Large, custom billing view, and more &lpar;January 6, 2025&rpar;](https://aws.amazon.com/blogs/aws/happy-new-year-aws-weekly-roundup-2025-tech-predictions-llama-3-3-70b-stable-diffusion-3-5-large-custom-billing-view-and-more-january-6-2025/)
 - [Stable Diffusion 3.5 Large is now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/stable-diffusion-3-5-large-is-now-available-in-amazon-bedrock/)
-- [New Amazon EC2 High Memory U7inh instance on HPE Server for large in-memory databases](https://aws.amazon.com/blogs/aws/new-amazon-ec2-high-memory-u7inh-instance-on-hpe-server-for-large-in-memory-databases/)
 <!-- BLOG-POST-LIST:END -->  
 
 
