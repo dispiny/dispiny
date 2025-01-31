@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek-R1 models now available on AWS](https://aws.amazon.com/blogs/aws/deepseek-r1-models-now-available-on-aws/)
 - [AWS Weekly roundup: EventBridge, SNS FIFO, Amazon Corretto, Amazon Connect, Amazon Bedrock, and more](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-eventbridge-sns-fifo-amazon-corretto-amazon-connect-amazon-bedrock-and-more/)
 - [Luma AI’s Ray2 video model is now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/luma-ai-ray-2-video-model-is-now-available-in-amazon-bedrock/)
 - [AWS Weekly Roundup: New AWS Mexico &lpar;Central&rpar; Region, simultaneous sign-in for multiple AWS accounts, and more &lpar;January 20, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-new-aws-mexico-central-region-simultaneous-sign-in-for-multiple-aws-accounts-and-more-january-20-2025/)
 - [Now open — AWS Mexico &lpar;Central&rpar; Region](https://aws.amazon.com/blogs/aws/now-open-aws-mexico-central-region/)
-- [AWS Weekly Roundup: New Asia Pacific Region, DynamoDB updates, Amazon Q developer, and more &lpar;January 13, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-new-asia-pacific-region-dynamodb-updates-amazon-q-developer-and-more-january-13-2025/)
 <!-- BLOG-POST-LIST:END -->  
 
 
