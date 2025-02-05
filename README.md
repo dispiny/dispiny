@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS CodeBuild for macOS adds support for Fastlane](https://aws.amazon.com/blogs/aws/codebuild-for-macos-adds-support-for-fastlane/)
 - [AWS Weekly Roundup: DeepSeek-R1, S3 Metadata, Elastic Beanstalk updates, and more &lpar;February 3, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-deepseek-r1-s3-metadata-elastic-beanstalk-updates-and-more-february-3-2024/)
 - [DeepSeek-R1 models now available on AWS](https://aws.amazon.com/blogs/aws/deepseek-r1-models-now-available-on-aws/)
 - [AWS Weekly roundup: EventBridge, SNS FIFO, Amazon Corretto, Amazon Connect, Amazon Bedrock, and more](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-eventbridge-sns-fifo-amazon-corretto-amazon-connect-amazon-bedrock-and-more/)
 - [Luma AI’s Ray2 video model is now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/luma-ai-ray-2-video-model-is-now-available-in-amazon-bedrock/)
-- [AWS Weekly Roundup: New AWS Mexico &lpar;Central&rpar; Region, simultaneous sign-in for multiple AWS accounts, and more &lpar;January 20, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-new-aws-mexico-central-region-simultaneous-sign-in-for-multiple-aws-accounts-and-more-january-20-2025/)
 <!-- BLOG-POST-LIST:END -->  
 
 
