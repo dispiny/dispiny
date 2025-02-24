@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: Cloud Club Captain Applications, Formula 1®, Amazon Nova Prompt Engineering, and more &lpar;Feb 24, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-cloud-club-captain-applications-formula-1-amazon-nova-prompt-engineering-and-more-feb-24-2025/)
 - [AWS Weekly Roundup: AWS Developer Day, Trust Center, Well-Architected for Enterprises, and more &lpar;Feb 17, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-developer-day-trust-center-well-architected-for-enterprises-and-more-feb-17-2025/)
 - [AWS CloudTrail network activity events for VPC endpoints now generally available](https://aws.amazon.com/blogs/aws/aws-cloudtrail-network-activity-events-for-vpc-endpoints-now-generally-available/)
 - [AWS Weekly Roundup: AWS Step Functions, AWS CloudFormation, Amazon Q Developer, and more &lpar;February 10, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-step-functions-aws-cloudformation-amazon-q-developer-and-more-february-10-2024/)
 - [AWS CodeBuild for macOS adds support for Fastlane](https://aws.amazon.com/blogs/aws/codebuild-for-macos-adds-support-for-fastlane/)
-- [AWS Weekly Roundup: DeepSeek-R1, S3 Metadata, Elastic Beanstalk updates, and more &lpar;February 3, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-deepseek-r1-s3-metadata-elastic-beanstalk-updates-and-more-february-3-2024/)
 <!-- BLOG-POST-LIST:END -->  
 
 
