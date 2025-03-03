@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Get insights from multimodal content with Amazon Bedrock Data Automation, now generally available](https://aws.amazon.com/blogs/aws/get-insights-from-multimodal-content-with-amazon-bedrock-data-automation-now-generally-available/)
+- [AWS Weekly Roundup: Anthropic Claude 3.7, JAWS Days, cross-account access, and more &lpar;March 3, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-anthropic-claude-3-7-jaws-days-cross-account-access-and-more-march-3-2025/)
 - [Anthropic’s Claude 3.7 Sonnet hybrid reasoning model is now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/anthropics-claude-3-7-sonnet-the-first-hybrid-reasoning-model-is-now-available-in-amazon-bedrock/)
 - [AWS Weekly Roundup: Cloud Club Captain Applications, Formula 1®, Amazon Nova Prompt Engineering, and more &lpar;Feb 24, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-cloud-club-captain-applications-formula-1-amazon-nova-prompt-engineering-and-more-feb-24-2025/)
 - [AWS Weekly Roundup: AWS Developer Day, Trust Center, Well-Architected for Enterprises, and more &lpar;Feb 17, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-developer-day-trust-center-well-architected-for-enterprises-and-more-feb-17-2025/)
-- [AWS CloudTrail network activity events for VPC endpoints now generally available](https://aws.amazon.com/blogs/aws/aws-cloudtrail-network-activity-events-for-vpc-endpoints-now-generally-available/)
-- [AWS Weekly Roundup: AWS Step Functions, AWS CloudFormation, Amazon Q Developer, and more &lpar;February 10, 2024&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-step-functions-aws-cloudformation-amazon-q-developer-and-more-february-10-2024/)
 <!-- BLOG-POST-LIST:END -->  
 
 
