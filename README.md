@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek-R1 now available as a fully managed serverless model in Amazon Bedrock](https://aws.amazon.com/blogs/aws/deepseek-r1-now-available-as-a-fully-managed-serverless-model-in-amazon-bedrock/)
 - [AWS Weekly Roundup: Amazon Q CLI agent, AWS Step Functions, AWS Lambda, and more &lpar;March 10, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-q-cli-agent-aws-step-functions-aws-lambda-and-more-march-10-2025/)
 - [Scale and deliver game streaming experiences with Amazon GameLift Streams](https://aws.amazon.com/blogs/aws/scale-and-deliver-game-streaming-experiences-with-amazon-gamelift-streams/)
 - [New year, new Heroes – March 2025](https://aws.amazon.com/blogs/aws/new-year-new-heroes-march-2025/)
 - [Get insights from multimodal content with Amazon Bedrock Data Automation, now generally available](https://aws.amazon.com/blogs/aws/get-insights-from-multimodal-content-with-amazon-bedrock-data-automation-now-generally-available/)
-- [AWS Weekly Roundup: Anthropic Claude 3.7, JAWS Days, cross-account access, and more &lpar;March 3, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-anthropic-claude-3-7-jaws-days-cross-account-access-and-more-march-3-2025/)
 <!-- BLOG-POST-LIST:END -->  
 
 
