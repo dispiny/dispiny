@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Amazon S3 Tables integration with Amazon SageMaker Lakehouse is now generally available](https://aws.amazon.com/blogs/aws/amazon-s3-tables-integration-with-amazon-sagemaker-lakehouse-is-now-generally-available/)
 - [DeepSeek-R1 now available as a fully managed serverless model in Amazon Bedrock](https://aws.amazon.com/blogs/aws/deepseek-r1-now-available-as-a-fully-managed-serverless-model-in-amazon-bedrock/)
 - [AWS Weekly Roundup: Amazon Q CLI agent, AWS Step Functions, AWS Lambda, and more &lpar;March 10, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-q-cli-agent-aws-step-functions-aws-lambda-and-more-march-10-2025/)
 - [Scale and deliver game streaming experiences with Amazon GameLift Streams](https://aws.amazon.com/blogs/aws/scale-and-deliver-game-streaming-experiences-with-amazon-gamelift-streams/)
 - [New year, new Heroes – March 2025](https://aws.amazon.com/blogs/aws/new-year-new-heroes-march-2025/)
-- [Get insights from multimodal content with Amazon Bedrock Data Automation, now generally available](https://aws.amazon.com/blogs/aws/get-insights-from-multimodal-content-with-amazon-bedrock-data-automation-now-generally-available/)
 <!-- BLOG-POST-LIST:END -->  
 
 
