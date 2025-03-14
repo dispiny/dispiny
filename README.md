@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Pi Day 2025: Data foundation for analytics and AI](https://aws.amazon.com/blogs/aws/aws-pi-day-data-foundation-for-analytics-and-ai/)
 - [Collaborate and build faster with Amazon SageMaker Unified Studio, now generally available](https://aws.amazon.com/blogs/aws/collaborate-and-build-faster-with-amazon-sagemaker-unified-studio-now-generally-available/)
 - [Amazon S3 Tables integration with Amazon SageMaker Lakehouse is now generally available](https://aws.amazon.com/blogs/aws/amazon-s3-tables-integration-with-amazon-sagemaker-lakehouse-is-now-generally-available/)
 - [DeepSeek-R1 now available as a fully managed serverless model in Amazon Bedrock](https://aws.amazon.com/blogs/aws/deepseek-r1-now-available-as-a-fully-managed-serverless-model-in-amazon-bedrock/)
 - [AWS Weekly Roundup: Amazon Q CLI agent, AWS Step Functions, AWS Lambda, and more &lpar;March 10, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-q-cli-agent-aws-step-functions-aws-lambda-and-more-march-10-2025/)
-- [Scale and deliver game streaming experiences with Amazon GameLift Streams](https://aws.amazon.com/blogs/aws/scale-and-deliver-game-streaming-experiences-with-amazon-gamelift-streams/)
 <!-- BLOG-POST-LIST:END -->  
 
 
