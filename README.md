@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Detailed geographic information for all AWS Regions and Availability Zones is now available](https://aws.amazon.com/blogs/aws/now-available-geography-information-for-all-aws-regions-and-availability-zones/)
 - [AWS Weekly Roundup: Omdia recognition, Amazon Bedrock RAG evaluation, International Women’s Day events, and more &lpar;March 24, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-omdia-recognition-amazon-bedrock-rag-evaluation-international-womens-day-events-and-more-march-24-2025/)
 - [AWS Weekly Roundup: AWS Pi Day, Amazon Bedrock multi-agent collaboration, Amazon SageMaker Unified Studio, Amazon S3 Tables, and more](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-pi-day-amazon-bedrock-multi-agent-collaboration-amazon-sagemaker-unified-studio-amazon-s3-tables-and-more/)
 - [AWS Pi Day 2025: Data foundation for analytics and AI](https://aws.amazon.com/blogs/aws/aws-pi-day-data-foundation-for-analytics-and-ai/)
 - [Collaborate and build faster with Amazon SageMaker Unified Studio, now generally available](https://aws.amazon.com/blogs/aws/collaborate-and-build-faster-with-amazon-sagemaker-unified-studio-now-generally-available/)
-- [Amazon S3 Tables integration with Amazon SageMaker Lakehouse is now generally available](https://aws.amazon.com/blogs/aws/amazon-s3-tables-integration-with-amazon-sagemaker-lakehouse-is-now-generally-available/)
 <!-- BLOG-POST-LIST:END -->  
 
 
