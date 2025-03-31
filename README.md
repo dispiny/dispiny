@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Amazon API Gateway now supports dual-stack &lpar;IPv4 and IPv6&rpar; endpoints](https://aws.amazon.com/blogs/aws/amazon-api-gateway-now-supports-dual-stack-ipv4-and-ipv6-endpoints/)
 - [AWS Weekly Roundup: Amazon Bedrock, Amazon QuickSight, AWS Amplify, and more &lpar;March 31, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-amazon-quicksight-aws-amplify-and-more-march-31-2025/)
 - [Accelerating CI with AWS CodeBuild: Parallel test execution now available](https://aws.amazon.com/blogs/aws/accelerating-ci-with-aws-codebuild-parallel-test-execution-now-available/)
 - [Firewall support for AWS Amplify hosted sites](https://aws.amazon.com/blogs/aws/firewall-support-for-aws-amplify-hosted-sites/)
 - [Detailed geographic information for all AWS Regions and Availability Zones is now available](https://aws.amazon.com/blogs/aws/now-available-geography-information-for-all-aws-regions-and-availability-zones/)
-- [AWS Weekly Roundup: Omdia recognition, Amazon Bedrock RAG evaluation, International Women’s Day events, and more &lpar;March 24, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-omdia-recognition-amazon-bedrock-rag-evaluation-international-womens-day-events-and-more-march-24-2025/)
 <!-- BLOG-POST-LIST:END -->  
 
 
