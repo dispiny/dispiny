@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Review: Amazon EKS, Amazon OpenSearch, Amazon API Gateway, and more &lpar;April 7, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-review-amazon-eks-amazon-opensearch-amazon-api-gateway-and-more-april-7-2025/)
 - [Meet the AWS News Blog team!](https://aws.amazon.com/blogs/aws/meet-the-aws-news-blog-team/)
 - [Accelerate operational analytics with Amazon Q Developer in Amazon OpenSearch Service](https://aws.amazon.com/blogs/aws/accelerate-operational-analytics-with-amazon-q-developer-in-amazon-opensearch-service/)
 - [Amazon API Gateway now supports dual-stack &lpar;IPv4 and IPv6&rpar; endpoints](https://aws.amazon.com/blogs/aws/amazon-api-gateway-now-supports-dual-stack-ipv4-and-ipv6-endpoints/)
 - [AWS Weekly Roundup: Amazon Bedrock, Amazon QuickSight, AWS Amplify, and more &lpar;March 31, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-amazon-quicksight-aws-amplify-and-more-march-31-2025/)
-- [Accelerating CI with AWS CodeBuild: Parallel test execution now available](https://aws.amazon.com/blogs/aws/accelerating-ci-with-aws-codebuild-parallel-test-execution-now-available/)
 <!-- BLOG-POST-LIST:END -->  
 
 
