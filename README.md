@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Bedrock Guardrails enhances generative AI application safety with new capabilities](https://aws.amazon.com/blogs/aws/amazon-bedrock-guardrails-enhances-generative-ai-application-safety-with-new-capabilities/)
 - [Amazon Nova Reel 1.1: Featuring up to 2-minutes multi-shot videos](https://aws.amazon.com/blogs/aws/amazon-nova-reel-1-1-featuring-up-to-2-minutes-multi-shot-videos/)
 - [AWS Weekly Review: Amazon EKS, Amazon OpenSearch, Amazon API Gateway, and more &lpar;April 7, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-review-amazon-eks-amazon-opensearch-amazon-api-gateway-and-more-april-7-2025/)
 - [Meet the AWS News Blog team!](https://aws.amazon.com/blogs/aws/meet-the-aws-news-blog-team/)
 - [Accelerate operational analytics with Amazon Q Developer in Amazon OpenSearch Service](https://aws.amazon.com/blogs/aws/accelerate-operational-analytics-with-amazon-q-developer-in-amazon-opensearch-service/)
-- [Amazon API Gateway now supports dual-stack &lpar;IPv4 and IPv6&rpar; endpoints](https://aws.amazon.com/blogs/aws/amazon-api-gateway-now-supports-dual-stack-ipv4-and-ipv6-endpoints/)
 <!-- BLOG-POST-LIST:END -->  
 
 
