@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New Amazon EC2 Graviton4-based instances with NVMe SSD storage](https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/)
 - [AWS Weekly Roundup: Upcoming AWS Summits, Amazon Q Developer, Amazon CloudFront updates, and more &lpar;April 21, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-upcoming-aws-summits-amazon-q-developer-amazon-cloudfront-updates-and-more-april-21-2025/)
 - [AWS Weekly Roundup: Amazon S3 Express One Zone price cuts, Pixtral Large on Amazon Bedrock, Amazon Nova Sonic, and more &lpar;April 14, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-review-amazon-s3-express-one-zone-price-cuts-pixtral-large-on-amazon-bedrock-amazon-nova-sonic-and-more-april-14-2025/)
 - [Announcing up to 85% price reductions for Amazon S3 Express One Zone](https://aws.amazon.com/blogs/aws/up-to-85-price-reductions-for-amazon-s3-express-one-zone/)
 - [AWS announces Pixtral Large 25.02 model in Amazon Bedrock serverless](https://aws.amazon.com/blogs/aws/aws-announces-pixtral-large-25-02-model-in-amazon-bedrock-serverless/)
-- [Introducing Amazon Nova Sonic: Human-like voice conversations for generative AI applications](https://aws.amazon.com/blogs/aws/introducing-amazon-nova-sonic-human-like-voice-conversations-for-generative-ai-applications/)
 <!-- BLOG-POST-LIST:END -->  
 
 
