@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [In the works – New Availability Zone in Maryland for US East &lpar;Northern Virginia&rpar; Region](https://aws.amazon.com/blogs/aws/in-the-works-new-availability-zone-in-maryland-for-us-east-n-virginia-region/)
 - [Enhance real-time applications with AWS AppSync Events data source integrations](https://aws.amazon.com/blogs/aws/enhance-real-time-applications-with-aws-appsync-events-data-source-integrations/)
 - [New Amazon EC2 Graviton4-based instances with NVMe SSD storage](https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/)
 - [AWS Weekly Roundup: Upcoming AWS Summits, Amazon Q Developer, Amazon CloudFront updates, and more &lpar;April 21, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-upcoming-aws-summits-amazon-q-developer-amazon-cloudfront-updates-and-more-april-21-2025/)
 - [AWS Weekly Roundup: Amazon S3 Express One Zone price cuts, Pixtral Large on Amazon Bedrock, Amazon Nova Sonic, and more &lpar;April 14, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-review-amazon-s3-express-one-zone-price-cuts-pixtral-large-on-amazon-bedrock-amazon-nova-sonic-and-more-april-14-2025/)
-- [Announcing up to 85% price reductions for Amazon S3 Express One Zone](https://aws.amazon.com/blogs/aws/up-to-85-price-reductions-for-amazon-s3-express-one-zone/)
 <!-- BLOG-POST-LIST:END -->  
 
 
