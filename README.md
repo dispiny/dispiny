@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Reduce your operational overhead today with Amazon CloudFront SaaS Manager](https://aws.amazon.com/blogs/aws/reduce-your-operational-overhead-today-with-amazon-cloudfront-saas-manager/)
 - [Writer Palmyra X5 and X4 foundation models are now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/writer-palmyra-x5-and-x4-foundation-models-are-now-available-in-amazon-bedrock/)
 - [AWS Weekly Roundup: Amazon Q Developer, AWS Account Management updates, and more &lpar;April 28, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-q-developer-aws-account-management-updates-and-more-april-28-2025/)
 - [In the works – New Availability Zone in Maryland for US East &lpar;Northern Virginia&rpar; Region](https://aws.amazon.com/blogs/aws/in-the-works-new-availability-zone-in-maryland-for-us-east-n-virginia-region/)
 - [Enhance real-time applications with AWS AppSync Events data source integrations](https://aws.amazon.com/blogs/aws/enhance-real-time-applications-with-aws-appsync-events-data-source-integrations/)
-- [New Amazon EC2 Graviton4-based instances with NVMe SSD storage](https://aws.amazon.com/blogs/aws/new-amazon-ec2-graviton4-based-instances-with-nvme-ssd-storage/)
 <!-- BLOG-POST-LIST:END -->  
 
 
