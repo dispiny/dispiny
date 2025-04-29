@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Announcing second-generation AWS Outposts racks with breakthrough performance and scalability on-premises](https://aws.amazon.com/blogs/aws/announcing-second-generation-aws-outposts-racks-with-breakthrough-performance-and-scalability-on-premises/)
 - [Llama 4 models from Meta now available in Amazon Bedrock serverless](https://aws.amazon.com/blogs/aws/llama-4-models-from-meta-now-available-in-amazon-bedrock-serverless/)
 - [Reduce your operational overhead today with Amazon CloudFront SaaS Manager](https://aws.amazon.com/blogs/aws/reduce-your-operational-overhead-today-with-amazon-cloudfront-saas-manager/)
 - [Writer Palmyra X5 and X4 foundation models are now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/writer-palmyra-x5-and-x4-foundation-models-are-now-available-in-amazon-bedrock/)
 - [AWS Weekly Roundup: Amazon Q Developer, AWS Account Management updates, and more &lpar;April 28, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-q-developer-aws-account-management-updates-and-more-april-28-2025/)
-- [In the works – New Availability Zone in Maryland for US East &lpar;Northern Virginia&rpar; Region](https://aws.amazon.com/blogs/aws/in-the-works-new-availability-zone-in-maryland-for-us-east-n-virginia-region/)
 <!-- BLOG-POST-LIST:END -->  
 
 
