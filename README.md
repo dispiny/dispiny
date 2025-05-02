@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Q Developer elevates the IDE experience with new agentic coding experience](https://aws.amazon.com/blogs/aws/amazon-q-developer-elevates-the-ide-experience-with-new-agentic-coding-experience/)
 - [Amazon Nova Premier: Our most capable model for complex tasks and teacher for model distillation](https://aws.amazon.com/blogs/aws/amazon-nova-premier-our-most-capable-model-for-complex-tasks-and-teacher-for-model-distillation/)
 - [Announcing second-generation AWS Outposts racks with breakthrough performance and scalability on-premises](https://aws.amazon.com/blogs/aws/announcing-second-generation-aws-outposts-racks-with-breakthrough-performance-and-scalability-on-premises/)
 - [Llama 4 models from Meta now available in Amazon Bedrock serverless](https://aws.amazon.com/blogs/aws/llama-4-models-from-meta-now-available-in-amazon-bedrock-serverless/)
 - [Reduce your operational overhead today with Amazon CloudFront SaaS Manager](https://aws.amazon.com/blogs/aws/reduce-your-operational-overhead-today-with-amazon-cloudfront-saas-manager/)
-- [Writer Palmyra X5 and X4 foundation models are now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/writer-palmyra-x5-and-x4-foundation-models-are-now-available-in-amazon-bedrock/)
 <!-- BLOG-POST-LIST:END -->  
 
 
