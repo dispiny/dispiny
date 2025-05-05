@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: Amazon Nova Premier, Amazon Q Developer, Amazon Q CLI, Amazon CloudFront, AWS Outposts, and more &lpar;May 5, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-nova-premier-amazon-q-developer-amazon-q-cli-amazon-cloudfront-aws-outposts-and-more-may-5-2025/)
+- [Amazon Q Developer in GitHub &lpar;in preview&rpar; accelerates code generation](https://aws.amazon.com/blogs/aws/amazon-q-developer-in-github-now-in-preview-with-code-generation-review-and-legacy-transformation-capabilities/)
 - [Amazon Q Developer elevates the IDE experience with new agentic coding experience](https://aws.amazon.com/blogs/aws/amazon-q-developer-elevates-the-ide-experience-with-new-agentic-coding-experience/)
 - [Amazon Nova Premier: Our most capable model for complex tasks and teacher for model distillation](https://aws.amazon.com/blogs/aws/amazon-nova-premier-our-most-capable-model-for-complex-tasks-and-teacher-for-model-distillation/)
 - [Announcing second-generation AWS Outposts racks with breakthrough performance and scalability on-premises](https://aws.amazon.com/blogs/aws/announcing-second-generation-aws-outposts-racks-with-breakthrough-performance-and-scalability-on-premises/)
-- [Llama 4 models from Meta now available in Amazon Bedrock serverless](https://aws.amazon.com/blogs/aws/llama-4-models-from-meta-now-available-in-amazon-bedrock-serverless/)
-- [Reduce your operational overhead today with Amazon CloudFront SaaS Manager](https://aws.amazon.com/blogs/aws/reduce-your-operational-overhead-today-with-amazon-cloudfront-saas-manager/)
 <!-- BLOG-POST-LIST:END -->  
 
 
