@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [In the works – AWS South America &lpar;Chile&rpar; Region](https://aws.amazon.com/blogs/aws/coming-soon-aws-south-america-chile-region/)
 - [Accelerate the transfer of data from an Amazon EBS snapshot to a new EBS volume](https://aws.amazon.com/blogs/aws/accelerate-the-transfer-of-data-from-an-amazon-ebs-snapshot-to-a-new-ebs-volume/)
 - [AWS Weekly Roundup: Amazon Nova Premier, Amazon Q Developer, Amazon Q CLI, Amazon CloudFront, AWS Outposts, and more &lpar;May 5, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-nova-premier-amazon-q-developer-amazon-q-cli-amazon-cloudfront-aws-outposts-and-more-may-5-2025/)
 - [Amazon Q Developer in GitHub &lpar;in preview&rpar; accelerates code generation](https://aws.amazon.com/blogs/aws/amazon-q-developer-in-github-now-in-preview-with-code-generation-review-and-legacy-transformation-capabilities/)
 - [Amazon Q Developer elevates the IDE experience with new agentic coding experience](https://aws.amazon.com/blogs/aws/amazon-q-developer-elevates-the-ide-experience-with-new-agentic-coding-experience/)
-- [Amazon Nova Premier: Our most capable model for complex tasks and teacher for model distillation](https://aws.amazon.com/blogs/aws/amazon-nova-premier-our-most-capable-model-for-complex-tasks-and-teacher-for-model-distillation/)
 <!-- BLOG-POST-LIST:END -->  
 
 
