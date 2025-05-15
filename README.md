@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Accelerate the modernization of Mainframe and VMware workloads with AWS Transform](https://aws.amazon.com/blogs/aws/accelerate-the-modernization-of-mainframe-and-vmware-workloads-with-aws-transform/)
+- [AWS Transform for .NET, the first agentic AI service for modernizing .NET applications at scale](https://aws.amazon.com/blogs/aws/aws-transform-for-net-the-first-agentic-ai-service-for-modernizing-net-applications-at-scale/)
 - [AWS Weekly Roundup: South America expansion, Q Developer in OpenSearch, and more &lpar;May 12, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-south-america-expansion-q-developer-in-opensearch-and-more-may-12-2025/)
 - [In the works – AWS South America &lpar;Chile&rpar; Region](https://aws.amazon.com/blogs/aws/coming-soon-aws-south-america-chile-region/)
 - [Accelerate the transfer of data from an Amazon EBS snapshot to a new EBS volume](https://aws.amazon.com/blogs/aws/accelerate-the-transfer-of-data-from-an-amazon-ebs-snapshot-to-a-new-ebs-volume/)
-- [AWS Weekly Roundup: Amazon Nova Premier, Amazon Q Developer, Amazon Q CLI, Amazon CloudFront, AWS Outposts, and more &lpar;May 5, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-nova-premier-amazon-q-developer-amazon-q-cli-amazon-cloudfront-aws-outposts-and-more-may-5-2025/)
-- [Amazon Q Developer in GitHub &lpar;in preview&rpar; accelerates code generation](https://aws.amazon.com/blogs/aws/amazon-q-developer-in-github-now-in-preview-with-code-generation-review-and-legacy-transformation-capabilities/)
 <!-- BLOG-POST-LIST:END -->  
 
 
