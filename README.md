@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Introducing the AWS Product Lifecycle page and AWS service availability updates](https://aws.amazon.com/blogs/aws/introducing-the-aws-product-lifecycle-page-and-aws-service-availability-updates/)
 - [Join AWS Cloud Infrastructure Day to learn cutting-edge innovations building global cloud infrastructure](https://aws.amazon.com/blogs/aws/join-aws-cloud-infrastructure-day-to-learn-cutting-edge-innovations-building-global-cloud-infrastructure/)
 - [Amazon Inspector enhances container security by mapping Amazon ECR images to running containers](https://aws.amazon.com/blogs/aws/amazon-inspector-enhances-container-security-by-mapping-amazon-ecr-images-to-running-containers/)
 - [AWS Weekly Roundup: Strands Agents, AWS Transform, Amazon Bedrock Guardrails, AWS CodeBuild, and more &lpar;May 19, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-strands-agents-aws-transform-amazon-bedrock-guardrails-aws-codebuild-and-more-may-19-2025/)
 - [New Amazon EC2 P6-B200 instances powered by NVIDIA Blackwell GPUs to accelerate AI innovations](https://aws.amazon.com/blogs/aws/new-amazon-ec2-p6-b200-instances-powered-by-nvidia-blackwell-gpus-to-accelerate-ai-innovations/)
-- [Accelerate CI/CD pipelines with the new AWS CodeBuild Docker Server capability](https://aws.amazon.com/blogs/aws/accelerate-ci-cd-pipelines-with-the-new-aws-codebuild-docker-server-capability/)
 <!-- BLOG-POST-LIST:END -->  
 
 
