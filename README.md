@@ -96,7 +96,7 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Aurora DSQL is now generally available](https://aws.amazon.com/blogs/aws/amazon-aurora-dsql-is-now-generally-available/)
+- [Amazon Aurora DSQL, the fastest serverless distributed SQL database is now generally available](https://aws.amazon.com/blogs/aws/amazon-aurora-dsql-is-now-generally-available/)
 - [AWS Weekly Roundup: Claude 4 in Amazon Bedrock, EKS Dashboard, community events, and more &lpar;May 26, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-4-in-amazon-bedrock-eks-dashboard-community-events-and-more-may-26-2025/)
 - [Introducing Claude 4 in Amazon Bedrock, the most powerful models for coding from Anthropic](https://aws.amazon.com/blogs/aws/claude-opus-4-anthropics-most-powerful-model-for-coding-is-now-in-amazon-bedrock/)
 - [Centralize visibility of Kubernetes clusters across AWS Regions and accounts with EKS Dashboard](https://aws.amazon.com/blogs/aws/centralize-visibility-of-kubernetes-clusters-across-aws-regions-and-accounts-with-eks-dashboard/)
