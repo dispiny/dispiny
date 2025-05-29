@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Enhance AI-assisted development with Amazon ECS, Amazon EKS and AWS Serverless MCP server](https://aws.amazon.com/blogs/aws/enhance-ai-assisted-development-with-amazon-ecs-amazon-eks-and-aws-serverless-mcp-server/)
 - [Amazon Aurora DSQL, the fastest serverless distributed SQL database is now generally available](https://aws.amazon.com/blogs/aws/amazon-aurora-dsql-is-now-generally-available/)
 - [AWS Weekly Roundup: Claude 4 in Amazon Bedrock, EKS Dashboard, community events, and more &lpar;May 26, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-4-in-amazon-bedrock-eks-dashboard-community-events-and-more-may-26-2025/)
 - [Introducing Claude 4 in Amazon Bedrock, the most powerful models for coding from Anthropic](https://aws.amazon.com/blogs/aws/claude-opus-4-anthropics-most-powerful-model-for-coding-is-now-in-amazon-bedrock/)
 - [Centralize visibility of Kubernetes clusters across AWS Regions and accounts with EKS Dashboard](https://aws.amazon.com/blogs/aws/centralize-visibility-of-kubernetes-clusters-across-aws-regions-and-accounts-with-eks-dashboard/)
-- [Configure System Integrity Protection &lpar;SIP&rpar; on Amazon EC2 Mac instances](https://aws.amazon.com/blogs/aws/configure-system-integrity-protection-sip-on-amazon-ec2-mac-instances/)
 <!-- BLOG-POST-LIST:END -->  
 
 
