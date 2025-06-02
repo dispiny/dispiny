@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: Amazon Aurora DSQL, MCP Servers, Amazon FSx, AI on EKS, and more &lpar;June 2, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-aurora-dsql-mcp-servers-amazon-fsx-ai-on-eks-and-more-june-2-2025/)
 - [Amazon FSx for Lustre launches new storage class with the lowest-cost and only fully elastic Lustre ﬁle storage](https://aws.amazon.com/blogs/aws/amazon-fsx-for-lustre-adds-new-storage-class-with-the-lowest-cost-and-only-fully-elastic-lustre-file-storage/)
 - [Enhance AI-assisted development with Amazon ECS, Amazon EKS and AWS Serverless MCP server](https://aws.amazon.com/blogs/aws/enhance-ai-assisted-development-with-amazon-ecs-amazon-eks-and-aws-serverless-mcp-server/)
 - [Amazon Aurora DSQL, the fastest serverless distributed SQL database is now generally available](https://aws.amazon.com/blogs/aws/amazon-aurora-dsql-is-now-generally-available/)
 - [AWS Weekly Roundup: Claude 4 in Amazon Bedrock, EKS Dashboard, community events, and more &lpar;May 26, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-4-in-amazon-bedrock-eks-dashboard-community-events-and-more-may-26-2025/)
-- [Introducing Claude 4 in Amazon Bedrock, the most powerful models for coding from Anthropic](https://aws.amazon.com/blogs/aws/claude-opus-4-anthropics-most-powerful-model-for-coding-is-now-in-amazon-bedrock/)
 <!-- BLOG-POST-LIST:END -->  
 
 
