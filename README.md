@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Announcing up to 45% price reduction for Amazon EC2 NVIDIA GPU-accelerated instances](https://aws.amazon.com/blogs/aws/announcing-up-to-45-price-reduction-for-amazon-ec2-nvidia-gpu-accelerated-instances/)
 - [Introducing our newest 2025 AWS Heroes cohort](https://aws.amazon.com/blogs/aws/introducing-our-newest-2025-aws-heroes-cohort/)
 - [AWS Weekly Roundup: Amazon Aurora DSQL, MCP Servers, Amazon FSx, AI on EKS, and more &lpar;June 2, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-aurora-dsql-mcp-servers-amazon-fsx-ai-on-eks-and-more-june-2-2025/)
 - [Amazon FSx for Lustre launches new storage class with the lowest-cost and only fully elastic Lustre ﬁle storage](https://aws.amazon.com/blogs/aws/amazon-fsx-for-lustre-adds-new-storage-class-with-the-lowest-cost-and-only-fully-elastic-lustre-file-storage/)
 - [Enhance AI-assisted development with Amazon ECS, Amazon EKS and AWS Serverless MCP server](https://aws.amazon.com/blogs/aws/enhance-ai-assisted-development-with-amazon-ecs-amazon-eks-and-aws-serverless-mcp-server/)
-- [Amazon Aurora DSQL, the fastest serverless distributed SQL database is now generally available](https://aws.amazon.com/blogs/aws/amazon-aurora-dsql-is-now-generally-available/)
 <!-- BLOG-POST-LIST:END -->  
 
 
