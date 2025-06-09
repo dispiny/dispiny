@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: New AWS Heroes, Amazon Q Developer, EC2 GPU price reduction, and more &lpar;June 9, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-new-aws-heroes-amazon-q-developer-ec2-gpu-price-reduction-and-more-june-9-2025/)
 - [Now open – AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/blogs/aws/now-open-aws-asia-pacific-taipei-region/)
 - [Introducing AWS API models and publicly available resources for AWS API definitions](https://aws.amazon.com/blogs/aws/introducing-aws-api-models-and-publicly-available-resources-for-aws-api-definitions/)
 - [Announcing up to 45% price reduction for Amazon EC2 NVIDIA GPU-accelerated instances](https://aws.amazon.com/blogs/aws/announcing-up-to-45-price-reduction-for-amazon-ec2-nvidia-gpu-accelerated-instances/)
 - [Introducing our newest 2025 AWS Heroes cohort](https://aws.amazon.com/blogs/aws/introducing-our-newest-2025-aws-heroes-cohort/)
-- [AWS Weekly Roundup: Amazon Aurora DSQL, MCP Servers, Amazon FSx, AI on EKS, and more &lpar;June 2, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-aurora-dsql-mcp-servers-amazon-fsx-ai-on-eks-and-more-june-2-2025/)
 <!-- BLOG-POST-LIST:END -->  
 
 
