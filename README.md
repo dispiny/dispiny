@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Amazon GuardDuty expands Extended Threat Detection coverage to Amazon EKS clusters](https://aws.amazon.com/blogs/aws/amazon-guardduty-expands-extended-threat-detection-coverage-to-amazon-eks-clusters/)
 - [Unify your security with the new AWS Security Hub for risk prioritization and response at scale &lpar;Preview&rpar;](https://aws.amazon.com/blogs/aws/unify-your-security-with-the-new-aws-security-hub-for-risk-prioritization-and-response-at-scale-preview/)
 - [AWS Backup adds new Multi-party approval for logically air-gapped vaults](https://aws.amazon.com/blogs/aws/aws-backup-adds-new-multi-party-approval-for-logically-air-gapped-vaults/)
 - [New AWS Shield feature discovers network security issues before they can be exploited &lpar;Preview&rpar;](https://aws.amazon.com/blogs/aws/new-aws-shield-feature-discovers-network-security-issues-before-they-can-be-exploited-preview/)
 - [Amazon CloudFront simplifies web application delivery and security with new user-friendly interface](https://aws.amazon.com/blogs/aws/amazon-cloudfront-simplifies-web-application-delivery-and-security-with-new-user-friendly-interface/)
-- [AWS Certificate Manager introduces exportable public SSL/TLS certificates to use anywhere](https://aws.amazon.com/blogs/aws/aws-certificate-manager-introduces-exportable-public-ssl-tls-certificates-to-use-anywhere/)
 <!-- BLOG-POST-LIST:END -->  
 
 
