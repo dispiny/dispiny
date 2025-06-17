@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Amazon CloudFront simplifies web application delivery and security with new user-friendly interface](https://aws.amazon.com/blogs/aws/amazon-cloudfront-simplifies-web-application-delivery-and-security-with-new-user-friendly-interface/)
+- [AWS Certificate Manager introduces exportable public SSL/TLS certificates to use anywhere](https://aws.amazon.com/blogs/aws/aws-certificate-manager-introduces-exportable-public-ssl-tls-certificates-to-use-anywhere/)
+- [Verify internal access to critical AWS resources with new IAM Access Analyzer capabilities](https://aws.amazon.com/blogs/aws/verify-internal-access-to-critical-aws-resources-with-new-iam-access-analyzer-capabilities/)
 - [AWS Weekly Roundup: AWS re:Inforce 2025, AWS WAF, AWS Control Tower, and more &lpar;June 16, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-reinforce-2025-aws-waf-aws-control-tower-and-more-june-16-2025/)
 - [AWS Weekly Roundup: New AWS Heroes, Amazon Q Developer, EC2 GPU price reduction, and more &lpar;June 9, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-new-aws-heroes-amazon-q-developer-ec2-gpu-price-reduction-and-more-june-9-2025/)
-- [Now open – AWS Asia Pacific &lpar;Taipei&rpar; Region](https://aws.amazon.com/blogs/aws/now-open-aws-asia-pacific-taipei-region/)
-- [Introducing AWS API models and publicly available resources for AWS API definitions](https://aws.amazon.com/blogs/aws/introducing-aws-api-models-and-publicly-available-resources-for-aws-api-definitions/)
-- [Announcing up to 45% price reduction for Amazon EC2 NVIDIA GPU-accelerated instances](https://aws.amazon.com/blogs/aws/announcing-up-to-45-price-reduction-for-amazon-ec2-nvidia-gpu-accelerated-instances/)
 <!-- BLOG-POST-LIST:END -->  
 
 
