@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: re:Inforce re:Cap, Valkey GLIDE 2.0, Avro and Protobuf or MCP Servers on Lambda, and more &lpar;June 23, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-reinforce-recap-valkey-glide-2-0-avro-and-protobuf-or-mcp-servers-on-lambda-and-more-june-23-2025/)
 - [AWS re:Inforce roundup 2025: top announcements](https://aws.amazon.com/blogs/aws/aws-reinforce-roundup-2025-top-announcements/)
 - [Amazon GuardDuty expands Extended Threat Detection coverage to Amazon EKS clusters](https://aws.amazon.com/blogs/aws/amazon-guardduty-expands-extended-threat-detection-coverage-to-amazon-eks-clusters/)
 - [Unify your security with the new AWS Security Hub for risk prioritization and response at scale &lpar;Preview&rpar;](https://aws.amazon.com/blogs/aws/unify-your-security-with-the-new-aws-security-hub-for-risk-prioritization-and-response-at-scale-preview/)
 - [AWS Backup adds new Multi-party approval for logically air-gapped vaults](https://aws.amazon.com/blogs/aws/aws-backup-adds-new-multi-party-approval-for-logically-air-gapped-vaults/)
-- [New AWS Shield feature discovers network security issues before they can be exploited &lpar;Preview&rpar;](https://aws.amazon.com/blogs/aws/new-aws-shield-feature-discovers-network-security-issues-before-they-can-be-exploited-preview/)
 <!-- BLOG-POST-LIST:END -->  
 
 
