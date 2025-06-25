@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Amazon FSx for OpenZFS now supports Amazon S3 access without any data movement](https://aws.amazon.com/blogs/aws/amazon-fsx-for-openzfs-now-supports-amazon-s3-access-without-any-data-movement/)
 - [New: Improve Apache Iceberg query performance in Amazon S3 with sort and z-order compaction](https://aws.amazon.com/blogs/aws/new-improve-apache-iceberg-query-performance-in-amazon-s3-with-sort-and-z-order-compaction/)
 - [AWS Weekly Roundup: re:Inforce re:Cap, Valkey GLIDE 2.0, Avro and Protobuf or MCP Servers on Lambda, and more &lpar;June 23, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-reinforce-recap-valkey-glide-2-0-avro-and-protobuf-or-mcp-servers-on-lambda-and-more-june-23-2025/)
 - [AWS re:Inforce roundup 2025: top announcements](https://aws.amazon.com/blogs/aws/aws-reinforce-roundup-2025-top-announcements/)
 - [Amazon GuardDuty expands Extended Threat Detection coverage to Amazon EKS clusters](https://aws.amazon.com/blogs/aws/amazon-guardduty-expands-extended-threat-detection-coverage-to-amazon-eks-clusters/)
-- [Unify your security with the new AWS Security Hub for risk prioritization and response at scale &lpar;Preview&rpar;](https://aws.amazon.com/blogs/aws/unify-your-security-with-the-new-aws-security-hub-for-risk-prioritization-and-response-at-scale-preview/)
 <!-- BLOG-POST-LIST:END -->  
 
 
