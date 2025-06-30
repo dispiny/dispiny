@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [New Amazon EC2 C8gn instances powered by AWS Graviton4 offering up to 600Gbps network bandwidth](https://aws.amazon.com/blogs/aws/new-amazon-ec2-c8gn-instances-powered-by-aws-graviton4-offering-up-to-600gbps-network-bandwidth/)
 - [AWS Weekly Roundup: Project Rainier, Amazon CloudWatch investigations, AWS MCP servers, and more &lpar;June 30, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-project-rainier-amazon-cloudwatch-investigations-aws-mcp-servers-and-more-june-30-2025/)
 - [Amazon FSx for OpenZFS now supports Amazon S3 access without any data movement](https://aws.amazon.com/blogs/aws/amazon-fsx-for-openzfs-now-supports-amazon-s3-access-without-any-data-movement/)
 - [New: Improve Apache Iceberg query performance in Amazon S3 with sort and z-order compaction](https://aws.amazon.com/blogs/aws/new-improve-apache-iceberg-query-performance-in-amazon-s3-with-sort-and-z-order-compaction/)
 - [AWS Weekly Roundup: re:Inforce re:Cap, Valkey GLIDE 2.0, Avro and Protobuf or MCP Servers on Lambda, and more &lpar;June 23, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-reinforce-recap-valkey-glide-2-0-avro-and-protobuf-or-mcp-servers-on-lambda-and-more-june-23-2025/)
-- [AWS re:Inforce roundup 2025: top announcements](https://aws.amazon.com/blogs/aws/aws-reinforce-roundup-2025-top-announcements/)
 <!-- BLOG-POST-LIST:END -->  
 
 
