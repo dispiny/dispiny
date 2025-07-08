@@ -96,7 +96,7 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
-- [AWS Weekly Roundup: EC2 C8gn instances, Amazon Nova Canvas virtual try-on, and more &lpar;July 7, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-api-keys-amazon-nova-canvas-virtual-try-on-and-more-july-7-2025/)
+- [AWS Weekly Roundup: Amazon Bedrock API keys, EC2 C8gn instances, Amazon Nova Canvas virtual try-on, and more &lpar;July 7, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-api-keys-amazon-nova-canvas-virtual-try-on-and-more-july-7-2025/)
 - [Amazon Nova Canvas update: Virtual try-on and style options now available](https://aws.amazon.com/blogs/aws/amazon-nova-canvas-update-virtual-try-on-and-style-options-now-available/)
 - [Build the highest resilience apps with multi-Region strong consistency in Amazon DynamoDB global tables](https://aws.amazon.com/blogs/aws/build-the-highest-resilience-apps-with-multi-region-strong-consistency-in-amazon-dynamodb-global-tables/)
 - [New Amazon EC2 C8gn instances powered by AWS Graviton4 offering up to 600Gbps network bandwidth](https://aws.amazon.com/blogs/aws/new-amazon-ec2-c8gn-instances-powered-by-aws-graviton4-offering-up-to-600gbps-network-bandwidth/)
