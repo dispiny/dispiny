@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Top announcements of the AWS Summit in New York, 2025](https://aws.amazon.com/blogs/aws/top-announcements-of-the-aws-summit-in-new-york-2025/)
+- [Announcing Amazon Nova customization in Amazon SageMaker AI](https://aws.amazon.com/blogs/aws/announcing-amazon-nova-customization-in-amazon-sagemaker-ai/)
+- [Introducing Amazon Bedrock AgentCore: Securely deploy and operate AI agents at any scale &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-agentcore-securely-deploy-and-operate-ai-agents-at-any-scale/)
 - [Streamline the path from data to insights with new Amazon SageMaker Catalog capabilities](https://aws.amazon.com/blogs/aws/streamline-the-path-from-data-to-insights-with-new-amazon-sagemaker-capabilities/)
 - [AWS Free Tier update: New customers can get started and explore AWS with up to $200 in credits](https://aws.amazon.com/blogs/aws/aws-free-tier-update-new-customers-can-get-started-and-explore-aws-with-up-to-200-in-credits/)
-- [Monitor and debug event-driven applications with new Amazon EventBridge logging](https://aws.amazon.com/blogs/aws/monitor-and-debug-event-driven-applications-with-new-amazon-eventbridge-logging/)
-- [Introducing Amazon S3 Vectors: First cloud storage with native vector support at scale &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-vectors-first-cloud-storage-with-native-vector-support-at-scale/)
-- [Amazon S3 Metadata now supports metadata for all your S3 objects](https://aws.amazon.com/blogs/aws/amazon-s3-metadata-now-supports-metadata-for-all-your-s3-objects/)
 <!-- BLOG-POST-LIST:END -->  
 
 
