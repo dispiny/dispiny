@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
-- [AWS Weekly Roundup: AWS Builder Center, Amazon Q, Oracle Database@AWS, and more &lpar;July 14, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-builder-center-amazon-q-oracle-databaseaws-and-more-july-14-2025/)
-- [New Amazon EC2 P6e-GB200 UltraServers accelerated by NVIDIA Grace Blackwell GPUs for the highest AI performance](https://aws.amazon.com/blogs/aws/new-amazon-ec2-p6e-gb200-ultraservers-powered-by-nvidia-grace-blackwell-gpus-for-the-highest-ai-performance/)
-- [Introducing AWS Builder Center: A new home for the AWS builder community](https://aws.amazon.com/blogs/aws/introducing-aws-builder-center-a-new-home-for-the-aws-builder-community/)
-- [Introducing Oracle Database@AWS for simplified Oracle Exadata migrations to the AWS Cloud](https://aws.amazon.com/blogs/aws/introducing-oracle-databaseaws-for-simplified-oracle-exadata-migrations-to-the-aws-cloud/)
-- [AWS Weekly Roundup: Amazon Bedrock API keys, EC2 C8gn instances, Amazon Nova Canvas virtual try-on, and more &lpar;July 7, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-api-keys-amazon-nova-canvas-virtual-try-on-and-more-july-7-2025/)
+- [Streamline the path from data to insights with new Amazon SageMaker Catalog capabilities](https://aws.amazon.com/blogs/aws/streamline-the-path-from-data-to-insights-with-new-amazon-sagemaker-capabilities/)
+- [AWS Free Tier update: New customers can get started and explore AWS with up to $200 in credits](https://aws.amazon.com/blogs/aws/aws-free-tier-update-new-customers-can-get-started-and-explore-aws-with-up-to-200-in-credits/)
+- [Monitor and debug event-driven applications with new Amazon EventBridge logging](https://aws.amazon.com/blogs/aws/monitor-and-debug-event-driven-applications-with-new-amazon-eventbridge-logging/)
+- [Introducing Amazon S3 Vectors: First cloud storage with native vector support at scale &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-vectors-first-cloud-storage-with-native-vector-support-at-scale/)
+- [Amazon S3 Metadata now supports metadata for all your S3 objects](https://aws.amazon.com/blogs/aws/amazon-s3-metadata-now-supports-metadata-for-all-your-s3-objects/)
 <!-- BLOG-POST-LIST:END -->  
 
 
