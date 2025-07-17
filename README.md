@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Simplify serverless development with console to IDE and remote debugging for AWS Lambda](https://aws.amazon.com/blogs/aws/simplify-serverless-development-with-console-to-ide-and-remote-debugging-for-aws-lambda/)
+- [AWS AI League: Learn, innovate, and compete in our new ultimate AI showdown](https://aws.amazon.com/blogs/aws/aws-ai-league-learn-innovate-and-compete-in-our-new-ultimate-ai-showdown/)
 - [Accelerate safe software releases with new built-in blue/green deployments in Amazon ECS](https://aws.amazon.com/blogs/aws/accelerate-safe-software-releases-with-new-built-in-blue-green-deployments-in-amazon-ecs/)
 - [Top announcements of the AWS Summit in New York, 2025](https://aws.amazon.com/blogs/aws/top-announcements-of-the-aws-summit-in-new-york-2025/)
 - [Announcing Amazon Nova customization in Amazon SageMaker AI](https://aws.amazon.com/blogs/aws/announcing-amazon-nova-customization-in-amazon-sagemaker-ai/)
-- [Introducing Amazon Bedrock AgentCore: Securely deploy and operate AI agents at any scale &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-agentcore-securely-deploy-and-operate-ai-agents-at-any-scale/)
-- [Streamline the path from data to insights with new Amazon SageMaker Catalog capabilities](https://aws.amazon.com/blogs/aws/streamline-the-path-from-data-to-insights-with-new-amazon-sagemaker-capabilities/)
 <!-- BLOG-POST-LIST:END -->  
 
 
