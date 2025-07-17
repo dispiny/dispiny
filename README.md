@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Accelerate safe software releases with new built-in blue/green deployments in Amazon ECS](https://aws.amazon.com/blogs/aws/accelerate-safe-software-releases-with-new-built-in-blue-green-deployments-in-amazon-ecs/)
 - [Top announcements of the AWS Summit in New York, 2025](https://aws.amazon.com/blogs/aws/top-announcements-of-the-aws-summit-in-new-york-2025/)
 - [Announcing Amazon Nova customization in Amazon SageMaker AI](https://aws.amazon.com/blogs/aws/announcing-amazon-nova-customization-in-amazon-sagemaker-ai/)
 - [Introducing Amazon Bedrock AgentCore: Securely deploy and operate AI agents at any scale &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/introducing-amazon-bedrock-agentcore-securely-deploy-and-operate-ai-agents-at-any-scale/)
 - [Streamline the path from data to insights with new Amazon SageMaker Catalog capabilities](https://aws.amazon.com/blogs/aws/streamline-the-path-from-data-to-insights-with-new-amazon-sagemaker-capabilities/)
-- [AWS Free Tier update: New customers can get started and explore AWS with up to $200 in credits](https://aws.amazon.com/blogs/aws/aws-free-tier-update-new-customers-can-get-started-and-explore-aws-with-up-to-200-in-credits/)
 <!-- BLOG-POST-LIST:END -->  
 
 
