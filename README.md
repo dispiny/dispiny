@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: Kiro, AWS Lambda remote debugging, Amazon ECS blue/green deployments, Amazon Bedrock AgentCore, and more &lpar;July 21, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-kiro-aws-lambda-remote-debugging-amazon-ecs-blue-green-deployments-amazon-bedrock-agentcore-and-more-july-21-2025/)
 - [Simplify serverless development with console to IDE and remote debugging for AWS Lambda](https://aws.amazon.com/blogs/aws/simplify-serverless-development-with-console-to-ide-and-remote-debugging-for-aws-lambda/)
 - [AWS AI League: Learn, innovate, and compete in our new ultimate AI showdown](https://aws.amazon.com/blogs/aws/aws-ai-league-learn-innovate-and-compete-in-our-new-ultimate-ai-showdown/)
 - [Accelerate safe software releases with new built-in blue/green deployments in Amazon ECS](https://aws.amazon.com/blogs/aws/accelerate-safe-software-releases-with-new-built-in-blue-green-deployments-in-amazon-ecs/)
 - [Top announcements of the AWS Summit in New York, 2025](https://aws.amazon.com/blogs/aws/top-announcements-of-the-aws-summit-in-new-york-2025/)
-- [Announcing Amazon Nova customization in Amazon SageMaker AI](https://aws.amazon.com/blogs/aws/announcing-amazon-nova-customization-in-amazon-sagemaker-ai/)
 <!-- BLOG-POST-LIST:END -->  
 
 
