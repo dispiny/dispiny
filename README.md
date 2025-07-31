@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Amazon DocumentDB Serverless is now available](https://aws.amazon.com/blogs/aws/amazon-documentdb-serverless-is-now-available/)
 - [AWS Weekly Roundup: SQS fair queues, CloudWatch generative AI observability, and more &lpar;July 28, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-sqs-fair-queues-cloudwatch-generative-ai-observability-and-more-july-28-2025/)
 - [AWS Weekly Roundup: Kiro, AWS Lambda remote debugging, Amazon ECS blue/green deployments, Amazon Bedrock AgentCore, and more &lpar;July 21, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-kiro-aws-lambda-remote-debugging-amazon-ecs-blue-green-deployments-amazon-bedrock-agentcore-and-more-july-21-2025/)
 - [Simplify serverless development with console to IDE and remote debugging for AWS Lambda](https://aws.amazon.com/blogs/aws/simplify-serverless-development-with-console-to-ide-and-remote-debugging-for-aws-lambda/)
 - [AWS AI League: Learn, innovate, and compete in our new ultimate AI showdown](https://aws.amazon.com/blogs/aws/aws-ai-league-learn-innovate-and-compete-in-our-new-ultimate-ai-showdown/)
-- [Accelerate safe software releases with new built-in blue/green deployments in Amazon ECS](https://aws.amazon.com/blogs/aws/accelerate-safe-software-releases-with-new-built-in-blue-green-deployments-in-amazon-ecs/)
 <!-- BLOG-POST-LIST:END -->  
 
 
