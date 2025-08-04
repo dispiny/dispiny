@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: Amazon DocumentDB, AWS Lambda, Amazon EC2, and more &lpar;August 4, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-documentdb-aws-lambda-amazon-ec2-and-more-august-4-2025/)
 - [Introducing Amazon Application Recovery Controller Region switch: A multi-Region application recovery service](https://aws.amazon.com/blogs/aws/introducing-amazon-application-recovery-controller-region-switch-a-multi-region-application-recovery-service/)
 - [Amazon DocumentDB Serverless is now available](https://aws.amazon.com/blogs/aws/amazon-documentdb-serverless-is-now-available/)
 - [AWS Weekly Roundup: SQS fair queues, CloudWatch generative AI observability, and more &lpar;July 28, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-sqs-fair-queues-cloudwatch-generative-ai-observability-and-more-july-28-2025/)
 - [AWS Weekly Roundup: Kiro, AWS Lambda remote debugging, Amazon ECS blue/green deployments, Amazon Bedrock AgentCore, and more &lpar;July 21, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-kiro-aws-lambda-remote-debugging-amazon-ecs-blue-green-deployments-amazon-bedrock-agentcore-and-more-july-21-2025/)
-- [Simplify serverless development with console to IDE and remote debugging for AWS Lambda](https://aws.amazon.com/blogs/aws/simplify-serverless-development-with-console-to-ide-and-remote-debugging-for-aws-lambda/)
 <!-- BLOG-POST-LIST:END -->  
 
 
