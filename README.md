@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI open weight models now available on AWS](https://aws.amazon.com/blogs/aws/openai-open-weight-models-now-available-on-aws/)
 - [Introducing Amazon Elastic VMware Service for running VMware Cloud Foundation on AWS](https://aws.amazon.com/blogs/aws/introducing-amazon-elastic-vmware-service-for-running-vmware-cloud-foundation-on-aws/)
 - [AWS Weekly Roundup: Amazon DocumentDB, AWS Lambda, Amazon EC2, and more &lpar;August 4, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-documentdb-aws-lambda-amazon-ec2-and-more-august-4-2025/)
 - [Introducing Amazon Application Recovery Controller Region switch: A multi-Region application recovery service](https://aws.amazon.com/blogs/aws/introducing-amazon-application-recovery-controller-region-switch-a-multi-region-application-recovery-service/)
 - [Amazon DocumentDB Serverless is now available](https://aws.amazon.com/blogs/aws/amazon-documentdb-serverless-is-now-available/)
-- [AWS Weekly Roundup: SQS fair queues, CloudWatch generative AI observability, and more &lpar;July 28, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-sqs-fair-queues-cloudwatch-generative-ai-observability-and-more-july-28-2025/)
 <!-- BLOG-POST-LIST:END -->  
 
 
