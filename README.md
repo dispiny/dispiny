@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Meet our newest AWS Heroes — August 2025](https://aws.amazon.com/blogs/aws/meet-our-newest-aws-heroes-august-2025/)
 - [AWS Weekly Roundup: OpenAI models, Automated Reasoning checks, Amazon EVS, and more &lpar;August 11, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-models-automated-reasoning-checks-amazon-evs-and-more-august-11-2025/)
 - [Minimize AI hallucinations and deliver up to 99% verification accuracy with Automated Reasoning checks: Now available](https://aws.amazon.com/blogs/aws/minimize-ai-hallucinations-and-deliver-up-to-99-verification-accuracy-with-automated-reasoning-checks-now-available/)
 - [OpenAI open weight models now available on AWS](https://aws.amazon.com/blogs/aws/openai-open-weight-models-now-available-on-aws/)
 - [Introducing Amazon Elastic VMware Service for running VMware Cloud Foundation on AWS](https://aws.amazon.com/blogs/aws/introducing-amazon-elastic-vmware-service-for-running-vmware-cloud-foundation-on-aws/)
-- [AWS Weekly Roundup: Amazon DocumentDB, AWS Lambda, Amazon EC2, and more &lpar;August 4, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-documentdb-aws-lambda-amazon-ec2-and-more-august-4-2025/)
 <!-- BLOG-POST-LIST:END -->  
 
 
