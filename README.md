@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS named as a Leader in 2025 Gartner Magic Quadrant for Strategic Cloud Platform Services for 15 years in a row](https://aws.amazon.com/blogs/aws/aws-named-as-a-leader-in-2025-gartner-magic-quadrant-for-strategic-cloud-platform-services-for-15-years-in-a-row/)
 - [Celebrating 10 years of Amazon Aurora innovation](https://aws.amazon.com/blogs/aws/celebrating-10-years-of-amazon-aurora-innovation/)
 - [Meet our newest AWS Heroes — August 2025](https://aws.amazon.com/blogs/aws/meet-our-newest-aws-heroes-august-2025/)
 - [AWS Weekly Roundup: OpenAI models, Automated Reasoning checks, Amazon EVS, and more &lpar;August 11, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-models-automated-reasoning-checks-amazon-evs-and-more-august-11-2025/)
 - [Minimize AI hallucinations and deliver up to 99% verification accuracy with Automated Reasoning checks: Now available](https://aws.amazon.com/blogs/aws/minimize-ai-hallucinations-and-deliver-up-to-99-verification-accuracy-with-automated-reasoning-checks-now-available/)
-- [OpenAI open weight models now available on AWS](https://aws.amazon.com/blogs/aws/openai-open-weight-models-now-available-on-aws/)
 <!-- BLOG-POST-LIST:END -->  
 
 
