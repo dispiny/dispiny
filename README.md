@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Best performance and fastest memory with the new Amazon EC2 R8i and R8i-flex instances](https://aws.amazon.com/blogs/aws/best-performance-and-fastest-memory-with-the-new-amazon-ec2-r8i-and-r8i-flex-instances/)
 - [AWS Weekly Roundup: Single GPU P5 instances, Advanced Go Driver, Amazon SageMaker HyperPod and more &lpar;August 18, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-single-gpu-p5-instances-advanced-go-driver-amazon-sagemaker-hyperpod-and-more-august-18-2025/)
 - [AWS named as a Leader in 2025 Gartner Magic Quadrant for Strategic Cloud Platform Services for 15 years in a row](https://aws.amazon.com/blogs/aws/aws-named-as-a-leader-in-2025-gartner-magic-quadrant-for-strategic-cloud-platform-services-for-15-years-in-a-row/)
 - [Celebrating 10 years of Amazon Aurora innovation](https://aws.amazon.com/blogs/aws/celebrating-10-years-of-amazon-aurora-innovation/)
 - [Meet our newest AWS Heroes — August 2025](https://aws.amazon.com/blogs/aws/meet-our-newest-aws-heroes-august-2025/)
-- [AWS Weekly Roundup: OpenAI models, Automated Reasoning checks, Amazon EVS, and more &lpar;August 11, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-openai-models-automated-reasoning-checks-amazon-evs-and-more-august-11-2025/)
 <!-- BLOG-POST-LIST:END -->  
 
 
