@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: Amazon Aurora 10th anniversary, Amazon EC2 R8 instances, Amazon Bedrock and more &lpar;August 25, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-aurora-10th-anniversary-amazon-ec2-r8-instances-amazon-bedrock-and-more-august-25-2025/)
 - [Best performance and fastest memory with the new Amazon EC2 R8i and R8i-flex instances](https://aws.amazon.com/blogs/aws/best-performance-and-fastest-memory-with-the-new-amazon-ec2-r8i-and-r8i-flex-instances/)
 - [AWS Weekly Roundup: Single GPU P5 instances, Advanced Go Driver, Amazon SageMaker HyperPod and more &lpar;August 18, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-single-gpu-p5-instances-advanced-go-driver-amazon-sagemaker-hyperpod-and-more-august-18-2025/)
 - [AWS named as a Leader in 2025 Gartner Magic Quadrant for Strategic Cloud Platform Services for 15 years in a row](https://aws.amazon.com/blogs/aws/aws-named-as-a-leader-in-2025-gartner-magic-quadrant-for-strategic-cloud-platform-services-for-15-years-in-a-row/)
 - [Celebrating 10 years of Amazon Aurora innovation](https://aws.amazon.com/blogs/aws/celebrating-10-years-of-amazon-aurora-innovation/)
-- [Meet our newest AWS Heroes — August 2025](https://aws.amazon.com/blogs/aws/meet-our-newest-aws-heroes-august-2025/)
 <!-- BLOG-POST-LIST:END -->  
 
 
