@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: Amazon EC2, Amazon Q Developer, IPv6 updates, and more &lpar;September 1, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-amazon-q-developer-ipv6-updates-and-more-september-1-2025/)
 - [New general-purpose Amazon EC2 M8i and M8i Flex instances are now available](https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8i-and-m8i-flex-instances-are-now-available/)
 - [AWS services scale to new heights for Prime Day 2025: key metrics and milestones](https://aws.amazon.com/blogs/aws/aws-services-scale-to-new-heights-for-prime-day-2025-key-metrics-and-milestones/)
 - [AWS Weekly Roundup: Amazon Aurora 10th anniversary, Amazon EC2 R8 instances, Amazon Bedrock and more &lpar;August 25, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-aurora-10th-anniversary-amazon-ec2-r8-instances-amazon-bedrock-and-more-august-25-2025/)
 - [Best performance and fastest memory with the new Amazon EC2 R8i and R8i-flex instances](https://aws.amazon.com/blogs/aws/best-performance-and-fastest-memory-with-the-new-amazon-ec2-r8i-and-r8i-flex-instances/)
-- [AWS Weekly Roundup: Single GPU P5 instances, Advanced Go Driver, Amazon SageMaker HyperPod and more &lpar;August 18, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-single-gpu-p5-instances-advanced-go-driver-amazon-sagemaker-hyperpod-and-more-august-18-2025/)
 <!-- BLOG-POST-LIST:END -->  
 
 
