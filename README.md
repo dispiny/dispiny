@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Accelerate serverless testing with LocalStack integration in VS Code IDE](https://aws.amazon.com/blogs/aws/accelerate-serverless-testing-with-localstack-integration-in-vs-code-ide/)
 - [AWS Weekly Roundup: AWS Transform, Amazon Neptune, and more &lpar;September 8, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-transform-amazon-neptune-and-more-september-8-2025/)
 - [Now Open — AWS Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/blogs/aws/now-open-aws-asia-pacific-new-zealand-region/)
 - [AWS Weekly Roundup: Amazon EC2, Amazon Q Developer, IPv6 updates, and more &lpar;September 1, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-ec2-amazon-q-developer-ipv6-updates-and-more-september-1-2025/)
 - [New general-purpose Amazon EC2 M8i and M8i Flex instances are now available](https://aws.amazon.com/blogs/aws/new-general-purpose-amazon-ec2-m8i-and-m8i-flex-instances-are-now-available/)
-- [AWS services scale to new heights for Prime Day 2025: key metrics and milestones](https://aws.amazon.com/blogs/aws/aws-services-scale-to-new-heights-for-prime-day-2025-key-metrics-and-milestones/)
 <!-- BLOG-POST-LIST:END -->  
 
 
