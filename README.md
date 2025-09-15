@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS named as a Leader in 2025 Gartner Magic Quadrant for Cloud-Native Application Platforms and Container Management](https://aws.amazon.com/blogs/aws/aws-named-as-a-leader-in-2025-gartner-magic-quadrant-for-cloud-native-application-platforms-and-container-management/)
 - [AWS Weekly Roundup: Strands Agents 1M+ downloads, Cloud Club Captain, AI Agent Hackathon, and more &lpar;September 15, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-strands-agents-1m-downloads-cloud-club-captain-ai-agent-hackathon-and-more-september-15-2025/)
 - [Announcing Amazon EC2 M4 and M4 Pro Mac instances](https://aws.amazon.com/blogs/aws/announcing-amazon-ec2-m4-and-m4-pro-mac-instances/)
 - [Accelerate serverless testing with LocalStack integration in VS Code IDE](https://aws.amazon.com/blogs/aws/accelerate-serverless-testing-with-localstack-integration-in-vs-code-ide/)
 - [AWS Weekly Roundup: AWS Transform, Amazon Neptune, and more &lpar;September 8, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-transform-amazon-neptune-and-more-september-8-2025/)
-- [Now Open — AWS Asia Pacific &lpar;New Zealand&rpar; Region](https://aws.amazon.com/blogs/aws/now-open-aws-asia-pacific-new-zealand-region/)
 <!-- BLOG-POST-LIST:END -->  
 
 
