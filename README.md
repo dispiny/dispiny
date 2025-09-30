@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Announcing AWS Outposts third-party storage integration with Dell and HPE](https://aws.amazon.com/blogs/aws/announcing-aws-outposts-third-party-storage-integration-with-dell-and-hpe/)
 - [Introducing Claude Sonnet 4.5 in Amazon Bedrock: Anthropic’s most intelligent model, best for coding and complex agents](https://aws.amazon.com/blogs/aws/introducing-claude-sonnet-4-5-in-amazon-bedrock-anthropics-most-intelligent-model-best-for-coding-and-complex-agents/)
 - [AWS Weekly Roundup: Amazon S3, Amazon Bedrock AgentCore, AWS X-Ray and more &lpar;September 29, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-s3-amazon-bedrock-agentcore-aws-x-ray-and-more-september-29-2025/)
 - [Accelerate AI agent development with the Nova Act IDE extension](https://aws.amazon.com/blogs/aws/accelerate-ai-agent-development-with-the-nova-act-ide-extension/)
 - [AWS Weekly Roundup: Amazon Q Developer, AWS Step Functions, AWS Cloud Club Captain deadline, and more &lpar;September 22, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-q-developer-aws-step-functions-aws-cloud-club-captain-deadline-and-more-september-22-2025/)
-- [Qwen models are now available in Amazon Bedrock](https://aws.amazon.com/blogs/aws/qwen-models-are-now-available-in-amazon-bedrock/)
 <!-- BLOG-POST-LIST:END -->  
 
 
