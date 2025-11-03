@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: Project Rainier online, Amazon Nova, Amazon Bedrock, and more &lpar;November 3, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-project-rainier-online-amazon-nova-amazon-bedrock-and-more-november-3-2025/)
 - [Build more accurate AI applications with Amazon Nova Web Grounding](https://aws.amazon.com/blogs/aws/build-more-accurate-ai-applications-with-amazon-nova-web-grounding/)
 - [Amazon Nova Multimodal Embeddings: State-of-the-art embedding model for agentic RAG and semantic search](https://aws.amazon.com/blogs/aws/amazon-nova-multimodal-embeddings-now-available-in-amazon-bedrock/)
 - [AWS Weekly Roundup: AWS RTB Fabric, AWS Customer Carbon Footprint Tool, AWS Secret-West Region, and more &lpar;October 27, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-rtb-fabric-aws-customer-carbon-footprint-tool-aws-secret-west-region-and-more-october-27-2025/)
 - [Introducing AWS RTB Fabric for real-time advertising technology workloads](https://aws.amazon.com/blogs/aws/introducing-aws-rtb-fabric-for-real-time-advertising-technology-workloads/)
-- [Customer Carbon Footprint Tool Expands: Additional emissions categories including Scope 3 are now available](https://aws.amazon.com/blogs/aws/aws-customer-carbon-footprint-tool-now-includes-scope-3-emissions/)
 <!-- BLOG-POST-LIST:END -->  
 
 
