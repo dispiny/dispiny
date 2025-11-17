@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: AWS Lambda, load balancers, Amazon DCV, Amazon Linux 2023, and more &lpar;November 17, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-load-balancers-amazon-dcv-amazon-linux-2023-and-more-november-17-2025/)
 - [AWS Lambda enhances event processing with provisioned mode for SQS event-source mapping](https://aws.amazon.com/blogs/aws/aws-lambda-enhances-sqs-processing-with-new-provisioned-mode-3x-faster-scaling-16x-higher-capacity/)
 - [Introducing AWS IoT Core Device Location integration with Amazon Sidewalk](https://aws.amazon.com/blogs/aws/introducing-aws-iot-core-device-location-integration-with-amazon-sidewalk/)
 - [Introducing Our Final AWS Heroes of 2025](https://aws.amazon.com/blogs/aws/introducing-our-final-aws-heroes-of-2025/)
 - [Secure EKS clusters with the new support for Amazon EKS in AWS Backup](https://aws.amazon.com/blogs/aws/secure-eks-clusters-with-the-new-support-for-amazon-eks-in-aws-backup/)
-- [AWS Weekly Roundup: OpenAI partnership, Jane Goodall Institute research archive, and more &lpar;November 10, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-s3-amazon-ec2-and-more-november-10-2025/)
 <!-- BLOG-POST-LIST:END -->  
 
 
