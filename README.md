@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
-- [New Amazon Bedrock service tiers help you match AI workload performance with cost](https://aws.amazon.com/blogs/aws/new-amazon-bedrock-service-tiers-help-you-match-ai-workload-performance-with-cost/)
-- [Accelerate large-scale AI applications with the new Amazon EC2 P6-B300 instances](https://aws.amazon.com/blogs/aws/accelerate-large-scale-ai-applications-with-the-new-amazon-ec2-p6-b300-instances/)
-- [AWS Weekly Roundup: AWS Lambda for Rust, NLB for QUIC protocol, Amazon DCV for Mac, and more &lpar;November 17, 2025&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-lambda-load-balancers-amazon-dcv-amazon-linux-2023-and-more-november-17-2025/)
-- [AWS Lambda enhances event processing with provisioned mode for SQS event-source mapping](https://aws.amazon.com/blogs/aws/aws-lambda-enhances-sqs-processing-with-new-provisioned-mode-3x-faster-scaling-16x-higher-capacity/)
-- [Introducing AWS IoT Core Device Location integration with Amazon Sidewalk](https://aws.amazon.com/blogs/aws/introducing-aws-iot-core-device-location-integration-with-amazon-sidewalk/)
+- [Streamlined multi-tenant application development with tenant isolation mode in AWS Lambda](https://aws.amazon.com/blogs/aws/streamlined-multi-tenant-application-development-with-tenant-isolation-mode-in-aws-lambda/)
+- [New business metadata features in Amazon SageMaker Catalog to improve discoverability across organizations](https://aws.amazon.com/blogs/aws/new-business-metadata-features-in-amazon-sagemaker-catalog-to-improve-discoverability-across-organizations/)
+- [AWS Control Tower introduces a Controls Dedicated experience](https://aws.amazon.com/blogs/aws/aws-control-tower-introduces-a-controls-dedicated-experience/)
+- [New AWS Billing Transfer for centrally managing AWS billing and costs across multiple organizations](https://aws.amazon.com/blogs/aws/new-aws-billing-transfer-for-centrally-managing-aws-billing-and-costs-across-multiple-organizations/)
+- [Monitor network performance and traffic across your EKS clusters with Container Network Observability](https://aws.amazon.com/blogs/aws/monitor-network-performance-and-traffic-across-your-eks-clusters-with-container-network-observability/)
 <!-- BLOG-POST-LIST:END -->  
 
 
