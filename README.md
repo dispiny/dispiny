@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Simplify access to external services using AWS IAM Outbound Identity Federation](https://aws.amazon.com/blogs/aws/simplify-access-to-external-services-using-aws-iam-outbound-identity-federation/)
 - [Accelerate workflow development with enhanced local testing in AWS Step Functions](https://aws.amazon.com/blogs/aws/accelerate-workflow-development-with-enhanced-local-testing-in-aws-step-functions/)
 - [Streamlined multi-tenant application development with tenant isolation mode in AWS Lambda](https://aws.amazon.com/blogs/aws/streamlined-multi-tenant-application-development-with-tenant-isolation-mode-in-aws-lambda/)
 - [New business metadata features in Amazon SageMaker Catalog to improve discoverability across organizations](https://aws.amazon.com/blogs/aws/new-business-metadata-features-in-amazon-sagemaker-catalog-to-improve-discoverability-across-organizations/)
 - [AWS Control Tower introduces a Controls Dedicated experience](https://aws.amazon.com/blogs/aws/aws-control-tower-introduces-a-controls-dedicated-experience/)
-- [New: AWS Billing Transfer for centrally managing AWS billing and costs across multiple organizations](https://aws.amazon.com/blogs/aws/new-aws-billing-transfer-for-centrally-managing-aws-billing-and-costs-across-multiple-organizations/)
 <!-- BLOG-POST-LIST:END -->  
 
 
