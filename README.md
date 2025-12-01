@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Transform for mainframe introduces Reimagine capabilities and automated testing functionality](https://aws.amazon.com/blogs/aws/aws-transform-for-mainframe-introduces-reimagine-capabilities-and-automated-testing-functionality/)
+- [AWS Transform announces full-stack Windows modernization capabilities](https://aws.amazon.com/blogs/aws/aws-transform-announces-full-stack-windows-modernization-capabilities/)
+- [Introducing AWS Transform custom: Crush tech debt with AI-powered code modernization](https://aws.amazon.com/blogs/aws/introducing-aws-transform-custom-crush-tech-debt-with-ai-powered-code-modernization/)
 - [Top announcements of AWS re:Invent 2025](https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2025/)
 - [Introducing Amazon Route 53 Global Resolver for secure anycast DNS resolution &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/introducing-amazon-route-53-global-resolver-for-secure-anycast-dns-resolution-preview/)
-- [AWS Clean Rooms launches privacy-enhancing synthetic dataset generation for ML model training](https://aws.amazon.com/blogs/aws/aws-clean-rooms-launches-privacy-enhancing-synthetic-dataset-generation-for-ml-model-training/)
-- [AWS Partner Central now available in AWS Management Console](https://aws.amazon.com/blogs/aws/aws-partner-central-now-available-in-aws-management-console/)
-- [Introducing AWS Lambda Managed Instances: Serverless simplicity with EC2 flexibility](https://aws.amazon.com/blogs/aws/introducing-aws-lambda-managed-instances-serverless-simplicity-with-ec2-flexibility/)
 <!-- BLOG-POST-LIST:END -->  
 
 
