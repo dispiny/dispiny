@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
-- [Amazon S3 Vectors now generally available with increased scale and performance](https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-generally-available-with-increased-scale-and-performance/)
-- [Amazon Bedrock adds 18 fully managed open weight models, including the new Mistral Large 3 and Ministral 3 models](https://aws.amazon.com/blogs/aws/amazon-bedrock-adds-fully-managed-open-weight-models/)
-- [Introducing Amazon EC2 X8aedz instances powered by 5th Gen AMD EPYC processors for memory-intensive workloads](https://aws.amazon.com/blogs/aws/introducing-amazon-ec2-x8aedz-instances-powered-by-5th-gen-amd-epyc-processors-for-memory-intensive-workloads/)
-- [AWS DevOps Agent helps you accelerate incident response and improve system reliability &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/aws-devops-agent-helps-you-accelerate-incident-response-and-improve-system-reliability-preview/)
-- [Accelerate AI development using Amazon SageMaker AI with serverless MLflow](https://aws.amazon.com/blogs/aws/accelerate-ai-development-using-amazon-sagemaker-ai-with-serverless-mlflow/)
+- [Announcing replication support and Intelligent-Tiering for Amazon S3 Tables](https://aws.amazon.com/blogs/aws/announcing-replication-support-and-intelligent-tiering-for-amazon-s3-tables/)
+- [Amazon S3 Storage Lens adds performance metrics, support for billions of prefixes, and export to S3 Tables](https://aws.amazon.com/blogs/aws/amazon-s3-storage-lens-adds-performance-metrics-support-for-billions-of-prefixes-and-export-to-s3-tables/)
+- [Amazon Bedrock AgentCore adds quality evaluations and policy controls for deploying trusted AI agents](https://aws.amazon.com/blogs/aws/amazon-bedrock-agentcore-adds-quality-evaluations-and-policy-controls-for-deploying-trusted-ai-agents/)
+- [Build multi-step applications and AI workflows with AWS Lambda durable functions](https://aws.amazon.com/blogs/aws/build-multi-step-applications-and-ai-workflows-with-aws-lambda-durable-functions/)
+- [New capabilities to optimize costs and improve scalability on Amazon RDS for SQL Server and Oracle](https://aws.amazon.com/blogs/aws/amazon-rds-for-oracle-and-rds-for-sql-server-add-new-capabilities-to-enhance-performance-and-optimize-costs/)
 <!-- BLOG-POST-LIST:END -->  
 
 
