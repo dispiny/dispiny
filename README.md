@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
-- [AWS Transform for mainframe introduces Reimagine capabilities and automated testing functionality](https://aws.amazon.com/blogs/aws/aws-transform-for-mainframe-introduces-reimagine-capabilities-and-automated-testing-functionality/)
-- [AWS Transform announces full-stack Windows modernization capabilities](https://aws.amazon.com/blogs/aws/aws-transform-announces-full-stack-windows-modernization-capabilities/)
-- [Introducing AWS Transform custom: Crush tech debt with AI-powered code modernization](https://aws.amazon.com/blogs/aws/introducing-aws-transform-custom-crush-tech-debt-with-ai-powered-code-modernization/)
-- [Top announcements of AWS re:Invent 2025](https://aws.amazon.com/blogs/aws/top-announcements-of-aws-reinvent-2025/)
-- [Introducing Amazon Route 53 Global Resolver for secure anycast DNS resolution &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/introducing-amazon-route-53-global-resolver-for-secure-anycast-dns-resolution-preview/)
+- [Amazon S3 Vectors now generally available with increased scale and performance](https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-generally-available-with-increased-scale-and-performance/)
+- [Amazon Bedrock adds 18 fully managed open weight models, including the new Mistral Large 3 and Ministral 3 models](https://aws.amazon.com/blogs/aws/amazon-bedrock-adds-fully-managed-open-weight-models/)
+- [Introducing Amazon EC2 X8aedz instances powered by 5th Gen AMD EPYC processors for memory-intensive workloads](https://aws.amazon.com/blogs/aws/introducing-amazon-ec2-x8aedz-instances-powered-by-5th-gen-amd-epyc-processors-for-memory-intensive-workloads/)
+- [AWS DevOps Agent helps you accelerate incident response and improve system reliability &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/aws-devops-agent-helps-you-accelerate-incident-response-and-improve-system-reliability-preview/)
+- [Accelerate AI development using Amazon SageMaker AI with serverless MLflow](https://aws.amazon.com/blogs/aws/accelerate-ai-development-using-amazon-sagemaker-ai-with-serverless-mlflow/)
 <!-- BLOG-POST-LIST:END -->  
 
 
