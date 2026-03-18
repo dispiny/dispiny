@@ -96,7 +96,7 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
-- [Our First 2026 Heroes Cohort Is Here!](https://aws.amazon.com/blogs/aws/our-first-2026-heroes-cohort-is-here/)
+- [Our First 2026 AWS Heroes Cohort Is Here!](https://aws.amazon.com/blogs/aws/our-first-2026-heroes-cohort-is-here/)
 - [AWS Weekly Roundup: Amazon S3 turns 20, Amazon Route 53 Global Resolver general availability, and more &lpar;March 16, 2026&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-s3-turns-20-amazon-route-53-global-resolver-general-availability-and-more-march-16-2026/)
 - [Twenty years of Amazon S3 and building what’s next](https://aws.amazon.com/blogs/aws/twenty-years-of-amazon-s3-and-building-whats-next/)
 - [Introducing account regional namespaces for Amazon S3 general purpose buckets](https://aws.amazon.com/blogs/aws/introducing-account-regional-namespaces-for-amazon-s3-general-purpose-buckets/)
