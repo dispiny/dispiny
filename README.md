@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: AWS AI/ML Scholars program, Agent Plugin for AWS Serverless, and more &lpar;March 30, 2026&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-ai-ml-scholars-program-agent-plugin-for-aws-serverless-and-more-march-30-2026/)
 - [Customize your AWS Management Console experience with visual settings including account color, region and service visibility](https://aws.amazon.com/blogs/aws/customize-your-aws-management-console-experience-with-visual-settings-including-account-color-region-and-service-visibility/)
 - [Announcing Amazon Aurora PostgreSQL serverless database creation in seconds](https://aws.amazon.com/blogs/aws/announcing-amazon-aurora-postgresql-serverless-database-creation-in-seconds/)
 - [AWS Weekly Roundup: NVIDIA Nemotron 3 Super on Amazon Bedrock, Nova Forge SDK, Amazon Corretto 26, and more &lpar;March 23, 2026&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-nvidia-nemotron-3-super-on-amazon-bedrock-nova-forge-sdk-amazon-corretto-26-and-more-march-23-2026/)
 - [20 years in the AWS Cloud – how time flies!](https://aws.amazon.com/blogs/aws/20-years-in-the-aws-cloud-how-time-flies/)
-- [Our First 2026 AWS Heroes Cohort Is Here!](https://aws.amazon.com/blogs/aws/our-first-2026-heroes-cohort-is-here/)
 <!-- BLOG-POST-LIST:END -->  
 
 
