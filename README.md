@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery &lpar;ARD&rpar;, and more &lpar;August 31, 2026&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/)
 - [Happy 20th Birthday, Amazon EC2](https://aws.amazon.com/blogs/aws/happy-20th-birthday-amazon-ec2/)
 - [AWS Weekly Roundup: Student Rewards on AWS Builder Center, Local Zone in Las Vegas, and more &lpar;August 24, 2026&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-student-rewards-on-aws-builder-center-local-zone-in-las-vegas-and-more-august-24-2026/)
 - [AWS Glue 6.0 now available with 30% lower price and full Apache Iceberg v3 support](https://aws.amazon.com/blogs/aws/aws-glue-6-0-now-available-with-30-lower-price-and-full-apache-iceberg-v3-support/)
 - [In the works: AWS Builder Lofts in Berlin, Hyderabad, and São Paulo](https://aws.amazon.com/blogs/aws/in-the-works-aws-builder-lofts-in-berlin-hyderabad-and-sao-paulo/)
-- [AWS Weekly Roundup: EC2 application status checks, IAM role manager, OpenAI Daybreak on Bedrock, and more &lpar;August 17, 2026&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-ec2-application-status-checks-iam-role-manager-openai-daybreak-on-bedrock-and-more-august-17-2026/)
 <!-- BLOG-POST-LIST:END -->  
 
 
