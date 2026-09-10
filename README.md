@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Introducing Amazon EBS Volume Clones across AWS accounts](https://aws.amazon.com/blogs/aws/introducing-amazon-ebs-volume-clones-across-aws-accounts/)
 - [AWS Weekly Roundup: Claude Fable 5.1 on AWS, Amazon Linux 2027 preview, AWS Certified AI Business Strategist, and more &lpar;September 7, 2026&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-claude-fable-5-1-on-aws-amazon-linux-2027-preview-aws-certified-ai-business-strategist-and-more-september-7-2026/)
 - [Amazon EC2 R9g and R9gd instances powered by AWS Graviton5 processors are now generally available](https://aws.amazon.com/blogs/aws/amazon-ec2-r9g-and-r9gd-instances-powered-by-aws-graviton5-processors-are-now-generally-available/)
 - [AWS Weekly Roundup: Welcome DuckLabs to the team, Agentic Resource Discovery &lpar;ARD&rpar;, and more &lpar;August 31, 2026&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-welcome-ducklabs-to-the-team-agentic-resource-discovery-ard-and-more-august-31-2026/)
 - [Happy 20th Birthday, Amazon EC2](https://aws.amazon.com/blogs/aws/happy-20th-birthday-amazon-ec2/)
-- [AWS Weekly Roundup: Student Rewards on AWS Builder Center, Local Zone in Las Vegas, and more &lpar;August 24, 2026&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-student-rewards-on-aws-builder-center-local-zone-in-las-vegas-and-more-august-24-2026/)
 <!-- BLOG-POST-LIST:END -->  
 
 
