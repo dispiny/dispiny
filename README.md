@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: Amazon Bedrock Managed Agents powered by OpenAI, Q3 service availability updates, Kiro workflows, and more &lpar;October 5, 2026&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-amazon-bedrock-managed-agents-powered-by-openai-q3-service-availability-updates-kiro-workflows-and-more-october-5-2026/)
 - [Announcing AWS Well-Architected Agent, an AI-powered intelligence to optimize your cloud environment &lpar;preview&rpar;](https://aws.amazon.com/blogs/aws/announcing-aws-well-architected-agent-an-ai-powered-intelligence-to-optimize-your-cloud-environment-preview/)
 - [Amazon S3 Tables now support all Apache Iceberg V3 data types](https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-support-all-apache-iceberg-v3-data-types/)
 - [Amazon S3 Vectors now supports metadata pre-filtering for higher recall on filtered searches](https://aws.amazon.com/blogs/aws/amazon-s3-vectors-now-supports-metadata-pre-filtering-for-higher-recall-on-filtered-searches/)
 - [Amazon Aurora PostgreSQL now supports direct querying of Apache Iceberg and Parquet data in your data lake](https://aws.amazon.com/blogs/aws/amazon-aurora-postgresql-now-supports-direct-querying-of-apache-iceberg-and-parquet-data-in-your-data-lake/)
-- [Celebrating Our Newest AWS Heroes – September 2026](https://aws.amazon.com/blogs/aws/celebrating-our-newest-aws-heroes-september-2026/)
 <!-- BLOG-POST-LIST:END -->  
 
 
