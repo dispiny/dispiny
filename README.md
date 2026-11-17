@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [Four Continents, Four New AWS Heroes: Closing Out 2026](https://aws.amazon.com/blogs/aws/four-continents-four-new-aws-heroes-closing-out-2026/)
 - [AWS Weekly Roundup: AWS Nitro Sandboxes, AWS Emulator, and more &lpar;November 16, 2026&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-nitro-sandboxes-aws-emulator-and-more-november-16-2026/)
 - [Test your applications against AWS locally with AWS Emulator](https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/)
 - [AWS Weekly Roundup: AgentCore Runtime V2, Amazon DynamoDB bulk put items, and more &lpar;November 9, 2026&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentcore-runtime-v2-amazon-dynamodb-bulk-put-items-and-more-november-9-2026/)
 - [Amazon S3 Tables now offer managed migration of Apache Hive tables to Apache Iceberg](https://aws.amazon.com/blogs/aws/amazon-s3-tables-now-offer-managed-migration-of-apache-hive-tables-to-apache-iceberg/)
-- [AWS Weekly Roundup: GPT-6.1 Terra on Bedrock, Step Functions as agent tools, and more &lpar;November 2, 2026&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-gpt-6-1-terra-on-bedrock-step-functions-as-agent-tools-and-more-november-2-2026/)
 <!-- BLOG-POST-LIST:END -->  
 
 
