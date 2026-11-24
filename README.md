@@ -96,11 +96,11 @@
 
 ### AWS Blog Feed  
 <!-- BLOG-POST-LIST:START -->
+- [AWS Weekly Roundup: Local Zone in Bogotá, 30-minute Lambda timeout, and more &lpar;November 24, 2026&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-local-zone-in-bogota-30-minute-lambda-timeout-and-more-november-24-2026/)
 - [AWS Lambda now supports GPU instances for Event Functions on Lambda Managed Instances](https://aws.amazon.com/blogs/aws/aws-lambda-now-supports-gpu-instances-for-event-functions-on-lambda-managed-instances/)
 - [Four Continents, Four New AWS Heroes: Closing Out 2026](https://aws.amazon.com/blogs/aws/four-continents-four-new-aws-heroes-closing-out-2026/)
 - [AWS Weekly Roundup: AWS Nitro Sandboxes, AWS Emulator, and more &lpar;November 16, 2026&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-aws-nitro-sandboxes-aws-emulator-and-more-november-16-2026/)
 - [Test your applications against AWS locally with AWS Emulator](https://aws.amazon.com/blogs/aws/test-your-applications-against-aws-locally-with-aws-emulator/)
-- [AWS Weekly Roundup: AgentCore Runtime V2, Amazon DynamoDB bulk put items, and more &lpar;November 9, 2026&rpar;](https://aws.amazon.com/blogs/aws/aws-weekly-roundup-agentcore-runtime-v2-amazon-dynamodb-bulk-put-items-and-more-november-9-2026/)
 <!-- BLOG-POST-LIST:END -->  
 
 
